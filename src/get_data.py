@@ -43,8 +43,11 @@ clean_df = clean_df.rename(columns=
 clean_df["date"] = pd.to_datetime(clean_df["date"])
 clean_df["home_points"] = 0
 clean_df["away_points"] = 0
+clean_df["home_position"] = 0
+clean_df["away_position"] = 0
 
 points = {}
+positions = {}
 for index, match in clean_df.iterrows():
     homeTeam = match["home_team"]
     awayTeam = match["away_team"]
@@ -55,9 +58,24 @@ for index, match in clean_df.iterrows():
     
     if awayTeam not in points:
         points[awayTeam] = 0
+
     
     clean_df.loc[index, "home_points"] = points[homeTeam]
     clean_df.loc[index, "away_points"] = points[awayTeam]
+
+
+    sorted_teams = sorted(points.items(), key=lambda x: x[1], reverse=True)
+    
+    if match["matchday"] == 1:
+        clean_df.loc[index, "home_position"] = 0
+        clean_df.loc[index, "away_position"] = 0
+    else:
+        for position, (team, pts) in enumerate(sorted_teams):
+            positions[team] = position + 1
+        
+        clean_df.loc[index, "home_position"] = positions[homeTeam]
+        clean_df.loc[index, "away_position"] = positions[awayTeam]
+
 
     if winner == "HOME_TEAM":
         points[homeTeam] += 3
@@ -68,7 +86,3 @@ for index, match in clean_df.iterrows():
     elif winner == "DRAW":
         points[homeTeam] += 1
         points[awayTeam] += 1
-    
-
-
-
