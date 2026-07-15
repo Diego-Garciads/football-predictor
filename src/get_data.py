@@ -45,9 +45,12 @@ clean_df["home_points"] = 0
 clean_df["away_points"] = 0
 clean_df["home_position"] = 0
 clean_df["away_position"] = 0
+clean_df["home_form"] = ""
+clean_df["away_form"] = ""
 
 points = {}
 positions = {}
+form = {}
 for index, match in clean_df.iterrows():
     homeTeam = match["home_team"]
     awayTeam = match["away_team"]
@@ -58,8 +61,19 @@ for index, match in clean_df.iterrows():
     
     if awayTeam not in points:
         points[awayTeam] = 0
-
     
+    if homeTeam not in form:
+        form[homeTeam] = []
+    
+    if awayTeam not in form:
+        form[awayTeam] = []
+    
+    home_form = form[homeTeam][-5:]
+    away_form = form[awayTeam][-5:]
+
+    clean_df.loc[index, "home_form"] = str(home_form)
+    clean_df.loc[index, "away_form"] = str(away_form)
+
     clean_df.loc[index, "home_points"] = points[homeTeam]
     clean_df.loc[index, "away_points"] = points[awayTeam]
 
@@ -86,3 +100,15 @@ for index, match in clean_df.iterrows():
     elif winner == "DRAW":
         points[homeTeam] += 1
         points[awayTeam] += 1
+    
+    if winner == "HOME_TEAM":
+        form[homeTeam].append("W")
+        form[awayTeam].append("L")
+    
+    elif winner == "AWAY_TEAM":
+        form[homeTeam].append("L")
+        form[awayTeam].append("W")
+    
+    elif winner == "DRAW":
+        form[homeTeam].append("D")
+        form[awayTeam].append("D")
