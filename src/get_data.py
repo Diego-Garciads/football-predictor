@@ -47,10 +47,14 @@ clean_df["home_position"] = 0
 clean_df["away_position"] = 0
 clean_df["home_form"] = ""
 clean_df["away_form"] = ""
+clean_df["home_rest_days"] = 0
+clean_df["away_rest_days"] = 0
 
 points = {}
 positions = {}
 form = {}
+last_match = {}
+
 for index, match in clean_df.iterrows():
     homeTeam = match["home_team"]
     awayTeam = match["away_team"]
@@ -62,11 +66,30 @@ for index, match in clean_df.iterrows():
     if awayTeam not in points:
         points[awayTeam] = 0
     
+
     if homeTeam not in form:
         form[homeTeam] = []
     
     if awayTeam not in form:
         form[awayTeam] = []
+    
+
+    if homeTeam not in last_match:
+        last_match[homeTeam] = None
+    
+    if awayTeam not in last_match:
+        last_match[awayTeam] = None
+    
+    if last_match[homeTeam] is None:
+        home_rest_days = 0
+    else:
+        home_rest_days = (match["date"] - last_match[homeTeam]).days
+    
+    if last_match[awayTeam] is None:
+        away_rest_days = 0
+    else:
+        away_rest_days = (match["date"] - last_match[awayTeam]).days
+
     
     home_form = form[homeTeam][-5:]
     away_form = form[awayTeam][-5:]
@@ -76,6 +99,9 @@ for index, match in clean_df.iterrows():
 
     clean_df.loc[index, "home_points"] = points[homeTeam]
     clean_df.loc[index, "away_points"] = points[awayTeam]
+
+    clean_df.loc[index, "home_rest_days"] = home_rest_days
+    clean_df.loc[index, "away_rest_days"] = away_rest_days
 
 
     sorted_teams = sorted(points.items(), key=lambda x: x[1], reverse=True)
@@ -112,3 +138,6 @@ for index, match in clean_df.iterrows():
     elif winner == "DRAW":
         form[homeTeam].append("D")
         form[awayTeam].append("D")
+
+    last_match[homeTeam] = match["date"]
+    last_match[awayTeam] = match["date"]
