@@ -49,6 +49,7 @@ clean_df["home_form"] = ""
 clean_df["away_form"] = ""
 clean_df["home_rest_days"] = 0
 clean_df["away_rest_days"] = 0
+clean_df["last_h2h"] = ""
 
 points = {}
 positions = {}
@@ -59,6 +60,17 @@ for index, match in clean_df.iterrows():
     homeTeam = match["home_team"]
     awayTeam = match["away_team"]
     winner = match["winner"]
+    previous_matches = clean_df.iloc[:index][
+    (
+        (clean_df.iloc[:index]["home_team"] == homeTeam) &
+        (clean_df.iloc[:index]["away_team"] == awayTeam)
+    )
+    |
+    (
+        (clean_df.iloc[:index]["home_team"] == awayTeam) &
+        (clean_df.iloc[:index]["away_team"] == homeTeam)
+    )
+]
 
     if homeTeam not in points:
         points[homeTeam] = 0
@@ -115,6 +127,29 @@ for index, match in clean_df.iterrows():
         
         clean_df.loc[index, "home_position"] = positions[homeTeam]
         clean_df.loc[index, "away_position"] = positions[awayTeam]
+
+    last_h2h = previous_matches[-1:]
+    last_h2h_team = "NONE"
+    if len(last_h2h) > 0:
+        last_home_team = last_h2h["home_team"].iloc[0]
+        last_winner = last_h2h["winner"].iloc[0]
+    
+        if last_winner == "HOME_TEAM":
+            if last_home_team == homeTeam:
+                last_h2h_team = homeTeam
+            else:
+                last_h2h_team = awayTeam
+    
+        elif last_winner == "AWAY_TEAM":
+            if last_home_team == homeTeam:
+                last_h2h_team = awayTeam
+            else:
+                last_h2h_team = homeTeam
+    
+        elif last_winner == "DRAW":
+            last_h2h_team = "DRAW"
+    
+    clean_df.loc[index, "last_h2h"] = last_h2h_team
 
 
     if winner == "HOME_TEAM":
