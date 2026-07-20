@@ -50,11 +50,17 @@ clean_df["away_form"] = ""
 clean_df["home_rest_days"] = 0
 clean_df["away_rest_days"] = 0
 clean_df["last_h2h"] = ""
+clean_df["home_goals_scored"] = 0
+clean_df["away_goals_scored"] = 0
+clean_df["home_goals_conceded"] = 0
+clean_df["away_goals_conceded"] = 0
 
 points = {}
 positions = {}
 form = {}
 last_match = {}
+goals = {}
+goals_conceded = {}
 
 for index, match in clean_df.iterrows():
     homeTeam = match["home_team"]
@@ -102,6 +108,19 @@ for index, match in clean_df.iterrows():
     else:
         away_rest_days = (match["date"] - last_match[awayTeam]).days
 
+
+    if homeTeam not in goals:
+        goals[homeTeam] = 0
+    
+    if awayTeam not in goals:
+        goals[awayTeam] = 0
+
+    if homeTeam not in goals_conceded:
+        goals_conceded[homeTeam] = 0
+    
+    if awayTeam not in goals_conceded:
+        goals_conceded[awayTeam] = 0
+
     
     home_form = form[homeTeam][-5:]
     away_form = form[awayTeam][-5:]
@@ -114,6 +133,12 @@ for index, match in clean_df.iterrows():
 
     clean_df.loc[index, "home_rest_days"] = home_rest_days
     clean_df.loc[index, "away_rest_days"] = away_rest_days
+
+    clean_df.loc[index, "home_goals_scored"] = goals[homeTeam]
+    clean_df.loc[index, "away_goals_scored"] = goals[awayTeam]
+
+    clean_df.loc[index, "home_goals_conceded"] = goals_conceded[homeTeam]
+    clean_df.loc[index, "away_goals_conceded"] = goals_conceded[awayTeam]
 
 
     sorted_teams = sorted(points.items(), key=lambda x: x[1], reverse=True)
@@ -176,3 +201,9 @@ for index, match in clean_df.iterrows():
 
     last_match[homeTeam] = match["date"]
     last_match[awayTeam] = match["date"]
+
+    goals[homeTeam] += match["home_goals"]
+    goals[awayTeam] += match["away_goals"]
+
+    goals_conceded[homeTeam] += match["away_goals"]
+    goals_conceded[awayTeam] += match["home_goals"]
