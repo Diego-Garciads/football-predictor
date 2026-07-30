@@ -45,8 +45,6 @@ clean_df["home_points"] = 0
 clean_df["away_points"] = 0
 clean_df["home_position"] = 0
 clean_df["away_position"] = 0
-clean_df["home_form"] = ""
-clean_df["away_form"] = ""
 clean_df["home_rest_days"] = 0
 clean_df["away_rest_days"] = 0
 clean_df["last_h2h"] = ""
@@ -54,6 +52,8 @@ clean_df["home_goals_scored"] = 0
 clean_df["away_goals_scored"] = 0
 clean_df["home_goals_conceded"] = 0
 clean_df["away_goals_conceded"] = 0
+clean_df["home_form_points"] = 0
+clean_df["away_form_points"] = 0
 
 points = {}
 positions = {}
@@ -124,9 +124,6 @@ for index, match in clean_df.iterrows():
     
     home_form = form[homeTeam][-5:]
     away_form = form[awayTeam][-5:]
-
-    clean_df.loc[index, "home_form"] = str(home_form)
-    clean_df.loc[index, "away_form"] = str(away_form)
 
     clean_df.loc[index, "home_points"] = points[homeTeam]
     clean_df.loc[index, "away_points"] = points[awayTeam]
@@ -207,3 +204,24 @@ for index, match in clean_df.iterrows():
 
     goals_conceded[homeTeam] += match["away_goals"]
     goals_conceded[awayTeam] += match["home_goals"]
+
+    home_form_points = 0
+    away_form_points = 0
+
+    for result in home_form:
+        if result == "W":
+            home_form_points += 3
+
+        elif result == "D":
+            home_form_points += 1
+
+    for result in away_form:
+        if result == "W":
+            away_form_points += 3
+        
+        elif result == "D":
+            away_form_points += 1
+
+    clean_df.loc[index, "home_form_points"] = home_form_points
+    clean_df.loc[index, "away_form_points"] = away_form_points
+        
