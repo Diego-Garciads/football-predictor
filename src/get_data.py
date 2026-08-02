@@ -54,6 +54,8 @@ clean_df["home_goals_conceded"] = 0
 clean_df["away_goals_conceded"] = 0
 clean_df["home_form_points"] = 0
 clean_df["away_form_points"] = 0
+clean_df["home_goals_difference"] = 0
+clean_df["away_goals_difference"] = 0
 
 points = {}
 positions = {}
@@ -121,7 +123,13 @@ for index, match in clean_df.iterrows():
     if awayTeam not in goals_conceded:
         goals_conceded[awayTeam] = 0
 
-    
+    home_goals_difference = goals[homeTeam] - goals_conceded[homeTeam]
+    away_goals_difference = goals[awayTeam] - goals_conceded[awayTeam]
+
+    clean_df.loc[index, "home_goals_difference"] = home_goals_difference
+    clean_df.loc[index, "away_goals_difference"] = away_goals_difference
+
+
     home_form = form[homeTeam][-5:]
     away_form = form[awayTeam][-5:]
 
