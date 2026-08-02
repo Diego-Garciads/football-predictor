@@ -47,7 +47,7 @@ clean_df["home_position"] = 0
 clean_df["away_position"] = 0
 clean_df["home_rest_days"] = 0
 clean_df["away_rest_days"] = 0
-clean_df["last_h2h"] = ""
+clean_df["last_h2h"] = 0
 clean_df["home_goals_scored"] = 0
 clean_df["away_goals_scored"] = 0
 clean_df["home_goals_conceded"] = 0
@@ -159,25 +159,25 @@ for index, match in clean_df.iterrows():
         clean_df.loc[index, "away_position"] = positions[awayTeam]
 
     last_h2h = previous_matches[-1:]
-    last_h2h_team = "NONE"
+    last_h2h_team = 0
     if len(last_h2h) > 0:
         last_home_team = last_h2h["home_team"].iloc[0]
         last_winner = last_h2h["winner"].iloc[0]
     
         if last_winner == "HOME_TEAM":
             if last_home_team == homeTeam:
-                last_h2h_team = homeTeam
+                last_h2h_team = 1
             else:
-                last_h2h_team = awayTeam
+                last_h2h_team = -1
     
         elif last_winner == "AWAY_TEAM":
             if last_home_team == homeTeam:
-                last_h2h_team = awayTeam
+                last_h2h_team = -1
             else:
-                last_h2h_team = homeTeam
+                last_h2h_team = 1
     
         elif last_winner == "DRAW":
-            last_h2h_team = "DRAW"
+            last_h2h_team = 0
     
     clean_df.loc[index, "last_h2h"] = last_h2h_team
 
