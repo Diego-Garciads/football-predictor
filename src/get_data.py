@@ -232,4 +232,26 @@ for index, match in clean_df.iterrows():
 
     clean_df.loc[index, "home_form_points"] = home_form_points
     clean_df.loc[index, "away_form_points"] = away_form_points
+
+
+X = clean_df[
+    [
+        "home_points",
+        "away_points",
+        "home_position",
+        "away_position",
+        "home_rest_days",
+        "away_rest_days",
+        "last_h2h",
+        "home_goals_scored",
+        "away_goals_scored",
+        "home_goals_conceded",
+        "away_goals_conceded",
+        "home_goals_difference",
+        "away_goals_difference",
+        "home_form_points",
+        "away_form_points"
+    ]
+]
         
+y = clean_df["winner"]
