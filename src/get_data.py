@@ -1,5 +1,7 @@
 import requests 
 import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, confusion_matrix
 
 API_KEY = "68c5618eae8249d7b235a8697253b1d1"
 
@@ -234,6 +236,31 @@ for index, match in clean_df.iterrows():
     clean_df.loc[index, "away_form_points"] = away_form_points
 
 
+
+clean_df["points_difference"] = (
+    clean_df["home_points"] - clean_df["away_points"]
+)
+
+clean_df["position_difference"] = (
+    clean_df["away_position"] - clean_df["home_position"]
+)
+
+clean_df["goals_difference_difference"] = (
+    clean_df["home_goals_difference"] -
+    clean_df["away_goals_difference"]
+)
+
+clean_df["form_difference"] = (
+    clean_df["home_form_points"] -
+    clean_df["away_form_points"]
+)
+
+clean_df["rest_difference"] = (
+    clean_df["home_rest_days"] -
+    clean_df["away_rest_days"]
+)
+
+
 X = clean_df[
     [
         "home_points",
@@ -250,8 +277,40 @@ X = clean_df[
         "home_goals_difference",
         "away_goals_difference",
         "home_form_points",
-        "away_form_points"
+        "away_form_points",
+        "points_difference",
+        "position_difference",
+        "goals_difference_difference",
+        "form_difference",
+        "rest_difference"
     ]
 ]
         
 y = clean_df["winner"]
+
+
+split = int(len(clean_df) * 0.8)
+
+X_train = X.iloc[:split]
+X_test = X.iloc[split:]
+y_train = y.iloc[:split]
+y_test = y.iloc[split:]
+
+
+model = RandomForestClassifier(
+    n_estimators=100,
+    random_state=42
+)
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+accuracy = accuracy_score(y_test, y_pred)
+
+print("Accuracy:", accuracy)
+
+importances = model.feature_importances_
+
+for feature, importance in zip(X.columns, importances):
+    print(feature, importance)
+
+
