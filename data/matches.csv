@@ -1,0 +1,1753 @@
+date,matchday,competition,home_team,away_team,winner,home_goals,away_goals
+2025-08-15 17:00:00+00:00,1,PD,Girona FC,Rayo Vallecano de Madrid,AWAY_TEAM,1,3
+2025-08-15 18:45:00+00:00,1,FL1,Stade Rennais FC 1901,Olympique de Marseille,HOME_TEAM,1,0
+2025-08-15 19:00:00+00:00,1,PL,Liverpool FC,AFC Bournemouth,HOME_TEAM,4,2
+2025-08-15 19:30:00+00:00,1,PD,Villarreal CF,Real Oviedo,HOME_TEAM,2,0
+2025-08-16 11:30:00+00:00,1,PL,Aston Villa FC,Newcastle United FC,DRAW,0,0
+2025-08-16 14:00:00+00:00,1,PL,Brighton & Hove Albion FC,Fulham FC,DRAW,1,1
+2025-08-16 14:00:00+00:00,1,PL,Sunderland AFC,West Ham United FC,HOME_TEAM,3,0
+2025-08-16 14:00:00+00:00,1,PL,Tottenham Hotspur FC,Burnley FC,HOME_TEAM,3,0
+2025-08-16 15:00:00+00:00,1,FL1,Racing Club de Lens,Olympique Lyonnais,AWAY_TEAM,0,1
+2025-08-16 16:30:00+00:00,1,PL,Wolverhampton Wanderers FC,Manchester City FC,AWAY_TEAM,0,4
+2025-08-16 17:00:00+00:00,1,FL1,AS Monaco FC,Le Havre AC,HOME_TEAM,3,1
+2025-08-16 17:30:00+00:00,1,PD,RCD Mallorca,FC Barcelona,AWAY_TEAM,0,3
+2025-08-16 19:05:00+00:00,1,FL1,OGC Nice,Toulouse FC,AWAY_TEAM,0,1
+2025-08-16 19:30:00+00:00,1,PD,Valencia CF,Real Sociedad de Fútbol,DRAW,1,1
+2025-08-16 19:30:00+00:00,1,PD,Deportivo Alavés,Levante UD,HOME_TEAM,2,1
+2025-08-17 13:00:00+00:00,1,PL,Chelsea FC,Crystal Palace FC,DRAW,0,0
+2025-08-17 13:00:00+00:00,1,PL,Nottingham Forest FC,Brentford FC,HOME_TEAM,3,1
+2025-08-17 13:00:00+00:00,1,FL1,Stade Brestois 29,Lille OSC,DRAW,3,3
+2025-08-17 15:00:00+00:00,1,PD,RC Celta de Vigo,Getafe CF,AWAY_TEAM,0,2
+2025-08-17 15:15:00+00:00,1,FL1,Angers SCO,Paris FC,HOME_TEAM,1,0
+2025-08-17 15:15:00+00:00,1,FL1,FC Metz,RC Strasbourg Alsace,AWAY_TEAM,0,1
+2025-08-17 15:15:00+00:00,1,FL1,AJ Auxerre,FC Lorient,HOME_TEAM,1,0
+2025-08-17 15:30:00+00:00,1,PL,Manchester United FC,Arsenal FC,AWAY_TEAM,0,1
+2025-08-17 17:30:00+00:00,1,PD,Athletic Club,Sevilla FC,HOME_TEAM,3,2
+2025-08-17 18:45:00+00:00,1,FL1,FC Nantes,Paris Saint-Germain FC,AWAY_TEAM,0,1
+2025-08-17 19:30:00+00:00,1,PD,RCD Espanyol de Barcelona,Club Atlético de Madrid,HOME_TEAM,2,1
+2025-08-18 19:00:00+00:00,1,PD,Elche CF,Real Betis Balompié,DRAW,1,1
+2025-08-18 19:00:00+00:00,1,PL,Leeds United FC,Everton FC,HOME_TEAM,1,0
+2025-08-19 19:00:00+00:00,1,PD,Real Madrid CF,CA Osasuna,HOME_TEAM,1,0
+2025-08-22 18:30:00+00:00,1,BL1,FC Bayern München,RB Leipzig,HOME_TEAM,6,0
+2025-08-22 18:45:00+00:00,2,FL1,Paris Saint-Germain FC,Angers SCO,HOME_TEAM,1,0
+2025-08-22 19:00:00+00:00,2,PL,West Ham United FC,Chelsea FC,AWAY_TEAM,1,5
+2025-08-22 19:30:00+00:00,2,PD,Real Betis Balompié,Deportivo Alavés,HOME_TEAM,1,0
+2025-08-23 11:30:00+00:00,2,PL,Manchester City FC,Tottenham Hotspur FC,AWAY_TEAM,0,2
+2025-08-23 13:30:00+00:00,1,BL1,Eintracht Frankfurt,SV Werder Bremen,HOME_TEAM,4,1
+2025-08-23 13:30:00+00:00,1,BL1,1. FC Heidenheim 1846,VfL Wolfsburg,AWAY_TEAM,1,3
+2025-08-23 13:30:00+00:00,1,BL1,1. FC Union Berlin,VfB Stuttgart,HOME_TEAM,2,1
+2025-08-23 13:30:00+00:00,1,BL1,SC Freiburg,FC Augsburg,AWAY_TEAM,1,3
+2025-08-23 13:30:00+00:00,1,BL1,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,AWAY_TEAM,1,2
+2025-08-23 14:00:00+00:00,2,PL,AFC Bournemouth,Wolverhampton Wanderers FC,HOME_TEAM,1,0
+2025-08-23 14:00:00+00:00,2,PL,Brentford FC,Aston Villa FC,HOME_TEAM,1,0
+2025-08-23 14:00:00+00:00,2,PL,Burnley FC,Sunderland AFC,HOME_TEAM,2,0
+2025-08-23 15:00:00+00:00,2,FL1,Olympique de Marseille,Paris FC,HOME_TEAM,5,2
+2025-08-23 15:00:00+00:00,2,PD,RCD Mallorca,RC Celta de Vigo,DRAW,1,1
+2025-08-23 16:30:00+00:00,1,BL1,FC St. Pauli 1910,Borussia Dortmund,DRAW,3,3
+2025-08-23 16:30:00+00:00,1,SA,US Sassuolo Calcio,SSC Napoli,AWAY_TEAM,0,2
+2025-08-23 16:30:00+00:00,1,SA,Genoa CFC,US Lecce,DRAW,0,0
+2025-08-23 16:30:00+00:00,2,PL,Arsenal FC,Leeds United FC,HOME_TEAM,5,0
+2025-08-23 17:00:00+00:00,2,FL1,OGC Nice,AJ Auxerre,HOME_TEAM,3,1
+2025-08-23 17:30:00+00:00,2,PD,Club Atlético de Madrid,Elche CF,DRAW,1,1
+2025-08-23 18:45:00+00:00,1,SA,AC Milan,US Cremonese,AWAY_TEAM,1,2
+2025-08-23 18:45:00+00:00,1,SA,AS Roma,Bologna FC 1909,HOME_TEAM,1,0
+2025-08-23 19:05:00+00:00,2,FL1,Olympique Lyonnais,FC Metz,HOME_TEAM,3,0
+2025-08-23 19:30:00+00:00,2,PD,Levante UD,FC Barcelona,AWAY_TEAM,2,3
+2025-08-24 13:00:00+00:00,2,FL1,FC Lorient,Stade Rennais FC 1901,HOME_TEAM,4,0
+2025-08-24 13:00:00+00:00,2,PL,Crystal Palace FC,Nottingham Forest FC,DRAW,1,1
+2025-08-24 13:00:00+00:00,2,PL,Everton FC,Brighton & Hove Albion FC,HOME_TEAM,2,0
+2025-08-24 13:30:00+00:00,1,BL1,1. FSV Mainz 05,1. FC Köln,AWAY_TEAM,0,1
+2025-08-24 15:00:00+00:00,2,PD,CA Osasuna,Valencia CF,HOME_TEAM,1,0
+2025-08-24 15:15:00+00:00,2,FL1,RC Strasbourg Alsace,FC Nantes,HOME_TEAM,1,0
+2025-08-24 15:15:00+00:00,2,FL1,Toulouse FC,Stade Brestois 29,HOME_TEAM,2,0
+2025-08-24 15:15:00+00:00,2,FL1,Le Havre AC,Racing Club de Lens,AWAY_TEAM,1,2
+2025-08-24 15:30:00+00:00,1,BL1,Borussia Mönchengladbach,Hamburger SV,DRAW,0,0
+2025-08-24 15:30:00+00:00,2,PL,Fulham FC,Manchester United FC,DRAW,1,1
+2025-08-24 16:30:00+00:00,1,SA,Como 1907,SS Lazio,HOME_TEAM,2,0
+2025-08-24 16:30:00+00:00,1,SA,Cagliari Calcio,ACF Fiorentina,DRAW,1,1
+2025-08-24 17:30:00+00:00,2,PD,Villarreal CF,Girona FC,HOME_TEAM,5,0
+2025-08-24 17:30:00+00:00,2,PD,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,DRAW,2,2
+2025-08-24 18:45:00+00:00,2,FL1,Lille OSC,AS Monaco FC,HOME_TEAM,1,0
+2025-08-24 18:45:00+00:00,1,SA,Juventus FC,Parma Calcio 1913,HOME_TEAM,2,0
+2025-08-24 18:45:00+00:00,1,SA,Atalanta BC,AC Pisa 1909,DRAW,1,1
+2025-08-24 19:30:00+00:00,2,PD,Real Oviedo,Real Madrid CF,AWAY_TEAM,0,3
+2025-08-25 16:30:00+00:00,1,SA,Udinese Calcio,Hellas Verona FC,DRAW,1,1
+2025-08-25 17:30:00+00:00,2,PD,Athletic Club,Rayo Vallecano de Madrid,HOME_TEAM,1,0
+2025-08-25 18:45:00+00:00,1,SA,FC Internazionale Milano,Torino FC,HOME_TEAM,5,0
+2025-08-25 19:00:00+00:00,2,PL,Newcastle United FC,Liverpool FC,AWAY_TEAM,2,3
+2025-08-25 19:30:00+00:00,2,PD,Sevilla FC,Getafe CF,AWAY_TEAM,1,2
+2025-08-27 19:00:00+00:00,6,PD,RC Celta de Vigo,Real Betis Balompié,DRAW,1,1
+2025-08-29 16:30:00+00:00,2,SA,US Cremonese,US Sassuolo Calcio,HOME_TEAM,3,2
+2025-08-29 17:30:00+00:00,3,PD,Elche CF,Levante UD,HOME_TEAM,2,0
+2025-08-29 18:30:00+00:00,2,BL1,Hamburger SV,FC St. Pauli 1910,AWAY_TEAM,0,2
+2025-08-29 18:45:00+00:00,3,FL1,Racing Club de Lens,Stade Brestois 29,HOME_TEAM,3,1
+2025-08-29 18:45:00+00:00,2,SA,US Lecce,AC Milan,AWAY_TEAM,0,2
+2025-08-29 19:30:00+00:00,3,PD,Valencia CF,Getafe CF,HOME_TEAM,3,0
+2025-08-30 11:30:00+00:00,3,PL,Chelsea FC,Fulham FC,HOME_TEAM,2,0
+2025-08-30 13:30:00+00:00,2,BL1,SV Werder Bremen,Bayer 04 Leverkusen,DRAW,3,3
+2025-08-30 13:30:00+00:00,2,BL1,TSG 1899 Hoffenheim,Eintracht Frankfurt,AWAY_TEAM,1,3
+2025-08-30 13:30:00+00:00,2,BL1,RB Leipzig,1. FC Heidenheim 1846,HOME_TEAM,2,0
+2025-08-30 13:30:00+00:00,2,BL1,VfB Stuttgart,Borussia Mönchengladbach,HOME_TEAM,1,0
+2025-08-30 14:00:00+00:00,3,PL,Tottenham Hotspur FC,AFC Bournemouth,AWAY_TEAM,0,1
+2025-08-30 14:00:00+00:00,3,PL,Manchester United FC,Burnley FC,HOME_TEAM,3,2
+2025-08-30 14:00:00+00:00,3,PL,Sunderland AFC,Brentford FC,HOME_TEAM,2,1
+2025-08-30 14:00:00+00:00,3,PL,Wolverhampton Wanderers FC,Everton FC,AWAY_TEAM,2,3
+2025-08-30 15:00:00+00:00,3,PD,Deportivo Alavés,Club Atlético de Madrid,DRAW,1,1
+2025-08-30 15:00:00+00:00,3,FL1,FC Lorient,Lille OSC,AWAY_TEAM,1,7
+2025-08-30 16:30:00+00:00,2,SA,Bologna FC 1909,Como 1907,HOME_TEAM,1,0
+2025-08-30 16:30:00+00:00,2,SA,Parma Calcio 1913,Atalanta BC,DRAW,1,1
+2025-08-30 16:30:00+00:00,3,PL,Leeds United FC,Newcastle United FC,DRAW,0,0
+2025-08-30 16:30:00+00:00,2,BL1,FC Augsburg,FC Bayern München,AWAY_TEAM,2,3
+2025-08-30 17:00:00+00:00,3,FL1,FC Nantes,AJ Auxerre,HOME_TEAM,1,0
+2025-08-30 17:00:00+00:00,3,PD,Real Oviedo,Real Sociedad de Fútbol,HOME_TEAM,1,0
+2025-08-30 17:30:00+00:00,3,PD,Girona FC,Sevilla FC,AWAY_TEAM,0,2
+2025-08-30 18:45:00+00:00,2,SA,AC Pisa 1909,AS Roma,AWAY_TEAM,0,1
+2025-08-30 18:45:00+00:00,2,SA,SSC Napoli,Cagliari Calcio,HOME_TEAM,1,0
+2025-08-30 19:05:00+00:00,3,FL1,Toulouse FC,Paris Saint-Germain FC,AWAY_TEAM,3,6
+2025-08-30 19:30:00+00:00,3,PD,Real Madrid CF,RCD Mallorca,HOME_TEAM,2,1
+2025-08-31 13:00:00+00:00,3,PL,Brighton & Hove Albion FC,Manchester City FC,HOME_TEAM,2,1
+2025-08-31 13:00:00+00:00,3,PL,Nottingham Forest FC,West Ham United FC,AWAY_TEAM,0,3
+2025-08-31 13:00:00+00:00,3,FL1,Angers SCO,Stade Rennais FC 1901,DRAW,1,1
+2025-08-31 13:30:00+00:00,2,BL1,VfL Wolfsburg,1. FSV Mainz 05,DRAW,1,1
+2025-08-31 15:00:00+00:00,3,PD,RC Celta de Vigo,Villarreal CF,DRAW,1,1
+2025-08-31 15:15:00+00:00,3,FL1,Le Havre AC,OGC Nice,HOME_TEAM,3,1
+2025-08-31 15:15:00+00:00,3,FL1,AS Monaco FC,RC Strasbourg Alsace,HOME_TEAM,3,2
+2025-08-31 15:15:00+00:00,3,FL1,Paris FC,FC Metz,HOME_TEAM,3,2
+2025-08-31 15:30:00+00:00,2,BL1,Borussia Dortmund,1. FC Union Berlin,HOME_TEAM,3,0
+2025-08-31 15:30:00+00:00,3,PL,Liverpool FC,Arsenal FC,HOME_TEAM,1,0
+2025-08-31 16:30:00+00:00,2,SA,Genoa CFC,Juventus FC,AWAY_TEAM,0,1
+2025-08-31 16:30:00+00:00,2,SA,Torino FC,ACF Fiorentina,DRAW,0,0
+2025-08-31 17:00:00+00:00,3,PD,Real Betis Balompié,Athletic Club,AWAY_TEAM,1,2
+2025-08-31 17:30:00+00:00,3,PD,RCD Espanyol de Barcelona,CA Osasuna,HOME_TEAM,1,0
+2025-08-31 17:30:00+00:00,2,BL1,1. FC Köln,SC Freiburg,HOME_TEAM,4,1
+2025-08-31 18:00:00+00:00,3,PL,Aston Villa FC,Crystal Palace FC,AWAY_TEAM,0,3
+2025-08-31 18:45:00+00:00,2,SA,FC Internazionale Milano,Udinese Calcio,AWAY_TEAM,1,2
+2025-08-31 18:45:00+00:00,2,SA,SS Lazio,Hellas Verona FC,HOME_TEAM,4,0
+2025-08-31 18:45:00+00:00,3,FL1,Olympique Lyonnais,Olympique de Marseille,HOME_TEAM,1,0
+2025-08-31 19:30:00+00:00,3,PD,Rayo Vallecano de Madrid,FC Barcelona,DRAW,1,1
+2025-09-12 18:30:00+00:00,3,BL1,Bayer 04 Leverkusen,Eintracht Frankfurt,HOME_TEAM,3,1
+2025-09-12 18:45:00+00:00,4,FL1,Olympique de Marseille,FC Lorient,HOME_TEAM,4,0
+2025-09-12 19:00:00+00:00,4,PD,Sevilla FC,Elche CF,DRAW,2,2
+2025-09-13 11:30:00+00:00,4,PL,Arsenal FC,Nottingham Forest FC,HOME_TEAM,3,0
+2025-09-13 12:00:00+00:00,4,PD,Getafe CF,Real Oviedo,HOME_TEAM,2,0
+2025-09-13 13:00:00+00:00,3,SA,Cagliari Calcio,Parma Calcio 1913,HOME_TEAM,2,0
+2025-09-13 13:30:00+00:00,3,BL1,SC Freiburg,VfB Stuttgart,HOME_TEAM,3,1
+2025-09-13 13:30:00+00:00,3,BL1,1. FSV Mainz 05,RB Leipzig,AWAY_TEAM,0,1
+2025-09-13 13:30:00+00:00,3,BL1,VfL Wolfsburg,1. FC Köln,DRAW,3,3
+2025-09-13 13:30:00+00:00,3,BL1,1. FC Union Berlin,TSG 1899 Hoffenheim,AWAY_TEAM,2,4
+2025-09-13 13:30:00+00:00,3,BL1,1. FC Heidenheim 1846,Borussia Dortmund,AWAY_TEAM,0,2
+2025-09-13 14:00:00+00:00,4,PL,Fulham FC,Leeds United FC,HOME_TEAM,1,0
+2025-09-13 14:00:00+00:00,4,PL,Newcastle United FC,Wolverhampton Wanderers FC,HOME_TEAM,1,0
+2025-09-13 14:00:00+00:00,4,PL,Crystal Palace FC,Sunderland AFC,DRAW,0,0
+2025-09-13 14:00:00+00:00,4,PL,AFC Bournemouth,Brighton & Hove Albion FC,HOME_TEAM,2,1
+2025-09-13 14:00:00+00:00,4,PL,Everton FC,Aston Villa FC,DRAW,0,0
+2025-09-13 14:15:00+00:00,4,PD,Real Sociedad de Fútbol,Real Madrid CF,AWAY_TEAM,1,2
+2025-09-13 15:00:00+00:00,4,FL1,OGC Nice,FC Nantes,HOME_TEAM,1,0
+2025-09-13 16:00:00+00:00,3,SA,Juventus FC,FC Internazionale Milano,HOME_TEAM,4,3
+2025-09-13 16:30:00+00:00,4,PD,Athletic Club,Deportivo Alavés,AWAY_TEAM,0,1
+2025-09-13 16:30:00+00:00,3,BL1,FC Bayern München,Hamburger SV,HOME_TEAM,5,0
+2025-09-13 16:30:00+00:00,4,PL,West Ham United FC,Tottenham Hotspur FC,AWAY_TEAM,0,3
+2025-09-13 18:45:00+00:00,3,SA,ACF Fiorentina,SSC Napoli,AWAY_TEAM,1,3
+2025-09-13 19:00:00+00:00,4,PD,Club Atlético de Madrid,Villarreal CF,HOME_TEAM,2,0
+2025-09-13 19:00:00+00:00,4,PL,Brentford FC,Chelsea FC,DRAW,2,2
+2025-09-13 19:05:00+00:00,4,FL1,AJ Auxerre,AS Monaco FC,AWAY_TEAM,1,2
+2025-09-14 10:30:00+00:00,3,SA,AS Roma,Torino FC,AWAY_TEAM,0,1
+2025-09-14 12:00:00+00:00,4,PD,RC Celta de Vigo,Girona FC,DRAW,1,1
+2025-09-14 13:00:00+00:00,3,SA,AC Pisa 1909,Udinese Calcio,AWAY_TEAM,0,1
+2025-09-14 13:00:00+00:00,3,SA,Atalanta BC,US Lecce,HOME_TEAM,4,1
+2025-09-14 13:00:00+00:00,4,PL,Burnley FC,Liverpool FC,AWAY_TEAM,0,1
+2025-09-14 13:00:00+00:00,4,FL1,Lille OSC,Toulouse FC,HOME_TEAM,2,1
+2025-09-14 13:30:00+00:00,3,BL1,FC St. Pauli 1910,FC Augsburg,HOME_TEAM,2,1
+2025-09-14 14:15:00+00:00,4,PD,Levante UD,Real Betis Balompié,DRAW,2,2
+2025-09-14 15:15:00+00:00,4,FL1,FC Metz,Angers SCO,DRAW,1,1
+2025-09-14 15:15:00+00:00,4,FL1,Paris Saint-Germain FC,Racing Club de Lens,HOME_TEAM,2,0
+2025-09-14 15:15:00+00:00,4,FL1,RC Strasbourg Alsace,Le Havre AC,HOME_TEAM,1,0
+2025-09-14 15:15:00+00:00,4,FL1,Stade Brestois 29,Paris FC,AWAY_TEAM,1,2
+2025-09-14 15:30:00+00:00,4,PL,Manchester City FC,Manchester United FC,HOME_TEAM,3,0
+2025-09-14 15:30:00+00:00,3,BL1,Borussia Mönchengladbach,SV Werder Bremen,AWAY_TEAM,0,4
+2025-09-14 16:00:00+00:00,3,SA,US Sassuolo Calcio,SS Lazio,HOME_TEAM,1,0
+2025-09-14 16:30:00+00:00,4,PD,CA Osasuna,Rayo Vallecano de Madrid,HOME_TEAM,2,0
+2025-09-14 18:45:00+00:00,3,SA,AC Milan,Bologna FC 1909,HOME_TEAM,1,0
+2025-09-14 18:45:00+00:00,4,FL1,Stade Rennais FC 1901,Olympique Lyonnais,HOME_TEAM,3,1
+2025-09-14 19:00:00+00:00,4,PD,FC Barcelona,Valencia CF,HOME_TEAM,6,0
+2025-09-15 16:30:00+00:00,3,SA,Hellas Verona FC,US Cremonese,DRAW,0,0
+2025-09-15 18:45:00+00:00,3,SA,Como 1907,Genoa CFC,DRAW,1,1
+2025-09-15 19:00:00+00:00,4,PD,RCD Espanyol de Barcelona,RCD Mallorca,HOME_TEAM,3,2
+2025-09-19 18:30:00+00:00,4,BL1,VfB Stuttgart,FC St. Pauli 1910,HOME_TEAM,2,0
+2025-09-19 18:45:00+00:00,4,SA,US Lecce,Cagliari Calcio,AWAY_TEAM,1,2
+2025-09-19 18:45:00+00:00,5,FL1,Olympique Lyonnais,Angers SCO,HOME_TEAM,1,0
+2025-09-19 19:00:00+00:00,5,PD,Real Betis Balompié,Real Sociedad de Fútbol,HOME_TEAM,3,1
+2025-09-20 11:30:00+00:00,5,PL,Liverpool FC,Everton FC,HOME_TEAM,2,1
+2025-09-20 12:00:00+00:00,5,PD,Girona FC,Levante UD,AWAY_TEAM,0,4
+2025-09-20 13:00:00+00:00,4,SA,Bologna FC 1909,Genoa CFC,HOME_TEAM,2,1
+2025-09-20 13:30:00+00:00,4,BL1,SV Werder Bremen,SC Freiburg,AWAY_TEAM,0,3
+2025-09-20 13:30:00+00:00,4,BL1,FC Augsburg,1. FSV Mainz 05,AWAY_TEAM,1,4
+2025-09-20 13:30:00+00:00,4,BL1,TSG 1899 Hoffenheim,FC Bayern München,AWAY_TEAM,1,4
+2025-09-20 13:30:00+00:00,4,BL1,Hamburger SV,1. FC Heidenheim 1846,HOME_TEAM,2,1
+2025-09-20 14:00:00+00:00,5,PL,Burnley FC,Nottingham Forest FC,DRAW,1,1
+2025-09-20 14:00:00+00:00,5,PL,Brighton & Hove Albion FC,Tottenham Hotspur FC,DRAW,2,2
+2025-09-20 14:00:00+00:00,5,PL,Wolverhampton Wanderers FC,Leeds United FC,AWAY_TEAM,1,3
+2025-09-20 14:00:00+00:00,5,PL,West Ham United FC,Crystal Palace FC,AWAY_TEAM,1,2
+2025-09-20 14:15:00+00:00,5,PD,Real Madrid CF,RCD Espanyol de Barcelona,HOME_TEAM,2,0
+2025-09-20 15:00:00+00:00,5,FL1,FC Nantes,Stade Rennais FC 1901,DRAW,2,2
+2025-09-20 16:00:00+00:00,4,SA,Hellas Verona FC,Juventus FC,DRAW,1,1
+2025-09-20 16:30:00+00:00,5,PD,Deportivo Alavés,Sevilla FC,AWAY_TEAM,1,2
+2025-09-20 16:30:00+00:00,5,PD,Villarreal CF,CA Osasuna,HOME_TEAM,2,1
+2025-09-20 16:30:00+00:00,5,PL,Manchester United FC,Chelsea FC,HOME_TEAM,2,1
+2025-09-20 16:30:00+00:00,4,BL1,RB Leipzig,1. FC Köln,HOME_TEAM,3,1
+2025-09-20 17:00:00+00:00,5,FL1,Stade Brestois 29,OGC Nice,HOME_TEAM,4,1
+2025-09-20 18:45:00+00:00,4,SA,Udinese Calcio,AC Milan,AWAY_TEAM,0,3
+2025-09-20 19:00:00+00:00,5,PL,Fulham FC,Brentford FC,HOME_TEAM,3,1
+2025-09-20 19:00:00+00:00,5,PD,Valencia CF,Athletic Club,HOME_TEAM,2,0
+2025-09-20 19:05:00+00:00,5,FL1,Racing Club de Lens,Lille OSC,HOME_TEAM,3,0
+2025-09-21 10:30:00+00:00,4,SA,SS Lazio,AS Roma,AWAY_TEAM,0,1
+2025-09-21 12:00:00+00:00,5,PD,Rayo Vallecano de Madrid,RC Celta de Vigo,DRAW,1,1
+2025-09-21 13:00:00+00:00,4,SA,US Cremonese,Parma Calcio 1913,DRAW,0,0
+2025-09-21 13:00:00+00:00,4,SA,Torino FC,Atalanta BC,AWAY_TEAM,0,3
+2025-09-21 13:00:00+00:00,5,FL1,Paris FC,RC Strasbourg Alsace,AWAY_TEAM,2,3
+2025-09-21 13:00:00+00:00,5,PL,Sunderland AFC,Aston Villa FC,DRAW,1,1
+2025-09-21 13:00:00+00:00,5,PL,AFC Bournemouth,Newcastle United FC,DRAW,0,0
+2025-09-21 13:30:00+00:00,4,BL1,Eintracht Frankfurt,1. FC Union Berlin,AWAY_TEAM,3,4
+2025-09-21 14:15:00+00:00,5,PD,RCD Mallorca,Club Atlético de Madrid,DRAW,1,1
+2025-09-21 15:15:00+00:00,5,FL1,Le Havre AC,FC Lorient,DRAW,1,1
+2025-09-21 15:15:00+00:00,5,FL1,AS Monaco FC,FC Metz,HOME_TEAM,5,2
+2025-09-21 15:15:00+00:00,5,FL1,AJ Auxerre,Toulouse FC,HOME_TEAM,1,0
+2025-09-21 15:30:00+00:00,4,BL1,Bayer 04 Leverkusen,Borussia Mönchengladbach,DRAW,1,1
+2025-09-21 15:30:00+00:00,5,PL,Arsenal FC,Manchester City FC,DRAW,1,1
+2025-09-21 16:00:00+00:00,4,SA,ACF Fiorentina,Como 1907,AWAY_TEAM,1,2
+2025-09-21 16:30:00+00:00,5,PD,Elche CF,Real Oviedo,HOME_TEAM,1,0
+2025-09-21 17:30:00+00:00,4,BL1,Borussia Dortmund,VfL Wolfsburg,HOME_TEAM,1,0
+2025-09-21 18:45:00+00:00,4,SA,FC Internazionale Milano,US Sassuolo Calcio,HOME_TEAM,2,1
+2025-09-21 19:00:00+00:00,5,PD,FC Barcelona,Getafe CF,HOME_TEAM,3,0
+2025-09-22 18:00:00+00:00,5,FL1,Olympique de Marseille,Paris Saint-Germain FC,HOME_TEAM,1,0
+2025-09-22 18:45:00+00:00,4,SA,SSC Napoli,AC Pisa 1909,HOME_TEAM,3,2
+2025-09-23 17:00:00+00:00,6,PD,RCD Espanyol de Barcelona,Valencia CF,DRAW,2,2
+2025-09-23 17:00:00+00:00,6,PD,Athletic Club,Girona FC,DRAW,1,1
+2025-09-23 19:30:00+00:00,6,PD,Sevilla FC,Villarreal CF,AWAY_TEAM,1,2
+2025-09-23 19:30:00+00:00,6,PD,Levante UD,Real Madrid CF,AWAY_TEAM,1,4
+2025-09-24 17:00:00+00:00,6,PD,Getafe CF,Deportivo Alavés,DRAW,1,1
+2025-09-24 19:30:00+00:00,6,PD,Real Sociedad de Fútbol,RCD Mallorca,HOME_TEAM,1,0
+2025-09-24 19:30:00+00:00,6,PD,Club Atlético de Madrid,Rayo Vallecano de Madrid,HOME_TEAM,3,2
+2025-09-25 17:30:00+00:00,6,PD,CA Osasuna,Elche CF,DRAW,1,1
+2025-09-25 19:30:00+00:00,6,PD,Real Oviedo,FC Barcelona,AWAY_TEAM,1,3
+2025-09-26 18:30:00+00:00,5,BL1,FC Bayern München,SV Werder Bremen,HOME_TEAM,4,0
+2025-09-26 18:45:00+00:00,6,FL1,RC Strasbourg Alsace,Olympique de Marseille,AWAY_TEAM,1,2
+2025-09-26 19:00:00+00:00,7,PD,Girona FC,RCD Espanyol de Barcelona,DRAW,0,0
+2025-09-27 11:30:00+00:00,6,PL,Brentford FC,Manchester United FC,HOME_TEAM,3,1
+2025-09-27 12:00:00+00:00,7,PD,Getafe CF,Levante UD,DRAW,1,1
+2025-09-27 13:00:00+00:00,5,SA,Como 1907,US Cremonese,DRAW,1,1
+2025-09-27 13:30:00+00:00,5,BL1,FC St. Pauli 1910,Bayer 04 Leverkusen,AWAY_TEAM,1,2
+2025-09-27 13:30:00+00:00,5,BL1,VfL Wolfsburg,RB Leipzig,AWAY_TEAM,0,1
+2025-09-27 13:30:00+00:00,5,BL1,1. FSV Mainz 05,Borussia Dortmund,AWAY_TEAM,0,2
+2025-09-27 13:30:00+00:00,5,BL1,1. FC Heidenheim 1846,FC Augsburg,HOME_TEAM,2,1
+2025-09-27 14:00:00+00:00,6,PL,Chelsea FC,Brighton & Hove Albion FC,AWAY_TEAM,1,3
+2025-09-27 14:00:00+00:00,6,PL,Manchester City FC,Burnley FC,HOME_TEAM,5,1
+2025-09-27 14:00:00+00:00,6,PL,Crystal Palace FC,Liverpool FC,HOME_TEAM,2,1
+2025-09-27 14:00:00+00:00,6,PL,Leeds United FC,AFC Bournemouth,DRAW,2,2
+2025-09-27 14:15:00+00:00,7,PD,Club Atlético de Madrid,Real Madrid CF,HOME_TEAM,5,2
+2025-09-27 15:00:00+00:00,6,FL1,FC Lorient,AS Monaco FC,HOME_TEAM,3,1
+2025-09-27 16:00:00+00:00,5,SA,Juventus FC,Atalanta BC,DRAW,1,1
+2025-09-27 16:30:00+00:00,5,BL1,Borussia Mönchengladbach,Eintracht Frankfurt,AWAY_TEAM,4,6
+2025-09-27 16:30:00+00:00,6,PL,Nottingham Forest FC,Sunderland AFC,AWAY_TEAM,0,1
+2025-09-27 16:30:00+00:00,7,PD,RCD Mallorca,Deportivo Alavés,HOME_TEAM,1,0
+2025-09-27 17:00:00+00:00,6,FL1,Toulouse FC,FC Nantes,DRAW,2,2
+2025-09-27 18:45:00+00:00,5,SA,Cagliari Calcio,FC Internazionale Milano,AWAY_TEAM,0,2
+2025-09-27 19:00:00+00:00,6,PL,Tottenham Hotspur FC,Wolverhampton Wanderers FC,DRAW,1,1
+2025-09-27 19:00:00+00:00,7,PD,Villarreal CF,Athletic Club,HOME_TEAM,1,0
+2025-09-27 19:05:00+00:00,6,FL1,Paris Saint-Germain FC,AJ Auxerre,HOME_TEAM,2,0
+2025-09-28 10:30:00+00:00,5,SA,US Sassuolo Calcio,Udinese Calcio,HOME_TEAM,3,1
+2025-09-28 12:00:00+00:00,7,PD,Rayo Vallecano de Madrid,Sevilla FC,AWAY_TEAM,0,1
+2025-09-28 13:00:00+00:00,6,PL,Aston Villa FC,Fulham FC,HOME_TEAM,3,1
+2025-09-28 13:00:00+00:00,5,SA,AS Roma,Hellas Verona FC,HOME_TEAM,2,0
+2025-09-28 13:00:00+00:00,5,SA,AC Pisa 1909,ACF Fiorentina,DRAW,0,0
+2025-09-28 13:00:00+00:00,6,FL1,OGC Nice,Paris FC,DRAW,1,1
+2025-09-28 13:30:00+00:00,5,BL1,SC Freiburg,TSG 1899 Hoffenheim,DRAW,1,1
+2025-09-28 14:15:00+00:00,7,PD,Elche CF,RC Celta de Vigo,HOME_TEAM,2,1
+2025-09-28 15:15:00+00:00,6,FL1,Lille OSC,Olympique Lyonnais,AWAY_TEAM,0,1
+2025-09-28 15:15:00+00:00,6,FL1,Angers SCO,Stade Brestois 29,AWAY_TEAM,0,2
+2025-09-28 15:15:00+00:00,6,FL1,FC Metz,Le Havre AC,DRAW,0,0
+2025-09-28 15:30:00+00:00,6,PL,Newcastle United FC,Arsenal FC,AWAY_TEAM,1,2
+2025-09-28 15:30:00+00:00,5,BL1,1. FC Köln,VfB Stuttgart,AWAY_TEAM,1,2
+2025-09-28 16:00:00+00:00,5,SA,US Lecce,Bologna FC 1909,DRAW,2,2
+2025-09-28 16:30:00+00:00,7,PD,FC Barcelona,Real Sociedad de Fútbol,HOME_TEAM,2,1
+2025-09-28 17:30:00+00:00,5,BL1,1. FC Union Berlin,Hamburger SV,DRAW,0,0
+2025-09-28 18:45:00+00:00,5,SA,AC Milan,SSC Napoli,HOME_TEAM,2,1
+2025-09-28 18:45:00+00:00,6,FL1,Stade Rennais FC 1901,Racing Club de Lens,DRAW,0,0
+2025-09-28 19:00:00+00:00,7,PD,Real Betis Balompié,CA Osasuna,HOME_TEAM,2,0
+2025-09-29 16:30:00+00:00,5,SA,Parma Calcio 1913,Torino FC,HOME_TEAM,2,1
+2025-09-29 18:45:00+00:00,5,SA,Genoa CFC,SS Lazio,AWAY_TEAM,0,3
+2025-09-29 19:00:00+00:00,6,PL,Everton FC,West Ham United FC,DRAW,1,1
+2025-09-30 18:00:00+00:00,7,PD,Valencia CF,Real Oviedo,AWAY_TEAM,1,2
+2025-10-03 18:30:00+00:00,6,BL1,TSG 1899 Hoffenheim,1. FC Köln,AWAY_TEAM,0,1
+2025-10-03 18:45:00+00:00,6,SA,Hellas Verona FC,US Sassuolo Calcio,AWAY_TEAM,0,1
+2025-10-03 18:45:00+00:00,7,FL1,Paris FC,FC Lorient,HOME_TEAM,2,0
+2025-10-03 19:00:00+00:00,8,PD,CA Osasuna,Getafe CF,HOME_TEAM,2,1
+2025-10-03 19:00:00+00:00,7,PL,AFC Bournemouth,Fulham FC,HOME_TEAM,3,1
+2025-10-04 11:30:00+00:00,7,PL,Leeds United FC,Tottenham Hotspur FC,AWAY_TEAM,1,2
+2025-10-04 12:00:00+00:00,8,PD,Real Oviedo,Levante UD,AWAY_TEAM,0,2
+2025-10-04 13:00:00+00:00,6,SA,Parma Calcio 1913,US Lecce,AWAY_TEAM,0,1
+2025-10-04 13:00:00+00:00,6,SA,SS Lazio,Torino FC,DRAW,3,3
+2025-10-04 13:30:00+00:00,6,BL1,Borussia Dortmund,RB Leipzig,DRAW,1,1
+2025-10-04 13:30:00+00:00,6,BL1,SV Werder Bremen,FC St. Pauli 1910,HOME_TEAM,1,0
+2025-10-04 13:30:00+00:00,6,BL1,FC Augsburg,VfL Wolfsburg,HOME_TEAM,3,1
+2025-10-04 13:30:00+00:00,6,BL1,Bayer 04 Leverkusen,1. FC Union Berlin,HOME_TEAM,2,0
+2025-10-04 14:00:00+00:00,7,PL,Manchester United FC,Sunderland AFC,HOME_TEAM,2,0
+2025-10-04 14:00:00+00:00,7,PL,Arsenal FC,West Ham United FC,HOME_TEAM,2,0
+2025-10-04 14:15:00+00:00,8,PD,Girona FC,Valencia CF,HOME_TEAM,2,1
+2025-10-04 15:00:00+00:00,7,FL1,FC Metz,Olympique de Marseille,AWAY_TEAM,0,3
+2025-10-04 16:00:00+00:00,6,SA,FC Internazionale Milano,US Cremonese,HOME_TEAM,4,1
+2025-10-04 16:30:00+00:00,8,PD,Athletic Club,RCD Mallorca,HOME_TEAM,2,1
+2025-10-04 16:30:00+00:00,6,BL1,Eintracht Frankfurt,FC Bayern München,AWAY_TEAM,0,3
+2025-10-04 16:30:00+00:00,7,PL,Chelsea FC,Liverpool FC,HOME_TEAM,2,1
+2025-10-04 17:00:00+00:00,7,FL1,Stade Brestois 29,FC Nantes,DRAW,0,0
+2025-10-04 18:45:00+00:00,6,SA,Atalanta BC,Como 1907,DRAW,1,1
+2025-10-04 19:00:00+00:00,8,PD,Real Madrid CF,Villarreal CF,HOME_TEAM,3,1
+2025-10-04 19:05:00+00:00,7,FL1,AJ Auxerre,Racing Club de Lens,AWAY_TEAM,1,2
+2025-10-05 10:30:00+00:00,6,SA,Udinese Calcio,Cagliari Calcio,DRAW,1,1
+2025-10-05 12:00:00+00:00,8,PD,Deportivo Alavés,Elche CF,HOME_TEAM,3,1
+2025-10-05 13:00:00+00:00,6,SA,ACF Fiorentina,AS Roma,AWAY_TEAM,1,2
+2025-10-05 13:00:00+00:00,7,FL1,Olympique Lyonnais,Toulouse FC,AWAY_TEAM,1,2
+2025-10-05 13:00:00+00:00,7,PL,Aston Villa FC,Burnley FC,HOME_TEAM,2,1
+2025-10-05 13:00:00+00:00,7,PL,Everton FC,Crystal Palace FC,HOME_TEAM,2,1
+2025-10-05 13:00:00+00:00,7,PL,Newcastle United FC,Nottingham Forest FC,HOME_TEAM,2,0
+2025-10-05 13:00:00+00:00,7,PL,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,DRAW,1,1
+2025-10-05 13:00:00+00:00,6,SA,Bologna FC 1909,AC Pisa 1909,HOME_TEAM,4,0
+2025-10-05 13:30:00+00:00,6,BL1,VfB Stuttgart,1. FC Heidenheim 1846,HOME_TEAM,1,0
+2025-10-05 14:15:00+00:00,8,PD,Sevilla FC,FC Barcelona,HOME_TEAM,4,1
+2025-10-05 15:15:00+00:00,7,FL1,RC Strasbourg Alsace,Angers SCO,HOME_TEAM,5,0
+2025-10-05 15:15:00+00:00,7,FL1,Le Havre AC,Stade Rennais FC 1901,DRAW,2,2
+2025-10-05 15:15:00+00:00,7,FL1,AS Monaco FC,OGC Nice,DRAW,2,2
+2025-10-05 15:30:00+00:00,7,PL,Brentford FC,Manchester City FC,AWAY_TEAM,0,1
+2025-10-05 15:30:00+00:00,6,BL1,Hamburger SV,1. FSV Mainz 05,HOME_TEAM,4,0
+2025-10-05 16:00:00+00:00,6,SA,SSC Napoli,Genoa CFC,HOME_TEAM,2,1
+2025-10-05 16:30:00+00:00,8,PD,RCD Espanyol de Barcelona,Real Betis Balompié,AWAY_TEAM,1,2
+2025-10-05 16:30:00+00:00,8,PD,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,AWAY_TEAM,0,1
+2025-10-05 17:30:00+00:00,6,BL1,Borussia Mönchengladbach,SC Freiburg,DRAW,0,0
+2025-10-05 18:45:00+00:00,7,FL1,Lille OSC,Paris Saint-Germain FC,DRAW,1,1
+2025-10-05 18:45:00+00:00,6,SA,Juventus FC,AC Milan,DRAW,0,0
+2025-10-05 19:00:00+00:00,8,PD,RC Celta de Vigo,Club Atlético de Madrid,DRAW,1,1
+2025-10-17 18:30:00+00:00,7,BL1,1. FC Union Berlin,Borussia Mönchengladbach,HOME_TEAM,3,1
+2025-10-17 18:45:00+00:00,8,FL1,Paris Saint-Germain FC,RC Strasbourg Alsace,DRAW,3,3
+2025-10-17 19:00:00+00:00,9,PD,Real Oviedo,RCD Espanyol de Barcelona,AWAY_TEAM,0,2
+2025-10-18 11:30:00+00:00,8,PL,Nottingham Forest FC,Chelsea FC,AWAY_TEAM,0,3
+2025-10-18 12:00:00+00:00,9,PD,Sevilla FC,RCD Mallorca,AWAY_TEAM,1,3
+2025-10-18 13:00:00+00:00,7,SA,AC Pisa 1909,Hellas Verona FC,DRAW,0,0
+2025-10-18 13:00:00+00:00,7,SA,US Lecce,US Sassuolo Calcio,DRAW,0,0
+2025-10-18 13:30:00+00:00,7,BL1,1. FC Köln,FC Augsburg,DRAW,1,1
+2025-10-18 13:30:00+00:00,7,BL1,VfL Wolfsburg,VfB Stuttgart,AWAY_TEAM,0,3
+2025-10-18 13:30:00+00:00,7,BL1,RB Leipzig,Hamburger SV,HOME_TEAM,2,1
+2025-10-18 13:30:00+00:00,7,BL1,1. FSV Mainz 05,Bayer 04 Leverkusen,AWAY_TEAM,3,4
+2025-10-18 13:30:00+00:00,7,BL1,1. FC Heidenheim 1846,SV Werder Bremen,DRAW,2,2
+2025-10-18 14:00:00+00:00,8,PL,Sunderland AFC,Wolverhampton Wanderers FC,HOME_TEAM,2,0
+2025-10-18 14:00:00+00:00,8,PL,Manchester City FC,Everton FC,HOME_TEAM,2,0
+2025-10-18 14:00:00+00:00,8,PL,Burnley FC,Leeds United FC,HOME_TEAM,2,0
+2025-10-18 14:00:00+00:00,8,PL,Crystal Palace FC,AFC Bournemouth,DRAW,3,3
+2025-10-18 14:00:00+00:00,8,PL,Brighton & Hove Albion FC,Newcastle United FC,HOME_TEAM,2,1
+2025-10-18 14:15:00+00:00,9,PD,FC Barcelona,Girona FC,HOME_TEAM,2,1
+2025-10-18 15:00:00+00:00,8,FL1,OGC Nice,Olympique Lyonnais,HOME_TEAM,3,2
+2025-10-18 16:00:00+00:00,7,SA,Torino FC,SSC Napoli,HOME_TEAM,1,0
+2025-10-18 16:30:00+00:00,7,BL1,FC Bayern München,Borussia Dortmund,HOME_TEAM,2,1
+2025-10-18 16:30:00+00:00,8,PL,Fulham FC,Arsenal FC,AWAY_TEAM,0,1
+2025-10-18 16:30:00+00:00,9,PD,Villarreal CF,Real Betis Balompié,DRAW,2,2
+2025-10-18 17:00:00+00:00,8,FL1,Angers SCO,AS Monaco FC,DRAW,1,1
+2025-10-18 18:45:00+00:00,7,SA,AS Roma,FC Internazionale Milano,AWAY_TEAM,0,1
+2025-10-18 19:00:00+00:00,9,PD,Club Atlético de Madrid,CA Osasuna,HOME_TEAM,1,0
+2025-10-18 19:05:00+00:00,8,FL1,Olympique de Marseille,Le Havre AC,HOME_TEAM,6,2
+2025-10-19 10:30:00+00:00,7,SA,Como 1907,Juventus FC,HOME_TEAM,2,0
+2025-10-19 12:00:00+00:00,9,PD,Elche CF,Athletic Club,DRAW,0,0
+2025-10-19 13:00:00+00:00,7,SA,Cagliari Calcio,Bologna FC 1909,AWAY_TEAM,0,2
+2025-10-19 13:00:00+00:00,8,PL,Tottenham Hotspur FC,Aston Villa FC,AWAY_TEAM,1,2
+2025-10-19 13:00:00+00:00,7,SA,Genoa CFC,Parma Calcio 1913,DRAW,0,0
+2025-10-19 13:00:00+00:00,8,FL1,Racing Club de Lens,Paris FC,HOME_TEAM,2,1
+2025-10-19 13:30:00+00:00,7,BL1,SC Freiburg,Eintracht Frankfurt,DRAW,2,2
+2025-10-19 14:15:00+00:00,9,PD,RC Celta de Vigo,Real Sociedad de Fútbol,DRAW,1,1
+2025-10-19 15:15:00+00:00,8,FL1,Stade Rennais FC 1901,AJ Auxerre,DRAW,2,2
+2025-10-19 15:15:00+00:00,8,FL1,FC Lorient,Stade Brestois 29,DRAW,3,3
+2025-10-19 15:15:00+00:00,8,FL1,Toulouse FC,FC Metz,HOME_TEAM,4,0
+2025-10-19 15:30:00+00:00,8,PL,Liverpool FC,Manchester United FC,AWAY_TEAM,1,2
+2025-10-19 15:30:00+00:00,7,BL1,FC St. Pauli 1910,TSG 1899 Hoffenheim,AWAY_TEAM,0,3
+2025-10-19 16:00:00+00:00,7,SA,Atalanta BC,SS Lazio,DRAW,0,0
+2025-10-19 16:30:00+00:00,9,PD,Levante UD,Rayo Vallecano de Madrid,AWAY_TEAM,0,3
+2025-10-19 18:45:00+00:00,8,FL1,FC Nantes,Lille OSC,AWAY_TEAM,0,2
+2025-10-19 18:45:00+00:00,7,SA,AC Milan,ACF Fiorentina,HOME_TEAM,2,1
+2025-10-19 19:00:00+00:00,9,PD,Getafe CF,Real Madrid CF,AWAY_TEAM,0,1
+2025-10-20 18:45:00+00:00,7,SA,US Cremonese,Udinese Calcio,DRAW,1,1
+2025-10-20 19:00:00+00:00,8,PL,West Ham United FC,Brentford FC,AWAY_TEAM,0,2
+2025-10-20 19:00:00+00:00,9,PD,Deportivo Alavés,Valencia CF,DRAW,0,0
+2025-10-24 18:30:00+00:00,8,BL1,SV Werder Bremen,1. FC Union Berlin,HOME_TEAM,1,0
+2025-10-24 18:45:00+00:00,8,SA,AC Milan,AC Pisa 1909,DRAW,2,2
+2025-10-24 18:45:00+00:00,9,FL1,Paris FC,FC Nantes,AWAY_TEAM,1,2
+2025-10-24 19:00:00+00:00,10,PD,Real Sociedad de Fútbol,Sevilla FC,HOME_TEAM,2,1
+2025-10-24 19:00:00+00:00,9,PL,Leeds United FC,West Ham United FC,HOME_TEAM,2,1
+2025-10-25 12:00:00+00:00,10,PD,Girona FC,Real Oviedo,DRAW,3,3
+2025-10-25 13:00:00+00:00,8,SA,Udinese Calcio,US Lecce,HOME_TEAM,3,2
+2025-10-25 13:00:00+00:00,8,SA,Parma Calcio 1913,Como 1907,DRAW,0,0
+2025-10-25 13:30:00+00:00,8,BL1,FC Augsburg,RB Leipzig,AWAY_TEAM,0,6
+2025-10-25 13:30:00+00:00,8,BL1,TSG 1899 Hoffenheim,1. FC Heidenheim 1846,HOME_TEAM,3,1
+2025-10-25 13:30:00+00:00,8,BL1,Hamburger SV,VfL Wolfsburg,AWAY_TEAM,0,1
+2025-10-25 13:30:00+00:00,8,BL1,Eintracht Frankfurt,FC St. Pauli 1910,HOME_TEAM,2,0
+2025-10-25 13:45:00+00:00,8,BL1,Borussia Mönchengladbach,FC Bayern München,AWAY_TEAM,0,3
+2025-10-25 14:00:00+00:00,9,PL,Newcastle United FC,Fulham FC,HOME_TEAM,2,1
+2025-10-25 14:00:00+00:00,9,PL,Chelsea FC,Sunderland AFC,AWAY_TEAM,1,2
+2025-10-25 14:15:00+00:00,10,PD,RCD Espanyol de Barcelona,Elche CF,HOME_TEAM,1,0
+2025-10-25 15:00:00+00:00,9,FL1,Stade Brestois 29,Paris Saint-Germain FC,AWAY_TEAM,0,3
+2025-10-25 16:00:00+00:00,8,SA,SSC Napoli,FC Internazionale Milano,HOME_TEAM,3,1
+2025-10-25 16:30:00+00:00,9,PL,Manchester United FC,Brighton & Hove Albion FC,HOME_TEAM,4,2
+2025-10-25 16:30:00+00:00,8,BL1,Borussia Dortmund,1. FC Köln,HOME_TEAM,1,0
+2025-10-25 16:30:00+00:00,10,PD,Athletic Club,Getafe CF,AWAY_TEAM,0,1
+2025-10-25 17:00:00+00:00,9,FL1,AS Monaco FC,Toulouse FC,HOME_TEAM,1,0
+2025-10-25 18:45:00+00:00,8,SA,US Cremonese,Atalanta BC,DRAW,1,1
+2025-10-25 19:00:00+00:00,9,PL,Brentford FC,Liverpool FC,HOME_TEAM,3,2
+2025-10-25 19:00:00+00:00,10,PD,Valencia CF,Villarreal CF,AWAY_TEAM,0,2
+2025-10-25 19:05:00+00:00,9,FL1,Racing Club de Lens,Olympique de Marseille,HOME_TEAM,2,1
+2025-10-26 11:30:00+00:00,8,SA,Torino FC,Genoa CFC,HOME_TEAM,2,1
+2025-10-26 13:00:00+00:00,10,PD,RCD Mallorca,Levante UD,DRAW,1,1
+2025-10-26 14:00:00+00:00,8,SA,US Sassuolo Calcio,AS Roma,AWAY_TEAM,0,1
+2025-10-26 14:00:00+00:00,9,FL1,Lille OSC,FC Metz,HOME_TEAM,6,1
+2025-10-26 14:00:00+00:00,8,SA,Hellas Verona FC,Cagliari Calcio,DRAW,2,2
+2025-10-26 14:00:00+00:00,9,PL,AFC Bournemouth,Nottingham Forest FC,HOME_TEAM,2,0
+2025-10-26 14:00:00+00:00,9,PL,Aston Villa FC,Manchester City FC,HOME_TEAM,1,0
+2025-10-26 14:00:00+00:00,9,PL,Arsenal FC,Crystal Palace FC,HOME_TEAM,1,0
+2025-10-26 14:00:00+00:00,9,PL,Wolverhampton Wanderers FC,Burnley FC,AWAY_TEAM,2,3
+2025-10-26 14:30:00+00:00,8,BL1,Bayer 04 Leverkusen,SC Freiburg,HOME_TEAM,2,0
+2025-10-26 15:15:00+00:00,10,PD,Real Madrid CF,FC Barcelona,HOME_TEAM,2,1
+2025-10-26 16:15:00+00:00,9,FL1,Stade Rennais FC 1901,OGC Nice,AWAY_TEAM,1,2
+2025-10-26 16:15:00+00:00,9,FL1,Angers SCO,FC Lorient,HOME_TEAM,2,0
+2025-10-26 16:15:00+00:00,9,FL1,AJ Auxerre,Le Havre AC,AWAY_TEAM,0,1
+2025-10-26 16:30:00+00:00,8,BL1,VfB Stuttgart,1. FSV Mainz 05,HOME_TEAM,2,1
+2025-10-26 16:30:00+00:00,9,PL,Everton FC,Tottenham Hotspur FC,AWAY_TEAM,0,3
+2025-10-26 17:00:00+00:00,8,SA,ACF Fiorentina,Bologna FC 1909,DRAW,2,2
+2025-10-26 17:30:00+00:00,10,PD,CA Osasuna,RC Celta de Vigo,AWAY_TEAM,2,3
+2025-10-26 19:45:00+00:00,9,FL1,Olympique Lyonnais,RC Strasbourg Alsace,HOME_TEAM,2,1
+2025-10-26 19:45:00+00:00,8,SA,SS Lazio,Juventus FC,HOME_TEAM,1,0
+2025-10-26 20:00:00+00:00,10,PD,Rayo Vallecano de Madrid,Deportivo Alavés,HOME_TEAM,1,0
+2025-10-27 20:00:00+00:00,10,PD,Real Betis Balompié,Club Atlético de Madrid,AWAY_TEAM,0,2
+2025-10-28 17:30:00+00:00,9,SA,US Lecce,SSC Napoli,AWAY_TEAM,0,1
+2025-10-28 19:45:00+00:00,9,SA,Atalanta BC,AC Milan,DRAW,1,1
+2025-10-29 17:30:00+00:00,9,SA,Como 1907,Hellas Verona FC,HOME_TEAM,3,1
+2025-10-29 17:30:00+00:00,9,SA,AS Roma,Parma Calcio 1913,HOME_TEAM,2,1
+2025-10-29 17:30:00+00:00,9,SA,Juventus FC,Udinese Calcio,HOME_TEAM,3,1
+2025-10-29 18:00:00+00:00,10,FL1,FC Metz,Racing Club de Lens,HOME_TEAM,2,0
+2025-10-29 18:00:00+00:00,10,FL1,OGC Nice,Lille OSC,HOME_TEAM,2,0
+2025-10-29 18:00:00+00:00,10,FL1,Le Havre AC,Stade Brestois 29,HOME_TEAM,1,0
+2025-10-29 18:00:00+00:00,10,FL1,FC Lorient,Paris Saint-Germain FC,DRAW,1,1
+2025-10-29 19:45:00+00:00,9,SA,Bologna FC 1909,Torino FC,DRAW,0,0
+2025-10-29 19:45:00+00:00,9,SA,FC Internazionale Milano,ACF Fiorentina,HOME_TEAM,3,0
+2025-10-29 19:45:00+00:00,9,SA,Genoa CFC,US Cremonese,AWAY_TEAM,0,2
+2025-10-29 20:05:00+00:00,10,FL1,FC Nantes,AS Monaco FC,AWAY_TEAM,3,5
+2025-10-29 20:05:00+00:00,10,FL1,Paris FC,Olympique Lyonnais,DRAW,3,3
+2025-10-29 20:05:00+00:00,10,FL1,Toulouse FC,Stade Rennais FC 1901,DRAW,2,2
+2025-10-29 20:05:00+00:00,10,FL1,Olympique de Marseille,Angers SCO,DRAW,2,2
+2025-10-29 20:05:00+00:00,10,FL1,RC Strasbourg Alsace,AJ Auxerre,HOME_TEAM,3,0
+2025-10-30 17:30:00+00:00,9,SA,Cagliari Calcio,US Sassuolo Calcio,AWAY_TEAM,1,2
+2025-10-30 19:45:00+00:00,9,SA,AC Pisa 1909,SS Lazio,DRAW,0,0
+2025-10-31 19:30:00+00:00,9,BL1,FC Augsburg,Borussia Dortmund,AWAY_TEAM,0,1
+2025-10-31 20:00:00+00:00,11,PD,Getafe CF,Girona FC,HOME_TEAM,2,1
+2025-11-01 13:00:00+00:00,11,PD,Villarreal CF,Rayo Vallecano de Madrid,HOME_TEAM,4,0
+2025-11-01 14:00:00+00:00,10,SA,Udinese Calcio,Atalanta BC,HOME_TEAM,1,0
+2025-11-01 14:30:00+00:00,9,BL1,FC St. Pauli 1910,Borussia Mönchengladbach,AWAY_TEAM,0,4
+2025-11-01 14:30:00+00:00,9,BL1,1. FSV Mainz 05,SV Werder Bremen,DRAW,1,1
+2025-11-01 14:30:00+00:00,9,BL1,RB Leipzig,VfB Stuttgart,HOME_TEAM,3,1
+2025-11-01 14:30:00+00:00,9,BL1,1. FC Heidenheim 1846,Eintracht Frankfurt,DRAW,1,1
+2025-11-01 14:30:00+00:00,9,BL1,1. FC Union Berlin,SC Freiburg,DRAW,0,0
+2025-11-01 15:00:00+00:00,10,PL,Crystal Palace FC,Brentford FC,HOME_TEAM,2,0
+2025-11-01 15:00:00+00:00,10,PL,Burnley FC,Arsenal FC,AWAY_TEAM,0,2
+2025-11-01 15:00:00+00:00,10,PL,Fulham FC,Wolverhampton Wanderers FC,HOME_TEAM,3,0
+2025-11-01 15:00:00+00:00,10,PL,Nottingham Forest FC,Manchester United FC,DRAW,2,2
+2025-11-01 15:00:00+00:00,10,PL,Brighton & Hove Albion FC,Leeds United FC,HOME_TEAM,3,0
+2025-11-01 15:15:00+00:00,11,PD,Club Atlético de Madrid,Sevilla FC,HOME_TEAM,3,0
+2025-11-01 16:00:00+00:00,11,FL1,Paris Saint-Germain FC,OGC Nice,HOME_TEAM,1,0
+2025-11-01 17:00:00+00:00,10,SA,SSC Napoli,Como 1907,DRAW,0,0
+2025-11-01 17:30:00+00:00,10,PL,Tottenham Hotspur FC,Chelsea FC,AWAY_TEAM,0,1
+2025-11-01 17:30:00+00:00,9,BL1,FC Bayern München,Bayer 04 Leverkusen,HOME_TEAM,3,0
+2025-11-01 17:30:00+00:00,11,PD,Real Sociedad de Fútbol,Athletic Club,HOME_TEAM,3,2
+2025-11-01 18:00:00+00:00,11,FL1,AS Monaco FC,Paris FC,AWAY_TEAM,0,1
+2025-11-01 19:45:00+00:00,10,SA,US Cremonese,Juventus FC,AWAY_TEAM,1,2
+2025-11-01 20:00:00+00:00,10,PL,Liverpool FC,Aston Villa FC,HOME_TEAM,2,0
+2025-11-01 20:00:00+00:00,11,PD,Real Madrid CF,Valencia CF,HOME_TEAM,4,0
+2025-11-01 20:05:00+00:00,11,FL1,AJ Auxerre,Olympique de Marseille,AWAY_TEAM,0,1
+2025-11-02 11:30:00+00:00,10,SA,Hellas Verona FC,FC Internazionale Milano,AWAY_TEAM,1,2
+2025-11-02 13:00:00+00:00,11,PD,Levante UD,RC Celta de Vigo,AWAY_TEAM,1,2
+2025-11-02 14:00:00+00:00,10,PL,West Ham United FC,Newcastle United FC,HOME_TEAM,3,1
+2025-11-02 14:00:00+00:00,10,SA,ACF Fiorentina,US Lecce,AWAY_TEAM,0,1
+2025-11-02 14:00:00+00:00,11,FL1,Stade Rennais FC 1901,RC Strasbourg Alsace,HOME_TEAM,4,1
+2025-11-02 14:00:00+00:00,10,SA,Torino FC,AC Pisa 1909,DRAW,2,2
+2025-11-02 14:30:00+00:00,9,BL1,1. FC Köln,Hamburger SV,HOME_TEAM,4,1
+2025-11-02 15:15:00+00:00,11,PD,Deportivo Alavés,RCD Espanyol de Barcelona,HOME_TEAM,2,1
+2025-11-02 16:15:00+00:00,11,FL1,Racing Club de Lens,FC Lorient,HOME_TEAM,3,0
+2025-11-02 16:15:00+00:00,11,FL1,Lille OSC,Angers SCO,HOME_TEAM,1,0
+2025-11-02 16:15:00+00:00,11,FL1,Toulouse FC,Le Havre AC,DRAW,0,0
+2025-11-02 16:15:00+00:00,11,FL1,FC Nantes,FC Metz,AWAY_TEAM,0,2
+2025-11-02 16:30:00+00:00,10,PL,Manchester City FC,AFC Bournemouth,HOME_TEAM,3,1
+2025-11-02 16:30:00+00:00,9,BL1,VfL Wolfsburg,TSG 1899 Hoffenheim,AWAY_TEAM,2,3
+2025-11-02 17:00:00+00:00,10,SA,Parma Calcio 1913,Bologna FC 1909,AWAY_TEAM,1,3
+2025-11-02 17:30:00+00:00,11,PD,FC Barcelona,Elche CF,HOME_TEAM,3,1
+2025-11-02 19:45:00+00:00,11,FL1,Stade Brestois 29,Olympique Lyonnais,DRAW,0,0
+2025-11-02 19:45:00+00:00,10,SA,AC Milan,AS Roma,HOME_TEAM,1,0
+2025-11-02 20:00:00+00:00,11,PD,Real Betis Balompié,RCD Mallorca,HOME_TEAM,3,0
+2025-11-03 17:30:00+00:00,10,SA,US Sassuolo Calcio,Genoa CFC,AWAY_TEAM,1,2
+2025-11-03 19:45:00+00:00,10,SA,SS Lazio,Cagliari Calcio,HOME_TEAM,2,0
+2025-11-03 20:00:00+00:00,10,PL,Sunderland AFC,Everton FC,DRAW,1,1
+2025-11-03 20:00:00+00:00,11,PD,Real Oviedo,CA Osasuna,DRAW,0,0
+2025-11-07 19:30:00+00:00,10,BL1,SV Werder Bremen,VfL Wolfsburg,HOME_TEAM,2,1
+2025-11-07 19:45:00+00:00,12,FL1,Paris FC,Stade Rennais FC 1901,AWAY_TEAM,0,1
+2025-11-07 19:45:00+00:00,11,SA,AC Pisa 1909,US Cremonese,HOME_TEAM,1,0
+2025-11-07 20:00:00+00:00,12,PD,Elche CF,Real Sociedad de Fútbol,DRAW,1,1
+2025-11-08 12:30:00+00:00,11,PL,Tottenham Hotspur FC,Manchester United FC,DRAW,2,2
+2025-11-08 13:00:00+00:00,12,PD,Girona FC,Deportivo Alavés,HOME_TEAM,1,0
+2025-11-08 14:00:00+00:00,11,SA,Como 1907,Cagliari Calcio,DRAW,0,0
+2025-11-08 14:00:00+00:00,11,SA,US Lecce,Hellas Verona FC,DRAW,0,0
+2025-11-08 14:30:00+00:00,10,BL1,TSG 1899 Hoffenheim,RB Leipzig,HOME_TEAM,3,1
+2025-11-08 14:30:00+00:00,10,BL1,Hamburger SV,Borussia Dortmund,DRAW,1,1
+2025-11-08 14:30:00+00:00,10,BL1,1. FC Union Berlin,FC Bayern München,DRAW,2,2
+2025-11-08 14:30:00+00:00,10,BL1,Bayer 04 Leverkusen,1. FC Heidenheim 1846,HOME_TEAM,6,0
+2025-11-08 15:00:00+00:00,11,PL,Everton FC,Fulham FC,HOME_TEAM,2,0
+2025-11-08 15:00:00+00:00,11,PL,West Ham United FC,Burnley FC,HOME_TEAM,3,2
+2025-11-08 15:15:00+00:00,12,PD,Sevilla FC,CA Osasuna,HOME_TEAM,1,0
+2025-11-08 16:00:00+00:00,12,FL1,Olympique de Marseille,Stade Brestois 29,HOME_TEAM,3,0
+2025-11-08 17:00:00+00:00,11,SA,Juventus FC,Torino FC,DRAW,0,0
+2025-11-08 17:30:00+00:00,10,BL1,Borussia Mönchengladbach,1. FC Köln,HOME_TEAM,3,1
+2025-11-08 17:30:00+00:00,12,PD,Club Atlético de Madrid,Levante UD,HOME_TEAM,3,1
+2025-11-08 17:30:00+00:00,11,PL,Sunderland AFC,Arsenal FC,DRAW,2,2
+2025-11-08 18:00:00+00:00,12,FL1,Le Havre AC,FC Nantes,DRAW,1,1
+2025-11-08 19:45:00+00:00,11,SA,Parma Calcio 1913,AC Milan,DRAW,2,2
+2025-11-08 20:00:00+00:00,12,PD,RCD Espanyol de Barcelona,Villarreal CF,AWAY_TEAM,0,2
+2025-11-08 20:00:00+00:00,11,PL,Chelsea FC,Wolverhampton Wanderers FC,HOME_TEAM,3,0
+2025-11-08 20:05:00+00:00,12,FL1,AS Monaco FC,Racing Club de Lens,AWAY_TEAM,1,4
+2025-11-09 11:30:00+00:00,11,SA,Atalanta BC,US Sassuolo Calcio,AWAY_TEAM,0,3
+2025-11-09 13:00:00+00:00,12,PD,Athletic Club,Real Oviedo,HOME_TEAM,1,0
+2025-11-09 14:00:00+00:00,12,FL1,FC Lorient,Toulouse FC,DRAW,1,1
+2025-11-09 14:00:00+00:00,11,PL,Nottingham Forest FC,Leeds United FC,HOME_TEAM,3,1
+2025-11-09 14:00:00+00:00,11,SA,Genoa CFC,ACF Fiorentina,DRAW,2,2
+2025-11-09 14:00:00+00:00,11,PL,Aston Villa FC,AFC Bournemouth,HOME_TEAM,4,0
+2025-11-09 14:00:00+00:00,11,PL,Crystal Palace FC,Brighton & Hove Albion FC,DRAW,0,0
+2025-11-09 14:00:00+00:00,11,PL,Brentford FC,Newcastle United FC,HOME_TEAM,3,1
+2025-11-09 14:00:00+00:00,11,SA,Bologna FC 1909,SSC Napoli,HOME_TEAM,2,0
+2025-11-09 14:30:00+00:00,10,BL1,SC Freiburg,FC St. Pauli 1910,HOME_TEAM,2,1
+2025-11-09 15:15:00+00:00,12,PD,Rayo Vallecano de Madrid,Real Madrid CF,DRAW,0,0
+2025-11-09 16:15:00+00:00,12,FL1,FC Metz,OGC Nice,HOME_TEAM,2,1
+2025-11-09 16:15:00+00:00,12,FL1,RC Strasbourg Alsace,Lille OSC,HOME_TEAM,2,0
+2025-11-09 16:15:00+00:00,12,FL1,Angers SCO,AJ Auxerre,HOME_TEAM,2,0
+2025-11-09 16:30:00+00:00,11,PL,Manchester City FC,Liverpool FC,HOME_TEAM,3,0
+2025-11-09 16:30:00+00:00,10,BL1,VfB Stuttgart,FC Augsburg,HOME_TEAM,3,2
+2025-11-09 17:00:00+00:00,11,SA,AS Roma,Udinese Calcio,HOME_TEAM,2,0
+2025-11-09 17:30:00+00:00,12,PD,Valencia CF,Real Betis Balompié,DRAW,1,1
+2025-11-09 17:30:00+00:00,12,PD,RCD Mallorca,Getafe CF,HOME_TEAM,1,0
+2025-11-09 18:30:00+00:00,10,BL1,Eintracht Frankfurt,1. FSV Mainz 05,HOME_TEAM,1,0
+2025-11-09 19:45:00+00:00,12,FL1,Olympique Lyonnais,Paris Saint-Germain FC,AWAY_TEAM,2,3
+2025-11-09 19:45:00+00:00,11,SA,FC Internazionale Milano,SS Lazio,HOME_TEAM,2,0
+2025-11-09 20:00:00+00:00,12,PD,RC Celta de Vigo,FC Barcelona,AWAY_TEAM,2,4
+2025-11-21 19:30:00+00:00,11,BL1,1. FSV Mainz 05,TSG 1899 Hoffenheim,DRAW,1,1
+2025-11-21 19:45:00+00:00,13,FL1,OGC Nice,Olympique de Marseille,AWAY_TEAM,1,5
+2025-11-21 20:00:00+00:00,13,PD,Valencia CF,Levante UD,HOME_TEAM,1,0
+2025-11-22 12:30:00+00:00,12,PL,Burnley FC,Chelsea FC,AWAY_TEAM,0,2
+2025-11-22 13:00:00+00:00,13,PD,Deportivo Alavés,RC Celta de Vigo,AWAY_TEAM,0,1
+2025-11-22 14:00:00+00:00,12,SA,Cagliari Calcio,Genoa CFC,DRAW,3,3
+2025-11-22 14:00:00+00:00,12,SA,Udinese Calcio,Bologna FC 1909,AWAY_TEAM,0,3
+2025-11-22 14:30:00+00:00,11,BL1,Borussia Dortmund,VfB Stuttgart,DRAW,3,3
+2025-11-22 14:30:00+00:00,11,BL1,VfL Wolfsburg,Bayer 04 Leverkusen,AWAY_TEAM,1,3
+2025-11-22 14:30:00+00:00,11,BL1,1. FC Heidenheim 1846,Borussia Mönchengladbach,AWAY_TEAM,0,3
+2025-11-22 14:30:00+00:00,11,BL1,FC Augsburg,Hamburger SV,HOME_TEAM,1,0
+2025-11-22 14:30:00+00:00,11,BL1,FC Bayern München,SC Freiburg,HOME_TEAM,6,2
+2025-11-22 15:00:00+00:00,12,PL,AFC Bournemouth,West Ham United FC,DRAW,2,2
+2025-11-22 15:00:00+00:00,12,PL,Brighton & Hove Albion FC,Brentford FC,HOME_TEAM,2,1
+2025-11-22 15:00:00+00:00,12,PL,Fulham FC,Sunderland AFC,HOME_TEAM,1,0
+2025-11-22 15:00:00+00:00,12,PL,Liverpool FC,Nottingham Forest FC,AWAY_TEAM,0,3
+2025-11-22 15:00:00+00:00,12,PL,Wolverhampton Wanderers FC,Crystal Palace FC,AWAY_TEAM,0,2
+2025-11-22 15:15:00+00:00,13,PD,FC Barcelona,Athletic Club,HOME_TEAM,4,0
+2025-11-22 16:00:00+00:00,13,FL1,Racing Club de Lens,RC Strasbourg Alsace,HOME_TEAM,1,0
+2025-11-22 17:00:00+00:00,12,SA,ACF Fiorentina,Juventus FC,DRAW,1,1
+2025-11-22 17:30:00+00:00,12,PL,Newcastle United FC,Manchester City FC,HOME_TEAM,2,1
+2025-11-22 17:30:00+00:00,11,BL1,1. FC Köln,Eintracht Frankfurt,AWAY_TEAM,3,4
+2025-11-22 17:30:00+00:00,13,PD,CA Osasuna,Real Sociedad de Fútbol,AWAY_TEAM,1,3
+2025-11-22 18:00:00+00:00,13,FL1,Stade Rennais FC 1901,AS Monaco FC,HOME_TEAM,4,1
+2025-11-22 19:45:00+00:00,12,SA,SSC Napoli,Atalanta BC,HOME_TEAM,3,1
+2025-11-22 20:00:00+00:00,13,PD,Villarreal CF,RCD Mallorca,HOME_TEAM,2,1
+2025-11-22 20:05:00+00:00,13,FL1,Paris Saint-Germain FC,Le Havre AC,HOME_TEAM,3,0
+2025-11-23 11:30:00+00:00,12,SA,Hellas Verona FC,Parma Calcio 1913,AWAY_TEAM,1,2
+2025-11-23 13:00:00+00:00,13,PD,Real Oviedo,Rayo Vallecano de Madrid,DRAW,0,0
+2025-11-23 14:00:00+00:00,12,PL,Leeds United FC,Aston Villa FC,AWAY_TEAM,1,2
+2025-11-23 14:00:00+00:00,13,FL1,AJ Auxerre,Olympique Lyonnais,DRAW,0,0
+2025-11-23 14:00:00+00:00,12,SA,US Cremonese,AS Roma,AWAY_TEAM,1,3
+2025-11-23 14:30:00+00:00,11,BL1,RB Leipzig,SV Werder Bremen,HOME_TEAM,2,0
+2025-11-23 15:15:00+00:00,13,PD,Real Betis Balompié,Girona FC,DRAW,1,1
+2025-11-23 16:15:00+00:00,13,FL1,Toulouse FC,Angers SCO,AWAY_TEAM,0,1
+2025-11-23 16:15:00+00:00,13,FL1,Stade Brestois 29,FC Metz,HOME_TEAM,3,2
+2025-11-23 16:15:00+00:00,13,FL1,FC Nantes,FC Lorient,DRAW,1,1
+2025-11-23 16:30:00+00:00,12,PL,Arsenal FC,Tottenham Hotspur FC,HOME_TEAM,4,1
+2025-11-23 16:30:00+00:00,11,BL1,FC St. Pauli 1910,1. FC Union Berlin,AWAY_TEAM,0,1
+2025-11-23 17:00:00+00:00,12,SA,SS Lazio,US Lecce,HOME_TEAM,2,0
+2025-11-23 17:30:00+00:00,13,PD,Getafe CF,Club Atlético de Madrid,AWAY_TEAM,0,1
+2025-11-23 19:45:00+00:00,13,FL1,Lille OSC,Paris FC,HOME_TEAM,4,2
+2025-11-23 19:45:00+00:00,12,SA,FC Internazionale Milano,AC Milan,AWAY_TEAM,0,1
+2025-11-23 20:00:00+00:00,13,PD,Elche CF,Real Madrid CF,DRAW,2,2
+2025-11-24 17:30:00+00:00,12,SA,Torino FC,Como 1907,AWAY_TEAM,1,5
+2025-11-24 19:45:00+00:00,12,SA,US Sassuolo Calcio,AC Pisa 1909,DRAW,2,2
+2025-11-24 20:00:00+00:00,13,PD,RCD Espanyol de Barcelona,Sevilla FC,HOME_TEAM,2,1
+2025-11-24 20:00:00+00:00,12,PL,Manchester United FC,Everton FC,AWAY_TEAM,0,1
+2025-11-28 19:30:00+00:00,12,BL1,Borussia Mönchengladbach,RB Leipzig,DRAW,0,0
+2025-11-28 19:45:00+00:00,14,FL1,FC Metz,Stade Rennais FC 1901,AWAY_TEAM,0,1
+2025-11-28 19:45:00+00:00,13,SA,Como 1907,US Sassuolo Calcio,HOME_TEAM,2,0
+2025-11-28 20:00:00+00:00,14,PD,Getafe CF,Elche CF,HOME_TEAM,1,0
+2025-11-29 13:00:00+00:00,14,PD,RCD Mallorca,CA Osasuna,DRAW,2,2
+2025-11-29 14:00:00+00:00,13,SA,Parma Calcio 1913,Udinese Calcio,AWAY_TEAM,0,2
+2025-11-29 14:00:00+00:00,13,SA,Genoa CFC,Hellas Verona FC,HOME_TEAM,2,1
+2025-11-29 14:30:00+00:00,12,BL1,FC Bayern München,FC St. Pauli 1910,HOME_TEAM,3,1
+2025-11-29 14:30:00+00:00,12,BL1,SV Werder Bremen,1. FC Köln,DRAW,1,1
+2025-11-29 14:30:00+00:00,12,BL1,1. FC Union Berlin,1. FC Heidenheim 1846,AWAY_TEAM,1,2
+2025-11-29 14:30:00+00:00,12,BL1,TSG 1899 Hoffenheim,FC Augsburg,HOME_TEAM,3,0
+2025-11-29 15:00:00+00:00,13,PL,Sunderland AFC,AFC Bournemouth,HOME_TEAM,3,2
+2025-11-29 15:00:00+00:00,13,PL,Brentford FC,Burnley FC,HOME_TEAM,3,1
+2025-11-29 15:00:00+00:00,13,PL,Manchester City FC,Leeds United FC,HOME_TEAM,3,2
+2025-11-29 15:15:00+00:00,14,PD,FC Barcelona,Deportivo Alavés,HOME_TEAM,3,1
+2025-11-29 16:00:00+00:00,14,FL1,AS Monaco FC,Paris Saint-Germain FC,HOME_TEAM,1,0
+2025-11-29 17:00:00+00:00,13,SA,Juventus FC,Cagliari Calcio,HOME_TEAM,2,1
+2025-11-29 17:30:00+00:00,14,PD,Levante UD,Athletic Club,AWAY_TEAM,0,2
+2025-11-29 17:30:00+00:00,13,PL,Everton FC,Newcastle United FC,AWAY_TEAM,1,4
+2025-11-29 17:30:00+00:00,12,BL1,Bayer 04 Leverkusen,Borussia Dortmund,AWAY_TEAM,1,2
+2025-11-29 18:00:00+00:00,14,FL1,Paris FC,AJ Auxerre,DRAW,1,1
+2025-11-29 19:45:00+00:00,13,SA,AC Milan,SS Lazio,HOME_TEAM,1,0
+2025-11-29 20:00:00+00:00,14,PD,Club Atlético de Madrid,Real Oviedo,HOME_TEAM,2,0
+2025-11-29 20:00:00+00:00,13,PL,Tottenham Hotspur FC,Fulham FC,AWAY_TEAM,1,2
+2025-11-29 20:05:00+00:00,14,FL1,Olympique de Marseille,Toulouse FC,DRAW,2,2
+2025-11-30 11:30:00+00:00,13,SA,US Lecce,Torino FC,HOME_TEAM,2,1
+2025-11-30 12:00:00+00:00,13,PL,Crystal Palace FC,Manchester United FC,AWAY_TEAM,1,2
+2025-11-30 13:00:00+00:00,14,PD,Real Sociedad de Fútbol,Villarreal CF,AWAY_TEAM,2,3
+2025-11-30 14:00:00+00:00,13,SA,AC Pisa 1909,FC Internazionale Milano,AWAY_TEAM,0,2
+2025-11-30 14:00:00+00:00,14,FL1,RC Strasbourg Alsace,Stade Brestois 29,AWAY_TEAM,1,2
+2025-11-30 14:05:00+00:00,13,PL,Aston Villa FC,Wolverhampton Wanderers FC,HOME_TEAM,1,0
+2025-11-30 14:05:00+00:00,13,PL,Nottingham Forest FC,Brighton & Hove Albion FC,AWAY_TEAM,0,2
+2025-11-30 14:05:00+00:00,13,PL,West Ham United FC,Liverpool FC,AWAY_TEAM,0,2
+2025-11-30 14:30:00+00:00,12,BL1,Hamburger SV,VfB Stuttgart,HOME_TEAM,2,1
+2025-11-30 15:15:00+00:00,14,PD,Sevilla FC,Real Betis Balompié,AWAY_TEAM,0,2
+2025-11-30 16:15:00+00:00,14,FL1,Le Havre AC,Lille OSC,AWAY_TEAM,0,1
+2025-11-30 16:15:00+00:00,14,FL1,FC Lorient,OGC Nice,HOME_TEAM,3,1
+2025-11-30 16:15:00+00:00,14,FL1,Angers SCO,Racing Club de Lens,AWAY_TEAM,1,2
+2025-11-30 16:30:00+00:00,13,PL,Chelsea FC,Arsenal FC,DRAW,1,1
+2025-11-30 16:30:00+00:00,12,BL1,Eintracht Frankfurt,VfL Wolfsburg,DRAW,1,1
+2025-11-30 17:00:00+00:00,13,SA,Atalanta BC,ACF Fiorentina,HOME_TEAM,2,0
+2025-11-30 17:30:00+00:00,14,PD,RC Celta de Vigo,RCD Espanyol de Barcelona,AWAY_TEAM,0,1
+2025-11-30 18:30:00+00:00,12,BL1,SC Freiburg,1. FSV Mainz 05,HOME_TEAM,4,0
+2025-11-30 19:45:00+00:00,14,FL1,Olympique Lyonnais,FC Nantes,HOME_TEAM,3,0
+2025-11-30 19:45:00+00:00,13,SA,AS Roma,SSC Napoli,AWAY_TEAM,0,1
+2025-11-30 20:00:00+00:00,14,PD,Girona FC,Real Madrid CF,DRAW,1,1
+2025-12-01 19:45:00+00:00,13,SA,Bologna FC 1909,US Cremonese,AWAY_TEAM,1,3
+2025-12-01 20:00:00+00:00,14,PD,Rayo Vallecano de Madrid,Valencia CF,DRAW,1,1
+2025-12-02 19:30:00+00:00,14,PL,Fulham FC,Manchester City FC,AWAY_TEAM,4,5
+2025-12-02 19:30:00+00:00,14,PL,AFC Bournemouth,Everton FC,AWAY_TEAM,0,1
+2025-12-02 20:00:00+00:00,19,PD,FC Barcelona,Club Atlético de Madrid,HOME_TEAM,3,1
+2025-12-02 20:15:00+00:00,14,PL,Newcastle United FC,Tottenham Hotspur FC,DRAW,2,2
+2025-12-03 18:00:00+00:00,19,PD,Athletic Club,Real Madrid CF,AWAY_TEAM,0,3
+2025-12-03 19:30:00+00:00,14,PL,Burnley FC,Crystal Palace FC,AWAY_TEAM,0,1
+2025-12-03 19:30:00+00:00,14,PL,Arsenal FC,Brentford FC,HOME_TEAM,2,0
+2025-12-03 19:30:00+00:00,14,PL,Brighton & Hove Albion FC,Aston Villa FC,AWAY_TEAM,3,4
+2025-12-03 19:30:00+00:00,14,PL,Wolverhampton Wanderers FC,Nottingham Forest FC,AWAY_TEAM,0,1
+2025-12-03 20:15:00+00:00,14,PL,Liverpool FC,Sunderland AFC,DRAW,1,1
+2025-12-03 20:15:00+00:00,14,PL,Leeds United FC,Chelsea FC,HOME_TEAM,3,1
+2025-12-04 20:00:00+00:00,14,PL,Manchester United FC,West Ham United FC,DRAW,1,1
+2025-12-05 18:00:00+00:00,15,FL1,Stade Brestois 29,AS Monaco FC,HOME_TEAM,1,0
+2025-12-05 19:30:00+00:00,13,BL1,1. FSV Mainz 05,Borussia Mönchengladbach,AWAY_TEAM,0,1
+2025-12-05 20:00:00+00:00,15,FL1,Lille OSC,Olympique de Marseille,HOME_TEAM,1,0
+2025-12-05 20:00:00+00:00,15,PD,Real Oviedo,RCD Mallorca,DRAW,0,0
+2025-12-06 12:30:00+00:00,15,PL,Aston Villa FC,Arsenal FC,HOME_TEAM,2,1
+2025-12-06 13:00:00+00:00,15,PD,Villarreal CF,Getafe CF,HOME_TEAM,2,0
+2025-12-06 14:00:00+00:00,14,SA,US Sassuolo Calcio,ACF Fiorentina,HOME_TEAM,3,1
+2025-12-06 14:30:00+00:00,13,BL1,FC Augsburg,Bayer 04 Leverkusen,HOME_TEAM,2,0
+2025-12-06 14:30:00+00:00,13,BL1,1. FC Heidenheim 1846,SC Freiburg,HOME_TEAM,2,1
+2025-12-06 14:30:00+00:00,13,BL1,VfL Wolfsburg,1. FC Union Berlin,HOME_TEAM,3,1
+2025-12-06 14:30:00+00:00,13,BL1,VfB Stuttgart,FC Bayern München,AWAY_TEAM,0,5
+2025-12-06 14:30:00+00:00,13,BL1,1. FC Köln,FC St. Pauli 1910,DRAW,1,1
+2025-12-06 15:00:00+00:00,15,PL,Manchester City FC,Sunderland AFC,HOME_TEAM,3,0
+2025-12-06 15:00:00+00:00,15,PL,Everton FC,Nottingham Forest FC,HOME_TEAM,3,0
+2025-12-06 15:00:00+00:00,15,PL,Newcastle United FC,Burnley FC,HOME_TEAM,2,1
+2025-12-06 15:00:00+00:00,15,PL,Tottenham Hotspur FC,Brentford FC,HOME_TEAM,2,0
+2025-12-06 15:00:00+00:00,15,PL,AFC Bournemouth,Chelsea FC,DRAW,0,0
+2025-12-06 15:15:00+00:00,15,PD,Deportivo Alavés,Real Sociedad de Fútbol,HOME_TEAM,1,0
+2025-12-06 16:00:00+00:00,15,FL1,FC Nantes,Racing Club de Lens,AWAY_TEAM,1,2
+2025-12-06 17:00:00+00:00,14,SA,FC Internazionale Milano,Como 1907,HOME_TEAM,4,0
+2025-12-06 17:30:00+00:00,15,PL,Leeds United FC,Liverpool FC,DRAW,3,3
+2025-12-06 17:30:00+00:00,13,BL1,RB Leipzig,Eintracht Frankfurt,HOME_TEAM,6,0
+2025-12-06 17:30:00+00:00,15,PD,Real Betis Balompié,FC Barcelona,AWAY_TEAM,3,5
+2025-12-06 18:00:00+00:00,15,FL1,Toulouse FC,RC Strasbourg Alsace,HOME_TEAM,1,0
+2025-12-06 19:45:00+00:00,14,SA,Hellas Verona FC,Atalanta BC,HOME_TEAM,3,1
+2025-12-06 20:00:00+00:00,15,PD,Athletic Club,Club Atlético de Madrid,HOME_TEAM,1,0
+2025-12-06 20:05:00+00:00,15,FL1,Paris Saint-Germain FC,Stade Rennais FC 1901,HOME_TEAM,5,0
+2025-12-07 11:30:00+00:00,14,SA,US Cremonese,US Lecce,HOME_TEAM,2,0
+2025-12-07 13:00:00+00:00,15,PD,Elche CF,Girona FC,HOME_TEAM,3,0
+2025-12-07 14:00:00+00:00,14,SA,Cagliari Calcio,AS Roma,HOME_TEAM,1,0
+2025-12-07 14:00:00+00:00,15,FL1,OGC Nice,Angers SCO,AWAY_TEAM,0,1
+2025-12-07 14:00:00+00:00,15,PL,Brighton & Hove Albion FC,West Ham United FC,DRAW,1,1
+2025-12-07 14:30:00+00:00,13,BL1,Hamburger SV,SV Werder Bremen,HOME_TEAM,3,2
+2025-12-07 15:15:00+00:00,15,PD,Valencia CF,Sevilla FC,DRAW,1,1
+2025-12-07 16:15:00+00:00,15,FL1,Le Havre AC,Paris FC,DRAW,0,0
+2025-12-07 16:15:00+00:00,15,FL1,AJ Auxerre,FC Metz,HOME_TEAM,3,1
+2025-12-07 16:30:00+00:00,13,BL1,Borussia Dortmund,TSG 1899 Hoffenheim,HOME_TEAM,2,0
+2025-12-07 16:30:00+00:00,15,PL,Fulham FC,Crystal Palace FC,AWAY_TEAM,1,2
+2025-12-07 17:00:00+00:00,14,SA,SS Lazio,Bologna FC 1909,DRAW,1,1
+2025-12-07 17:30:00+00:00,15,PD,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,HOME_TEAM,1,0
+2025-12-07 19:45:00+00:00,15,FL1,FC Lorient,Olympique Lyonnais,HOME_TEAM,1,0
+2025-12-07 19:45:00+00:00,14,SA,SSC Napoli,Juventus FC,HOME_TEAM,2,1
+2025-12-07 20:00:00+00:00,15,PD,Real Madrid CF,RC Celta de Vigo,AWAY_TEAM,0,2
+2025-12-08 14:00:00+00:00,14,SA,AC Pisa 1909,Parma Calcio 1913,AWAY_TEAM,0,1
+2025-12-08 17:00:00+00:00,14,SA,Udinese Calcio,Genoa CFC,AWAY_TEAM,1,2
+2025-12-08 19:45:00+00:00,14,SA,Torino FC,AC Milan,AWAY_TEAM,2,3
+2025-12-08 20:00:00+00:00,15,PL,Wolverhampton Wanderers FC,Manchester United FC,AWAY_TEAM,1,4
+2025-12-08 20:00:00+00:00,15,PD,CA Osasuna,Levante UD,HOME_TEAM,2,0
+2025-12-12 19:30:00+00:00,14,BL1,1. FC Union Berlin,RB Leipzig,HOME_TEAM,3,1
+2025-12-12 19:45:00+00:00,16,FL1,Angers SCO,FC Nantes,HOME_TEAM,4,1
+2025-12-12 19:45:00+00:00,15,SA,US Lecce,AC Pisa 1909,HOME_TEAM,1,0
+2025-12-12 20:00:00+00:00,16,PD,Real Sociedad de Fútbol,Girona FC,AWAY_TEAM,1,2
+2025-12-13 13:00:00+00:00,16,PD,Club Atlético de Madrid,Valencia CF,HOME_TEAM,2,1
+2025-12-13 14:00:00+00:00,15,SA,Torino FC,US Cremonese,HOME_TEAM,1,0
+2025-12-13 14:30:00+00:00,14,BL1,Eintracht Frankfurt,FC Augsburg,HOME_TEAM,1,0
+2025-12-13 14:30:00+00:00,14,BL1,Borussia Mönchengladbach,VfL Wolfsburg,AWAY_TEAM,1,3
+2025-12-13 14:30:00+00:00,14,BL1,FC St. Pauli 1910,1. FC Heidenheim 1846,HOME_TEAM,2,1
+2025-12-13 14:30:00+00:00,14,BL1,TSG 1899 Hoffenheim,Hamburger SV,HOME_TEAM,4,1
+2025-12-13 15:00:00+00:00,16,PL,Chelsea FC,Everton FC,HOME_TEAM,2,0
+2025-12-13 15:00:00+00:00,16,PL,Liverpool FC,Brighton & Hove Albion FC,HOME_TEAM,2,0
+2025-12-13 15:15:00+00:00,16,PD,RCD Mallorca,Elche CF,HOME_TEAM,3,1
+2025-12-13 16:00:00+00:00,16,FL1,Stade Rennais FC 1901,Stade Brestois 29,HOME_TEAM,3,1
+2025-12-13 17:00:00+00:00,15,SA,Parma Calcio 1913,SS Lazio,AWAY_TEAM,0,1
+2025-12-13 17:30:00+00:00,16,PL,Burnley FC,Fulham FC,AWAY_TEAM,2,3
+2025-12-13 17:30:00+00:00,16,PD,FC Barcelona,CA Osasuna,HOME_TEAM,2,0
+2025-12-13 17:30:00+00:00,14,BL1,Bayer 04 Leverkusen,1. FC Köln,HOME_TEAM,2,0
+2025-12-13 18:00:00+00:00,16,FL1,FC Metz,Paris Saint-Germain FC,AWAY_TEAM,2,3
+2025-12-13 19:45:00+00:00,15,SA,Atalanta BC,Cagliari Calcio,HOME_TEAM,2,1
+2025-12-13 20:00:00+00:00,16,PD,Getafe CF,RCD Espanyol de Barcelona,AWAY_TEAM,0,1
+2025-12-13 20:00:00+00:00,16,PL,Arsenal FC,Wolverhampton Wanderers FC,HOME_TEAM,2,1
+2025-12-13 20:05:00+00:00,16,FL1,Paris FC,Toulouse FC,AWAY_TEAM,0,3
+2025-12-14 11:30:00+00:00,15,SA,AC Milan,US Sassuolo Calcio,DRAW,2,2
+2025-12-14 13:00:00+00:00,16,PD,Sevilla FC,Real Oviedo,HOME_TEAM,4,0
+2025-12-14 14:00:00+00:00,15,SA,Udinese Calcio,SSC Napoli,HOME_TEAM,1,0
+2025-12-14 14:00:00+00:00,15,SA,ACF Fiorentina,Hellas Verona FC,AWAY_TEAM,1,2
+2025-12-14 14:00:00+00:00,16,PL,West Ham United FC,Aston Villa FC,AWAY_TEAM,2,3
+2025-12-14 14:00:00+00:00,16,PL,Nottingham Forest FC,Tottenham Hotspur FC,HOME_TEAM,3,0
+2025-12-14 14:00:00+00:00,16,PL,Crystal Palace FC,Manchester City FC,AWAY_TEAM,0,3
+2025-12-14 14:00:00+00:00,16,PL,Sunderland AFC,Newcastle United FC,HOME_TEAM,1,0
+2025-12-14 14:00:00+00:00,16,FL1,Olympique Lyonnais,Le Havre AC,HOME_TEAM,1,0
+2025-12-14 14:30:00+00:00,14,BL1,SC Freiburg,Borussia Dortmund,DRAW,1,1
+2025-12-14 15:15:00+00:00,16,PD,RC Celta de Vigo,Athletic Club,HOME_TEAM,2,0
+2025-12-14 16:15:00+00:00,16,FL1,Racing Club de Lens,OGC Nice,HOME_TEAM,2,0
+2025-12-14 16:15:00+00:00,16,FL1,RC Strasbourg Alsace,FC Lorient,DRAW,0,0
+2025-12-14 16:15:00+00:00,16,FL1,AJ Auxerre,Lille OSC,AWAY_TEAM,3,4
+2025-12-14 16:30:00+00:00,14,BL1,FC Bayern München,1. FSV Mainz 05,DRAW,2,2
+2025-12-14 16:30:00+00:00,16,PL,Brentford FC,Leeds United FC,DRAW,1,1
+2025-12-14 17:00:00+00:00,15,SA,Genoa CFC,FC Internazionale Milano,AWAY_TEAM,1,2
+2025-12-14 18:30:00+00:00,14,BL1,SV Werder Bremen,VfB Stuttgart,AWAY_TEAM,0,4
+2025-12-14 19:45:00+00:00,16,FL1,Olympique de Marseille,AS Monaco FC,HOME_TEAM,1,0
+2025-12-14 19:45:00+00:00,15,SA,Bologna FC 1909,Juventus FC,AWAY_TEAM,0,1
+2025-12-14 20:00:00+00:00,16,PD,Deportivo Alavés,Real Madrid CF,AWAY_TEAM,1,2
+2025-12-15 19:45:00+00:00,15,SA,AS Roma,Como 1907,HOME_TEAM,1,0
+2025-12-15 20:00:00+00:00,16,PD,Rayo Vallecano de Madrid,Real Betis Balompié,DRAW,0,0
+2025-12-15 20:00:00+00:00,16,PL,Manchester United FC,AFC Bournemouth,DRAW,4,4
+2025-12-19 19:30:00+00:00,15,BL1,Borussia Dortmund,Borussia Mönchengladbach,HOME_TEAM,2,0
+2025-12-19 20:00:00+00:00,17,PD,Valencia CF,RCD Mallorca,DRAW,1,1
+2025-12-20 12:30:00+00:00,17,PL,Newcastle United FC,Chelsea FC,DRAW,2,2
+2025-12-20 13:00:00+00:00,17,PD,Real Oviedo,RC Celta de Vigo,DRAW,0,0
+2025-12-20 14:30:00+00:00,15,BL1,1. FC Köln,1. FC Union Berlin,AWAY_TEAM,0,1
+2025-12-20 14:30:00+00:00,15,BL1,VfB Stuttgart,TSG 1899 Hoffenheim,DRAW,0,0
+2025-12-20 14:30:00+00:00,15,BL1,VfL Wolfsburg,SC Freiburg,AWAY_TEAM,3,4
+2025-12-20 14:30:00+00:00,15,BL1,FC Augsburg,SV Werder Bremen,DRAW,0,0
+2025-12-20 14:30:00+00:00,15,BL1,Hamburger SV,Eintracht Frankfurt,DRAW,1,1
+2025-12-20 15:00:00+00:00,17,PL,AFC Bournemouth,Burnley FC,DRAW,1,1
+2025-12-20 15:00:00+00:00,17,PL,Brighton & Hove Albion FC,Sunderland AFC,DRAW,0,0
+2025-12-20 15:00:00+00:00,17,PL,Wolverhampton Wanderers FC,Brentford FC,AWAY_TEAM,0,2
+2025-12-20 15:00:00+00:00,17,PL,Manchester City FC,West Ham United FC,HOME_TEAM,3,0
+2025-12-20 15:15:00+00:00,17,PD,Levante UD,Real Sociedad de Fútbol,DRAW,1,1
+2025-12-20 17:00:00+00:00,16,SA,SS Lazio,US Cremonese,DRAW,0,0
+2025-12-20 17:30:00+00:00,17,PL,Tottenham Hotspur FC,Liverpool FC,AWAY_TEAM,1,2
+2025-12-20 17:30:00+00:00,17,PD,CA Osasuna,Deportivo Alavés,HOME_TEAM,3,0
+2025-12-20 17:30:00+00:00,15,BL1,RB Leipzig,Bayer 04 Leverkusen,AWAY_TEAM,1,3
+2025-12-20 19:45:00+00:00,16,SA,Juventus FC,AS Roma,HOME_TEAM,2,1
+2025-12-20 20:00:00+00:00,17,PD,Real Madrid CF,Sevilla FC,HOME_TEAM,2,0
+2025-12-20 20:00:00+00:00,17,PL,Everton FC,Arsenal FC,AWAY_TEAM,0,1
+2025-12-20 20:00:00+00:00,17,PL,Leeds United FC,Crystal Palace FC,HOME_TEAM,4,1
+2025-12-21 11:30:00+00:00,16,SA,Cagliari Calcio,AC Pisa 1909,DRAW,2,2
+2025-12-21 13:00:00+00:00,17,PD,Girona FC,Club Atlético de Madrid,AWAY_TEAM,0,3
+2025-12-21 14:00:00+00:00,16,SA,US Sassuolo Calcio,Torino FC,AWAY_TEAM,0,1
+2025-12-21 14:30:00+00:00,15,BL1,1. FSV Mainz 05,FC St. Pauli 1910,DRAW,0,0
+2025-12-21 15:15:00+00:00,17,PD,Villarreal CF,FC Barcelona,AWAY_TEAM,0,2
+2025-12-21 16:30:00+00:00,17,PL,Aston Villa FC,Manchester United FC,HOME_TEAM,2,1
+2025-12-21 16:30:00+00:00,15,BL1,1. FC Heidenheim 1846,FC Bayern München,AWAY_TEAM,0,4
+2025-12-21 17:00:00+00:00,16,SA,ACF Fiorentina,Udinese Calcio,HOME_TEAM,5,1
+2025-12-21 17:30:00+00:00,17,PD,Elche CF,Rayo Vallecano de Madrid,HOME_TEAM,4,0
+2025-12-21 19:45:00+00:00,16,SA,Genoa CFC,Atalanta BC,AWAY_TEAM,0,1
+2025-12-21 20:00:00+00:00,17,PD,Real Betis Balompié,Getafe CF,HOME_TEAM,4,0
+2025-12-22 20:00:00+00:00,17,PD,Athletic Club,RCD Espanyol de Barcelona,AWAY_TEAM,1,2
+2025-12-22 20:00:00+00:00,17,PL,Fulham FC,Nottingham Forest FC,HOME_TEAM,1,0
+2025-12-26 20:00:00+00:00,18,PL,Manchester United FC,Newcastle United FC,HOME_TEAM,1,0
+2025-12-27 11:30:00+00:00,17,SA,Parma Calcio 1913,ACF Fiorentina,HOME_TEAM,1,0
+2025-12-27 12:30:00+00:00,18,PL,Nottingham Forest FC,Manchester City FC,AWAY_TEAM,1,2
+2025-12-27 14:00:00+00:00,17,SA,Torino FC,Cagliari Calcio,AWAY_TEAM,1,2
+2025-12-27 14:00:00+00:00,17,SA,US Lecce,Como 1907,AWAY_TEAM,0,3
+2025-12-27 15:00:00+00:00,18,PL,West Ham United FC,Fulham FC,AWAY_TEAM,0,1
+2025-12-27 15:00:00+00:00,18,PL,Liverpool FC,Wolverhampton Wanderers FC,HOME_TEAM,2,1
+2025-12-27 15:00:00+00:00,18,PL,Burnley FC,Everton FC,DRAW,0,0
+2025-12-27 15:00:00+00:00,18,PL,Arsenal FC,Brighton & Hove Albion FC,HOME_TEAM,2,1
+2025-12-27 15:00:00+00:00,18,PL,Brentford FC,AFC Bournemouth,HOME_TEAM,4,1
+2025-12-27 17:00:00+00:00,17,SA,Udinese Calcio,SS Lazio,DRAW,1,1
+2025-12-27 17:30:00+00:00,18,PL,Chelsea FC,Aston Villa FC,AWAY_TEAM,1,2
+2025-12-27 19:45:00+00:00,17,SA,AC Pisa 1909,Juventus FC,AWAY_TEAM,0,2
+2025-12-28 11:30:00+00:00,17,SA,AC Milan,Hellas Verona FC,HOME_TEAM,3,0
+2025-12-28 14:00:00+00:00,17,SA,US Cremonese,SSC Napoli,AWAY_TEAM,0,2
+2025-12-28 14:00:00+00:00,18,PL,Sunderland AFC,Leeds United FC,DRAW,1,1
+2025-12-28 16:30:00+00:00,18,PL,Crystal Palace FC,Tottenham Hotspur FC,AWAY_TEAM,0,1
+2025-12-28 17:00:00+00:00,17,SA,Bologna FC 1909,US Sassuolo Calcio,DRAW,1,1
+2025-12-28 19:45:00+00:00,17,SA,Atalanta BC,FC Internazionale Milano,AWAY_TEAM,0,1
+2025-12-29 19:45:00+00:00,17,SA,AS Roma,Genoa CFC,HOME_TEAM,3,1
+2025-12-30 19:30:00+00:00,19,PL,Nottingham Forest FC,Everton FC,AWAY_TEAM,0,2
+2025-12-30 19:30:00+00:00,19,PL,West Ham United FC,Brighton & Hove Albion FC,DRAW,2,2
+2025-12-30 19:30:00+00:00,19,PL,Burnley FC,Newcastle United FC,AWAY_TEAM,1,3
+2025-12-30 19:30:00+00:00,19,PL,Chelsea FC,AFC Bournemouth,DRAW,2,2
+2025-12-30 20:15:00+00:00,19,PL,Manchester United FC,Wolverhampton Wanderers FC,DRAW,1,1
+2025-12-30 20:15:00+00:00,19,PL,Arsenal FC,Aston Villa FC,HOME_TEAM,4,1
+2026-01-01 17:30:00+00:00,19,PL,Liverpool FC,Leeds United FC,DRAW,0,0
+2026-01-01 17:30:00+00:00,19,PL,Crystal Palace FC,Fulham FC,DRAW,1,1
+2026-01-01 20:00:00+00:00,19,PL,Brentford FC,Tottenham Hotspur FC,DRAW,0,0
+2026-01-01 20:00:00+00:00,19,PL,Sunderland AFC,Manchester City FC,DRAW,0,0
+2026-01-02 19:45:00+00:00,18,SA,Cagliari Calcio,AC Milan,AWAY_TEAM,0,1
+2026-01-02 19:45:00+00:00,17,FL1,Toulouse FC,Racing Club de Lens,AWAY_TEAM,0,3
+2026-01-02 20:00:00+00:00,18,PD,Rayo Vallecano de Madrid,Getafe CF,DRAW,1,1
+2026-01-03 11:30:00+00:00,18,SA,Como 1907,Udinese Calcio,HOME_TEAM,1,0
+2026-01-03 12:30:00+00:00,20,PL,Aston Villa FC,Nottingham Forest FC,HOME_TEAM,3,1
+2026-01-03 13:00:00+00:00,18,PD,RC Celta de Vigo,Valencia CF,HOME_TEAM,4,1
+2026-01-03 14:00:00+00:00,18,SA,US Sassuolo Calcio,Parma Calcio 1913,DRAW,1,1
+2026-01-03 14:00:00+00:00,18,SA,Genoa CFC,AC Pisa 1909,DRAW,1,1
+2026-01-03 15:00:00+00:00,20,PL,Brighton & Hove Albion FC,Burnley FC,HOME_TEAM,2,0
+2026-01-03 15:00:00+00:00,20,PL,Wolverhampton Wanderers FC,West Ham United FC,HOME_TEAM,3,0
+2026-01-03 15:15:00+00:00,18,PD,CA Osasuna,Athletic Club,DRAW,1,1
+2026-01-03 16:00:00+00:00,17,FL1,AS Monaco FC,Olympique Lyonnais,AWAY_TEAM,1,3
+2026-01-03 17:00:00+00:00,18,SA,Juventus FC,US Lecce,DRAW,1,1
+2026-01-03 17:30:00+00:00,20,PL,AFC Bournemouth,Arsenal FC,AWAY_TEAM,2,3
+2026-01-03 17:30:00+00:00,18,PD,Elche CF,Villarreal CF,AWAY_TEAM,1,3
+2026-01-03 18:00:00+00:00,17,FL1,OGC Nice,RC Strasbourg Alsace,DRAW,1,1
+2026-01-03 19:45:00+00:00,18,SA,Atalanta BC,AS Roma,HOME_TEAM,1,0
+2026-01-03 20:00:00+00:00,18,PD,RCD Espanyol de Barcelona,FC Barcelona,AWAY_TEAM,0,2
+2026-01-03 20:05:00+00:00,17,FL1,Lille OSC,Stade Rennais FC 1901,AWAY_TEAM,0,2
+2026-01-04 11:30:00+00:00,18,SA,SS Lazio,SSC Napoli,AWAY_TEAM,0,2
+2026-01-04 12:30:00+00:00,20,PL,Leeds United FC,Manchester United FC,DRAW,1,1
+2026-01-04 13:00:00+00:00,18,PD,Sevilla FC,Levante UD,AWAY_TEAM,0,3
+2026-01-04 14:00:00+00:00,18,SA,ACF Fiorentina,US Cremonese,HOME_TEAM,1,0
+2026-01-04 14:00:00+00:00,17,FL1,Olympique de Marseille,FC Nantes,AWAY_TEAM,0,2
+2026-01-04 15:00:00+00:00,20,PL,Tottenham Hotspur FC,Sunderland AFC,DRAW,1,1
+2026-01-04 15:00:00+00:00,20,PL,Newcastle United FC,Crystal Palace FC,HOME_TEAM,2,0
+2026-01-04 15:00:00+00:00,20,PL,Everton FC,Brentford FC,AWAY_TEAM,2,4
+2026-01-04 15:15:00+00:00,18,PD,Real Madrid CF,Real Betis Balompié,HOME_TEAM,5,1
+2026-01-04 15:15:00+00:00,20,PL,Fulham FC,Liverpool FC,DRAW,2,2
+2026-01-04 16:15:00+00:00,17,FL1,Le Havre AC,Angers SCO,HOME_TEAM,2,1
+2026-01-04 16:15:00+00:00,17,FL1,FC Lorient,FC Metz,DRAW,1,1
+2026-01-04 16:15:00+00:00,17,FL1,Stade Brestois 29,AJ Auxerre,HOME_TEAM,2,0
+2026-01-04 17:00:00+00:00,18,SA,Hellas Verona FC,Torino FC,AWAY_TEAM,0,3
+2026-01-04 17:30:00+00:00,20,PL,Manchester City FC,Chelsea FC,DRAW,1,1
+2026-01-04 17:30:00+00:00,18,PD,RCD Mallorca,Girona FC,AWAY_TEAM,1,2
+2026-01-04 17:30:00+00:00,18,PD,Deportivo Alavés,Real Oviedo,DRAW,1,1
+2026-01-04 19:45:00+00:00,17,FL1,Paris Saint-Germain FC,Paris FC,HOME_TEAM,2,1
+2026-01-04 19:45:00+00:00,18,SA,FC Internazionale Milano,Bologna FC 1909,HOME_TEAM,3,1
+2026-01-04 20:00:00+00:00,18,PD,Real Sociedad de Fútbol,Club Atlético de Madrid,DRAW,1,1
+2026-01-06 14:00:00+00:00,19,SA,AC Pisa 1909,Como 1907,AWAY_TEAM,0,3
+2026-01-06 17:00:00+00:00,19,SA,US Lecce,AS Roma,AWAY_TEAM,0,2
+2026-01-06 19:45:00+00:00,19,SA,US Sassuolo Calcio,Juventus FC,AWAY_TEAM,0,3
+2026-01-06 20:00:00+00:00,21,PL,West Ham United FC,Nottingham Forest FC,AWAY_TEAM,1,2
+2026-01-07 17:30:00+00:00,19,SA,SSC Napoli,Hellas Verona FC,DRAW,2,2
+2026-01-07 17:30:00+00:00,19,SA,Bologna FC 1909,Atalanta BC,AWAY_TEAM,0,2
+2026-01-07 19:30:00+00:00,21,PL,AFC Bournemouth,Tottenham Hotspur FC,HOME_TEAM,3,2
+2026-01-07 19:30:00+00:00,21,PL,Crystal Palace FC,Aston Villa FC,DRAW,0,0
+2026-01-07 19:30:00+00:00,21,PL,Brentford FC,Sunderland AFC,HOME_TEAM,3,0
+2026-01-07 19:30:00+00:00,21,PL,Manchester City FC,Brighton & Hove Albion FC,DRAW,1,1
+2026-01-07 19:30:00+00:00,21,PL,Fulham FC,Chelsea FC,HOME_TEAM,2,1
+2026-01-07 19:30:00+00:00,21,PL,Everton FC,Wolverhampton Wanderers FC,DRAW,1,1
+2026-01-07 19:45:00+00:00,19,SA,Parma Calcio 1913,FC Internazionale Milano,AWAY_TEAM,0,2
+2026-01-07 19:45:00+00:00,19,SA,SS Lazio,ACF Fiorentina,DRAW,2,2
+2026-01-07 19:45:00+00:00,19,SA,Torino FC,Udinese Calcio,AWAY_TEAM,1,2
+2026-01-07 20:15:00+00:00,21,PL,Burnley FC,Manchester United FC,DRAW,2,2
+2026-01-07 20:15:00+00:00,21,PL,Newcastle United FC,Leeds United FC,HOME_TEAM,4,3
+2026-01-08 17:30:00+00:00,19,SA,US Cremonese,Cagliari Calcio,DRAW,2,2
+2026-01-08 19:45:00+00:00,19,SA,AC Milan,Genoa CFC,DRAW,1,1
+2026-01-08 20:00:00+00:00,21,PL,Arsenal FC,Liverpool FC,DRAW,0,0
+2026-01-09 19:30:00+00:00,16,BL1,Eintracht Frankfurt,Borussia Dortmund,DRAW,3,3
+2026-01-09 20:00:00+00:00,19,PD,Getafe CF,Real Sociedad de Fútbol,AWAY_TEAM,1,2
+2026-01-10 13:00:00+00:00,19,PD,Real Oviedo,Real Betis Balompié,DRAW,1,1
+2026-01-10 14:00:00+00:00,20,SA,Udinese Calcio,AC Pisa 1909,DRAW,2,2
+2026-01-10 14:00:00+00:00,20,SA,Como 1907,Bologna FC 1909,DRAW,1,1
+2026-01-10 14:30:00+00:00,16,BL1,SC Freiburg,Hamburger SV,HOME_TEAM,2,1
+2026-01-10 14:30:00+00:00,16,BL1,1. FC Union Berlin,1. FSV Mainz 05,DRAW,2,2
+2026-01-10 14:30:00+00:00,16,BL1,1. FC Heidenheim 1846,1. FC Köln,DRAW,2,2
+2026-01-10 15:15:00+00:00,19,PD,Villarreal CF,Deportivo Alavés,HOME_TEAM,3,1
+2026-01-10 17:00:00+00:00,20,SA,AS Roma,US Sassuolo Calcio,HOME_TEAM,2,0
+2026-01-10 17:30:00+00:00,16,BL1,Bayer 04 Leverkusen,VfB Stuttgart,AWAY_TEAM,1,4
+2026-01-10 17:30:00+00:00,19,PD,Girona FC,CA Osasuna,HOME_TEAM,1,0
+2026-01-10 19:45:00+00:00,20,SA,Atalanta BC,Torino FC,HOME_TEAM,2,0
+2026-01-10 20:00:00+00:00,19,PD,Valencia CF,Elche CF,DRAW,1,1
+2026-01-11 11:30:00+00:00,20,SA,US Lecce,Parma Calcio 1913,AWAY_TEAM,1,2
+2026-01-11 13:00:00+00:00,19,PD,Rayo Vallecano de Madrid,RCD Mallorca,HOME_TEAM,2,1
+2026-01-11 14:00:00+00:00,20,SA,ACF Fiorentina,AC Milan,DRAW,1,1
+2026-01-11 14:30:00+00:00,16,BL1,Borussia Mönchengladbach,FC Augsburg,HOME_TEAM,4,0
+2026-01-11 15:15:00+00:00,19,PD,Levante UD,RCD Espanyol de Barcelona,DRAW,1,1
+2026-01-11 16:30:00+00:00,16,BL1,FC Bayern München,VfL Wolfsburg,HOME_TEAM,8,1
+2026-01-11 17:00:00+00:00,20,SA,Hellas Verona FC,SS Lazio,AWAY_TEAM,0,1
+2026-01-11 19:45:00+00:00,20,SA,FC Internazionale Milano,SSC Napoli,DRAW,2,2
+2026-01-12 17:30:00+00:00,20,SA,Genoa CFC,Cagliari Calcio,HOME_TEAM,3,0
+2026-01-12 19:45:00+00:00,20,SA,Juventus FC,US Cremonese,HOME_TEAM,5,0
+2026-01-12 20:00:00+00:00,19,PD,Sevilla FC,RC Celta de Vigo,AWAY_TEAM,0,1
+2026-01-13 17:30:00+00:00,17,BL1,VfB Stuttgart,Eintracht Frankfurt,HOME_TEAM,3,2
+2026-01-13 19:30:00+00:00,17,BL1,Borussia Dortmund,SV Werder Bremen,HOME_TEAM,3,0
+2026-01-13 19:30:00+00:00,17,BL1,1. FSV Mainz 05,1. FC Heidenheim 1846,HOME_TEAM,2,1
+2026-01-14 17:30:00+00:00,17,BL1,VfL Wolfsburg,FC St. Pauli 1910,HOME_TEAM,2,1
+2026-01-14 17:30:00+00:00,16,SA,SSC Napoli,Parma Calcio 1913,DRAW,0,0
+2026-01-14 19:30:00+00:00,17,BL1,RB Leipzig,SC Freiburg,HOME_TEAM,2,0
+2026-01-14 19:30:00+00:00,17,BL1,TSG 1899 Hoffenheim,Borussia Mönchengladbach,HOME_TEAM,5,1
+2026-01-14 19:30:00+00:00,17,BL1,1. FC Köln,FC Bayern München,AWAY_TEAM,1,3
+2026-01-14 19:45:00+00:00,16,SA,FC Internazionale Milano,US Lecce,HOME_TEAM,1,0
+2026-01-15 17:30:00+00:00,16,SA,Hellas Verona FC,Bologna FC 1909,AWAY_TEAM,2,3
+2026-01-15 19:30:00+00:00,17,BL1,FC Augsburg,1. FC Union Berlin,DRAW,1,1
+2026-01-15 19:45:00+00:00,16,SA,Como 1907,AC Milan,AWAY_TEAM,1,3
+2026-01-16 18:00:00+00:00,18,FL1,AS Monaco FC,FC Lorient,AWAY_TEAM,1,3
+2026-01-16 19:30:00+00:00,18,BL1,SV Werder Bremen,Eintracht Frankfurt,DRAW,3,3
+2026-01-16 19:45:00+00:00,21,SA,AC Pisa 1909,Atalanta BC,DRAW,1,1
+2026-01-16 20:00:00+00:00,20,PD,RCD Espanyol de Barcelona,Girona FC,AWAY_TEAM,0,2
+2026-01-16 20:00:00+00:00,18,FL1,Paris Saint-Germain FC,Lille OSC,HOME_TEAM,3,0
+2026-01-17 12:30:00+00:00,22,PL,Manchester United FC,Manchester City FC,HOME_TEAM,2,0
+2026-01-17 13:00:00+00:00,20,PD,Real Madrid CF,Levante UD,HOME_TEAM,2,0
+2026-01-17 14:00:00+00:00,21,SA,Udinese Calcio,FC Internazionale Milano,AWAY_TEAM,0,1
+2026-01-17 14:30:00+00:00,18,BL1,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,HOME_TEAM,1,0
+2026-01-17 14:30:00+00:00,18,BL1,1. FC Köln,1. FSV Mainz 05,HOME_TEAM,2,1
+2026-01-17 14:30:00+00:00,18,BL1,Hamburger SV,Borussia Mönchengladbach,DRAW,0,0
+2026-01-17 14:30:00+00:00,18,BL1,Borussia Dortmund,FC St. Pauli 1910,HOME_TEAM,3,2
+2026-01-17 14:30:00+00:00,18,BL1,VfL Wolfsburg,1. FC Heidenheim 1846,DRAW,1,1
+2026-01-17 15:00:00+00:00,22,PL,Tottenham Hotspur FC,West Ham United FC,AWAY_TEAM,1,2
+2026-01-17 15:00:00+00:00,22,PL,Chelsea FC,Brentford FC,HOME_TEAM,2,0
+2026-01-17 15:00:00+00:00,22,PL,Liverpool FC,Burnley FC,DRAW,1,1
+2026-01-17 15:00:00+00:00,22,PL,Leeds United FC,Fulham FC,HOME_TEAM,1,0
+2026-01-17 15:00:00+00:00,22,PL,Sunderland AFC,Crystal Palace FC,HOME_TEAM,2,1
+2026-01-17 15:15:00+00:00,20,PD,RCD Mallorca,Athletic Club,HOME_TEAM,3,2
+2026-01-17 16:00:00+00:00,18,FL1,Racing Club de Lens,AJ Auxerre,HOME_TEAM,1,0
+2026-01-17 17:00:00+00:00,21,SA,SSC Napoli,US Sassuolo Calcio,HOME_TEAM,1,0
+2026-01-17 17:30:00+00:00,20,PD,CA Osasuna,Real Oviedo,HOME_TEAM,3,2
+2026-01-17 17:30:00+00:00,22,PL,Nottingham Forest FC,Arsenal FC,DRAW,0,0
+2026-01-17 17:30:00+00:00,18,BL1,RB Leipzig,FC Bayern München,AWAY_TEAM,1,5
+2026-01-17 18:00:00+00:00,18,FL1,Toulouse FC,OGC Nice,HOME_TEAM,5,1
+2026-01-17 19:45:00+00:00,21,SA,Cagliari Calcio,Juventus FC,HOME_TEAM,1,0
+2026-01-17 20:00:00+00:00,20,PD,Real Betis Balompié,Villarreal CF,HOME_TEAM,2,0
+2026-01-17 20:05:00+00:00,18,FL1,Angers SCO,Olympique de Marseille,AWAY_TEAM,2,5
+2026-01-18 11:30:00+00:00,21,SA,Parma Calcio 1913,Genoa CFC,DRAW,0,0
+2026-01-18 13:00:00+00:00,20,PD,Getafe CF,Valencia CF,AWAY_TEAM,0,1
+2026-01-18 14:00:00+00:00,22,PL,Wolverhampton Wanderers FC,Newcastle United FC,DRAW,0,0
+2026-01-18 14:00:00+00:00,21,SA,Bologna FC 1909,ACF Fiorentina,AWAY_TEAM,1,2
+2026-01-18 14:00:00+00:00,18,FL1,RC Strasbourg Alsace,FC Metz,HOME_TEAM,2,1
+2026-01-18 14:30:00+00:00,18,BL1,VfB Stuttgart,1. FC Union Berlin,DRAW,1,1
+2026-01-18 15:15:00+00:00,20,PD,Club Atlético de Madrid,Deportivo Alavés,HOME_TEAM,1,0
+2026-01-18 16:15:00+00:00,18,FL1,FC Nantes,Paris FC,AWAY_TEAM,1,2
+2026-01-18 16:15:00+00:00,18,FL1,Stade Rennais FC 1901,Le Havre AC,DRAW,1,1
+2026-01-18 16:30:00+00:00,22,PL,Aston Villa FC,Everton FC,AWAY_TEAM,0,1
+2026-01-18 16:30:00+00:00,18,BL1,FC Augsburg,SC Freiburg,DRAW,2,2
+2026-01-18 17:00:00+00:00,21,SA,Torino FC,AS Roma,AWAY_TEAM,0,2
+2026-01-18 17:30:00+00:00,20,PD,RC Celta de Vigo,Rayo Vallecano de Madrid,HOME_TEAM,3,0
+2026-01-18 19:45:00+00:00,18,FL1,Olympique Lyonnais,Stade Brestois 29,HOME_TEAM,2,1
+2026-01-18 19:45:00+00:00,21,SA,AC Milan,US Lecce,HOME_TEAM,1,0
+2026-01-18 20:00:00+00:00,20,PD,Real Sociedad de Fútbol,FC Barcelona,HOME_TEAM,2,1
+2026-01-19 17:30:00+00:00,21,SA,US Cremonese,Hellas Verona FC,DRAW,0,0
+2026-01-19 19:45:00+00:00,21,SA,SS Lazio,Como 1907,AWAY_TEAM,0,3
+2026-01-19 20:00:00+00:00,20,PD,Elche CF,Sevilla FC,DRAW,2,2
+2026-01-19 20:00:00+00:00,22,PL,Brighton & Hove Albion FC,AFC Bournemouth,DRAW,1,1
+2026-01-23 19:00:00+00:00,19,FL1,AJ Auxerre,Paris Saint-Germain FC,AWAY_TEAM,0,1
+2026-01-23 19:30:00+00:00,19,BL1,FC St. Pauli 1910,Hamburger SV,DRAW,0,0
+2026-01-23 19:45:00+00:00,22,SA,FC Internazionale Milano,AC Pisa 1909,HOME_TEAM,6,2
+2026-01-23 20:00:00+00:00,21,PD,Levante UD,Elche CF,HOME_TEAM,3,2
+2026-01-24 12:30:00+00:00,23,PL,West Ham United FC,Sunderland AFC,HOME_TEAM,3,1
+2026-01-24 13:00:00+00:00,21,PD,Rayo Vallecano de Madrid,CA Osasuna,AWAY_TEAM,1,3
+2026-01-24 14:00:00+00:00,22,SA,Como 1907,Torino FC,HOME_TEAM,6,0
+2026-01-24 14:30:00+00:00,19,BL1,1. FC Heidenheim 1846,RB Leipzig,AWAY_TEAM,0,3
+2026-01-24 14:30:00+00:00,19,BL1,1. FSV Mainz 05,VfL Wolfsburg,HOME_TEAM,3,1
+2026-01-24 14:30:00+00:00,19,BL1,FC Bayern München,FC Augsburg,AWAY_TEAM,1,2
+2026-01-24 14:30:00+00:00,19,BL1,Eintracht Frankfurt,TSG 1899 Hoffenheim,AWAY_TEAM,1,3
+2026-01-24 14:30:00+00:00,19,BL1,Bayer 04 Leverkusen,SV Werder Bremen,HOME_TEAM,1,0
+2026-01-24 15:00:00+00:00,23,PL,Manchester City FC,Wolverhampton Wanderers FC,HOME_TEAM,2,0
+2026-01-24 15:00:00+00:00,23,PL,Fulham FC,Brighton & Hove Albion FC,HOME_TEAM,2,1
+2026-01-24 15:00:00+00:00,23,PL,Burnley FC,Tottenham Hotspur FC,DRAW,2,2
+2026-01-24 15:15:00+00:00,21,PD,Valencia CF,RCD Espanyol de Barcelona,HOME_TEAM,3,2
+2026-01-24 16:00:00+00:00,19,FL1,Stade Rennais FC 1901,FC Lorient,AWAY_TEAM,0,2
+2026-01-24 17:00:00+00:00,22,SA,ACF Fiorentina,Cagliari Calcio,AWAY_TEAM,1,2
+2026-01-24 17:30:00+00:00,23,PL,AFC Bournemouth,Liverpool FC,HOME_TEAM,3,2
+2026-01-24 17:30:00+00:00,19,BL1,1. FC Union Berlin,Borussia Dortmund,AWAY_TEAM,0,3
+2026-01-24 17:30:00+00:00,21,PD,Sevilla FC,Athletic Club,HOME_TEAM,2,1
+2026-01-24 18:00:00+00:00,19,FL1,Le Havre AC,AS Monaco FC,DRAW,0,0
+2026-01-24 19:45:00+00:00,22,SA,US Lecce,SS Lazio,DRAW,0,0
+2026-01-24 20:00:00+00:00,21,PD,Villarreal CF,Real Madrid CF,AWAY_TEAM,0,2
+2026-01-24 20:05:00+00:00,19,FL1,Olympique de Marseille,Racing Club de Lens,HOME_TEAM,3,1
+2026-01-25 11:30:00+00:00,22,SA,US Sassuolo Calcio,US Cremonese,HOME_TEAM,1,0
+2026-01-25 13:00:00+00:00,21,PD,Club Atlético de Madrid,RCD Mallorca,HOME_TEAM,3,0
+2026-01-25 14:00:00+00:00,23,PL,Newcastle United FC,Aston Villa FC,AWAY_TEAM,0,2
+2026-01-25 14:00:00+00:00,23,PL,Crystal Palace FC,Chelsea FC,AWAY_TEAM,1,3
+2026-01-25 14:00:00+00:00,22,SA,Atalanta BC,Parma Calcio 1913,HOME_TEAM,4,0
+2026-01-25 14:00:00+00:00,23,PL,Brentford FC,Nottingham Forest FC,AWAY_TEAM,0,2
+2026-01-25 14:00:00+00:00,19,FL1,FC Nantes,OGC Nice,AWAY_TEAM,1,4
+2026-01-25 14:00:00+00:00,22,SA,Genoa CFC,Bologna FC 1909,HOME_TEAM,3,2
+2026-01-25 14:30:00+00:00,19,BL1,Borussia Mönchengladbach,VfB Stuttgart,AWAY_TEAM,0,3
+2026-01-25 15:15:00+00:00,21,PD,FC Barcelona,Real Oviedo,HOME_TEAM,3,0
+2026-01-25 16:15:00+00:00,19,FL1,Paris FC,Angers SCO,DRAW,0,0
+2026-01-25 16:15:00+00:00,19,FL1,FC Metz,Olympique Lyonnais,AWAY_TEAM,2,5
+2026-01-25 16:15:00+00:00,19,FL1,Stade Brestois 29,Toulouse FC,AWAY_TEAM,0,2
+2026-01-25 16:30:00+00:00,19,BL1,SC Freiburg,1. FC Köln,HOME_TEAM,2,1
+2026-01-25 16:30:00+00:00,23,PL,Arsenal FC,Manchester United FC,AWAY_TEAM,2,3
+2026-01-25 17:00:00+00:00,22,SA,Juventus FC,SSC Napoli,HOME_TEAM,3,0
+2026-01-25 17:30:00+00:00,21,PD,Real Sociedad de Fútbol,RC Celta de Vigo,HOME_TEAM,3,1
+2026-01-25 19:45:00+00:00,22,SA,AS Roma,AC Milan,DRAW,1,1
+2026-01-25 19:45:00+00:00,19,FL1,Lille OSC,RC Strasbourg Alsace,AWAY_TEAM,1,4
+2026-01-25 20:00:00+00:00,21,PD,Deportivo Alavés,Real Betis Balompié,HOME_TEAM,2,1
+2026-01-26 19:45:00+00:00,22,SA,Hellas Verona FC,Udinese Calcio,AWAY_TEAM,1,3
+2026-01-26 20:00:00+00:00,21,PD,Girona FC,Getafe CF,DRAW,1,1
+2026-01-26 20:00:00+00:00,23,PL,Everton FC,Leeds United FC,DRAW,1,1
+2026-01-27 19:30:00+00:00,16,BL1,FC St. Pauli 1910,RB Leipzig,DRAW,1,1
+2026-01-27 19:30:00+00:00,16,BL1,SV Werder Bremen,TSG 1899 Hoffenheim,AWAY_TEAM,0,2
+2026-01-30 19:30:00+00:00,20,BL1,1. FC Köln,VfL Wolfsburg,HOME_TEAM,1,0
+2026-01-30 19:45:00+00:00,20,FL1,Racing Club de Lens,Le Havre AC,HOME_TEAM,1,0
+2026-01-30 19:45:00+00:00,23,SA,SS Lazio,Genoa CFC,HOME_TEAM,3,2
+2026-01-30 20:00:00+00:00,22,PD,RCD Espanyol de Barcelona,Deportivo Alavés,AWAY_TEAM,1,2
+2026-01-31 13:00:00+00:00,22,PD,Real Oviedo,Girona FC,HOME_TEAM,1,0
+2026-01-31 14:00:00+00:00,23,SA,AC Pisa 1909,US Sassuolo Calcio,AWAY_TEAM,1,3
+2026-01-31 14:30:00+00:00,20,BL1,Eintracht Frankfurt,Bayer 04 Leverkusen,AWAY_TEAM,1,3
+2026-01-31 14:30:00+00:00,20,BL1,RB Leipzig,1. FSV Mainz 05,AWAY_TEAM,1,2
+2026-01-31 14:30:00+00:00,20,BL1,SV Werder Bremen,Borussia Mönchengladbach,DRAW,1,1
+2026-01-31 14:30:00+00:00,20,BL1,TSG 1899 Hoffenheim,1. FC Union Berlin,HOME_TEAM,3,1
+2026-01-31 14:30:00+00:00,20,BL1,FC Augsburg,FC St. Pauli 1910,HOME_TEAM,2,1
+2026-01-31 15:00:00+00:00,24,PL,Leeds United FC,Arsenal FC,AWAY_TEAM,0,4
+2026-01-31 15:00:00+00:00,24,PL,Brighton & Hove Albion FC,Everton FC,DRAW,1,1
+2026-01-31 15:00:00+00:00,24,PL,Wolverhampton Wanderers FC,AFC Bournemouth,AWAY_TEAM,0,2
+2026-01-31 15:15:00+00:00,22,PD,CA Osasuna,Villarreal CF,DRAW,2,2
+2026-01-31 16:00:00+00:00,20,FL1,Paris FC,Olympique de Marseille,DRAW,2,2
+2026-01-31 17:00:00+00:00,23,SA,SSC Napoli,ACF Fiorentina,HOME_TEAM,2,1
+2026-01-31 17:30:00+00:00,22,PD,Levante UD,Club Atlético de Madrid,DRAW,0,0
+2026-01-31 17:30:00+00:00,20,BL1,Hamburger SV,FC Bayern München,DRAW,2,2
+2026-01-31 17:30:00+00:00,24,PL,Chelsea FC,West Ham United FC,HOME_TEAM,3,2
+2026-01-31 18:00:00+00:00,20,FL1,FC Lorient,FC Nantes,HOME_TEAM,2,1
+2026-01-31 19:45:00+00:00,23,SA,Cagliari Calcio,Hellas Verona FC,HOME_TEAM,4,0
+2026-01-31 20:00:00+00:00,24,PL,Liverpool FC,Newcastle United FC,HOME_TEAM,4,1
+2026-01-31 20:00:00+00:00,22,PD,Elche CF,FC Barcelona,AWAY_TEAM,1,3
+2026-01-31 20:05:00+00:00,20,FL1,AS Monaco FC,Stade Rennais FC 1901,HOME_TEAM,4,0
+2026-02-01 11:30:00+00:00,23,SA,Torino FC,US Lecce,HOME_TEAM,1,0
+2026-02-01 13:00:00+00:00,22,PD,Real Madrid CF,Rayo Vallecano de Madrid,HOME_TEAM,2,1
+2026-02-01 14:00:00+00:00,24,PL,Aston Villa FC,Brentford FC,AWAY_TEAM,0,1
+2026-02-01 14:00:00+00:00,24,PL,Manchester United FC,Fulham FC,HOME_TEAM,3,2
+2026-02-01 14:00:00+00:00,23,SA,Como 1907,Atalanta BC,DRAW,0,0
+2026-02-01 14:00:00+00:00,20,FL1,Olympique Lyonnais,Lille OSC,HOME_TEAM,1,0
+2026-02-01 14:00:00+00:00,24,PL,Nottingham Forest FC,Crystal Palace FC,DRAW,1,1
+2026-02-01 14:30:00+00:00,20,BL1,VfB Stuttgart,SC Freiburg,HOME_TEAM,1,0
+2026-02-01 15:15:00+00:00,22,PD,Real Betis Balompié,Valencia CF,HOME_TEAM,2,1
+2026-02-01 16:15:00+00:00,20,FL1,Toulouse FC,AJ Auxerre,DRAW,0,0
+2026-02-01 16:15:00+00:00,20,FL1,OGC Nice,Stade Brestois 29,DRAW,2,2
+2026-02-01 16:15:00+00:00,20,FL1,Angers SCO,FC Metz,HOME_TEAM,1,0
+2026-02-01 16:30:00+00:00,20,BL1,Borussia Dortmund,1. FC Heidenheim 1846,HOME_TEAM,3,2
+2026-02-01 16:30:00+00:00,24,PL,Tottenham Hotspur FC,Manchester City FC,DRAW,2,2
+2026-02-01 17:00:00+00:00,23,SA,US Cremonese,FC Internazionale Milano,AWAY_TEAM,0,2
+2026-02-01 17:30:00+00:00,22,PD,Getafe CF,RC Celta de Vigo,DRAW,0,0
+2026-02-01 19:45:00+00:00,20,FL1,RC Strasbourg Alsace,Paris Saint-Germain FC,AWAY_TEAM,1,2
+2026-02-01 19:45:00+00:00,23,SA,Parma Calcio 1913,Juventus FC,AWAY_TEAM,1,4
+2026-02-01 20:00:00+00:00,22,PD,Athletic Club,Real Sociedad de Fútbol,DRAW,1,1
+2026-02-02 19:45:00+00:00,23,SA,Udinese Calcio,AS Roma,HOME_TEAM,1,0
+2026-02-02 20:00:00+00:00,22,PD,RCD Mallorca,Sevilla FC,HOME_TEAM,4,1
+2026-02-02 20:00:00+00:00,24,PL,Sunderland AFC,Burnley FC,HOME_TEAM,3,0
+2026-02-03 19:45:00+00:00,23,SA,Bologna FC 1909,AC Milan,AWAY_TEAM,0,3
+2026-02-06 19:30:00+00:00,21,BL1,1. FC Union Berlin,Eintracht Frankfurt,DRAW,1,1
+2026-02-06 19:45:00+00:00,24,SA,Hellas Verona FC,AC Pisa 1909,DRAW,0,0
+2026-02-06 19:45:00+00:00,21,FL1,FC Metz,Lille OSC,DRAW,0,0
+2026-02-06 20:00:00+00:00,23,PD,RC Celta de Vigo,CA Osasuna,AWAY_TEAM,1,2
+2026-02-06 20:00:00+00:00,25,PL,Leeds United FC,Nottingham Forest FC,HOME_TEAM,3,1
+2026-02-07 12:30:00+00:00,25,PL,Manchester United FC,Tottenham Hotspur FC,HOME_TEAM,2,0
+2026-02-07 14:30:00+00:00,21,BL1,1. FC Heidenheim 1846,Hamburger SV,AWAY_TEAM,0,2
+2026-02-07 14:30:00+00:00,21,BL1,1. FSV Mainz 05,FC Augsburg,HOME_TEAM,2,0
+2026-02-07 14:30:00+00:00,21,BL1,FC St. Pauli 1910,VfB Stuttgart,HOME_TEAM,2,1
+2026-02-07 14:30:00+00:00,21,BL1,VfL Wolfsburg,Borussia Dortmund,AWAY_TEAM,1,2
+2026-02-07 14:30:00+00:00,21,BL1,SC Freiburg,SV Werder Bremen,HOME_TEAM,1,0
+2026-02-07 15:00:00+00:00,25,PL,Wolverhampton Wanderers FC,Chelsea FC,AWAY_TEAM,1,3
+2026-02-07 15:00:00+00:00,25,PL,Burnley FC,West Ham United FC,AWAY_TEAM,0,2
+2026-02-07 15:00:00+00:00,25,PL,Arsenal FC,Sunderland AFC,HOME_TEAM,3,0
+2026-02-07 15:00:00+00:00,25,PL,AFC Bournemouth,Aston Villa FC,DRAW,1,1
+2026-02-07 15:00:00+00:00,25,PL,Fulham FC,Everton FC,AWAY_TEAM,1,2
+2026-02-07 15:15:00+00:00,23,PD,FC Barcelona,RCD Mallorca,HOME_TEAM,3,0
+2026-02-07 16:00:00+00:00,21,FL1,Racing Club de Lens,Stade Rennais FC 1901,HOME_TEAM,3,1
+2026-02-07 17:00:00+00:00,24,SA,Genoa CFC,SSC Napoli,AWAY_TEAM,2,3
+2026-02-07 17:30:00+00:00,25,PL,Newcastle United FC,Brentford FC,AWAY_TEAM,2,3
+2026-02-07 17:30:00+00:00,21,BL1,Borussia Mönchengladbach,Bayer 04 Leverkusen,DRAW,1,1
+2026-02-07 18:00:00+00:00,21,FL1,Stade Brestois 29,FC Lorient,HOME_TEAM,2,0
+2026-02-07 19:45:00+00:00,24,SA,ACF Fiorentina,Torino FC,DRAW,2,2
+2026-02-07 20:00:00+00:00,23,PD,Real Sociedad de Fútbol,Elche CF,HOME_TEAM,3,1
+2026-02-07 20:05:00+00:00,21,FL1,FC Nantes,Olympique Lyonnais,AWAY_TEAM,0,1
+2026-02-08 11:30:00+00:00,24,SA,Bologna FC 1909,Parma Calcio 1913,AWAY_TEAM,0,1
+2026-02-08 13:00:00+00:00,23,PD,Deportivo Alavés,Getafe CF,AWAY_TEAM,0,2
+2026-02-08 14:00:00+00:00,24,SA,US Lecce,Udinese Calcio,HOME_TEAM,2,1
+2026-02-08 14:00:00+00:00,25,PL,Brighton & Hove Albion FC,Crystal Palace FC,AWAY_TEAM,0,1
+2026-02-08 14:00:00+00:00,21,FL1,OGC Nice,AS Monaco FC,DRAW,0,0
+2026-02-08 14:30:00+00:00,21,BL1,1. FC Köln,RB Leipzig,AWAY_TEAM,1,2
+2026-02-08 15:15:00+00:00,23,PD,Athletic Club,Levante UD,HOME_TEAM,4,2
+2026-02-08 15:15:00+00:00,23,PD,Sevilla FC,Girona FC,DRAW,1,1
+2026-02-08 16:15:00+00:00,21,FL1,Angers SCO,Toulouse FC,HOME_TEAM,1,0
+2026-02-08 16:15:00+00:00,21,FL1,AJ Auxerre,Paris FC,DRAW,0,0
+2026-02-08 16:15:00+00:00,21,FL1,Le Havre AC,RC Strasbourg Alsace,HOME_TEAM,2,1
+2026-02-08 16:30:00+00:00,21,BL1,FC Bayern München,TSG 1899 Hoffenheim,HOME_TEAM,5,1
+2026-02-08 16:30:00+00:00,25,PL,Liverpool FC,Manchester City FC,AWAY_TEAM,1,2
+2026-02-08 17:00:00+00:00,24,SA,US Sassuolo Calcio,FC Internazionale Milano,AWAY_TEAM,0,5
+2026-02-08 17:30:00+00:00,23,PD,Club Atlético de Madrid,Real Betis Balompié,AWAY_TEAM,0,1
+2026-02-08 19:45:00+00:00,21,FL1,Paris Saint-Germain FC,Olympique de Marseille,HOME_TEAM,5,0
+2026-02-08 19:45:00+00:00,24,SA,Juventus FC,SS Lazio,DRAW,2,2
+2026-02-08 20:00:00+00:00,23,PD,Valencia CF,Real Madrid CF,AWAY_TEAM,0,2
+2026-02-09 17:30:00+00:00,24,SA,Atalanta BC,US Cremonese,HOME_TEAM,2,1
+2026-02-09 19:45:00+00:00,24,SA,AS Roma,Cagliari Calcio,HOME_TEAM,2,0
+2026-02-09 20:00:00+00:00,23,PD,Villarreal CF,RCD Espanyol de Barcelona,HOME_TEAM,4,1
+2026-02-10 19:30:00+00:00,26,PL,Everton FC,AFC Bournemouth,AWAY_TEAM,1,2
+2026-02-10 19:30:00+00:00,26,PL,Tottenham Hotspur FC,Newcastle United FC,AWAY_TEAM,1,2
+2026-02-10 19:30:00+00:00,26,PL,Chelsea FC,Leeds United FC,DRAW,2,2
+2026-02-10 20:15:00+00:00,26,PL,West Ham United FC,Manchester United FC,DRAW,1,1
+2026-02-11 19:30:00+00:00,26,PL,Aston Villa FC,Brighton & Hove Albion FC,HOME_TEAM,1,0
+2026-02-11 19:30:00+00:00,26,PL,Manchester City FC,Fulham FC,HOME_TEAM,3,0
+2026-02-11 19:30:00+00:00,26,PL,Nottingham Forest FC,Wolverhampton Wanderers FC,DRAW,0,0
+2026-02-11 19:40:00+00:00,26,PL,Crystal Palace FC,Burnley FC,AWAY_TEAM,2,3
+2026-02-11 20:15:00+00:00,26,PL,Sunderland AFC,Liverpool FC,AWAY_TEAM,0,1
+2026-02-12 20:00:00+00:00,26,PL,Brentford FC,Arsenal FC,DRAW,1,1
+2026-02-13 18:00:00+00:00,22,FL1,Stade Rennais FC 1901,Paris Saint-Germain FC,HOME_TEAM,3,1
+2026-02-13 19:30:00+00:00,22,BL1,Borussia Dortmund,1. FSV Mainz 05,HOME_TEAM,4,0
+2026-02-13 19:45:00+00:00,25,SA,AC Pisa 1909,AC Milan,AWAY_TEAM,1,2
+2026-02-13 20:00:00+00:00,24,PD,Elche CF,CA Osasuna,DRAW,0,0
+2026-02-13 20:05:00+00:00,22,FL1,AS Monaco FC,FC Nantes,HOME_TEAM,3,1
+2026-02-14 13:00:00+00:00,24,PD,RCD Espanyol de Barcelona,RC Celta de Vigo,DRAW,2,2
+2026-02-14 14:00:00+00:00,25,SA,Como 1907,ACF Fiorentina,AWAY_TEAM,1,2
+2026-02-14 14:30:00+00:00,22,BL1,SV Werder Bremen,FC Bayern München,AWAY_TEAM,0,3
+2026-02-14 14:30:00+00:00,22,BL1,Eintracht Frankfurt,Borussia Mönchengladbach,HOME_TEAM,3,0
+2026-02-14 14:30:00+00:00,22,BL1,Bayer 04 Leverkusen,FC St. Pauli 1910,HOME_TEAM,4,0
+2026-02-14 14:30:00+00:00,22,BL1,Hamburger SV,1. FC Union Berlin,HOME_TEAM,3,2
+2026-02-14 14:30:00+00:00,22,BL1,TSG 1899 Hoffenheim,SC Freiburg,HOME_TEAM,3,0
+2026-02-14 15:15:00+00:00,24,PD,Getafe CF,Villarreal CF,HOME_TEAM,2,1
+2026-02-14 16:00:00+00:00,22,FL1,Olympique de Marseille,RC Strasbourg Alsace,DRAW,2,2
+2026-02-14 17:00:00+00:00,25,SA,SS Lazio,Atalanta BC,AWAY_TEAM,0,2
+2026-02-14 17:30:00+00:00,22,BL1,VfB Stuttgart,1. FC Köln,HOME_TEAM,3,1
+2026-02-14 17:30:00+00:00,24,PD,Sevilla FC,Deportivo Alavés,DRAW,1,1
+2026-02-14 18:00:00+00:00,22,FL1,Lille OSC,Stade Brestois 29,DRAW,1,1
+2026-02-14 19:45:00+00:00,25,SA,FC Internazionale Milano,Juventus FC,HOME_TEAM,3,2
+2026-02-14 20:00:00+00:00,24,PD,Real Madrid CF,Real Sociedad de Fútbol,HOME_TEAM,4,1
+2026-02-14 20:05:00+00:00,22,FL1,Paris FC,Racing Club de Lens,AWAY_TEAM,0,5
+2026-02-15 11:30:00+00:00,25,SA,Udinese Calcio,US Sassuolo Calcio,AWAY_TEAM,1,2
+2026-02-15 13:00:00+00:00,24,PD,Real Oviedo,Athletic Club,AWAY_TEAM,1,2
+2026-02-15 14:00:00+00:00,25,SA,Parma Calcio 1913,Hellas Verona FC,HOME_TEAM,2,1
+2026-02-15 14:00:00+00:00,25,SA,US Cremonese,Genoa CFC,DRAW,0,0
+2026-02-15 14:00:00+00:00,22,FL1,Le Havre AC,Toulouse FC,HOME_TEAM,2,1
+2026-02-15 14:30:00+00:00,22,BL1,FC Augsburg,1. FC Heidenheim 1846,HOME_TEAM,1,0
+2026-02-15 15:15:00+00:00,24,PD,Rayo Vallecano de Madrid,Club Atlético de Madrid,HOME_TEAM,3,0
+2026-02-15 16:15:00+00:00,22,FL1,FC Lorient,Angers SCO,HOME_TEAM,2,0
+2026-02-15 16:15:00+00:00,22,FL1,FC Metz,AJ Auxerre,AWAY_TEAM,1,3
+2026-02-15 16:30:00+00:00,22,BL1,RB Leipzig,VfL Wolfsburg,DRAW,2,2
+2026-02-15 17:00:00+00:00,25,SA,Torino FC,Bologna FC 1909,AWAY_TEAM,1,2
+2026-02-15 17:30:00+00:00,24,PD,Levante UD,Valencia CF,AWAY_TEAM,0,2
+2026-02-15 19:45:00+00:00,22,FL1,Olympique Lyonnais,OGC Nice,HOME_TEAM,2,0
+2026-02-15 19:45:00+00:00,25,SA,SSC Napoli,AS Roma,DRAW,2,2
+2026-02-15 20:00:00+00:00,24,PD,RCD Mallorca,Real Betis Balompié,AWAY_TEAM,1,2
+2026-02-16 19:45:00+00:00,25,SA,Cagliari Calcio,US Lecce,AWAY_TEAM,0,2
+2026-02-16 20:00:00+00:00,24,PD,Girona FC,FC Barcelona,HOME_TEAM,2,1
+2026-02-18 19:00:00+00:00,16,PD,Levante UD,Villarreal CF,AWAY_TEAM,0,1
+2026-02-18 19:45:00+00:00,24,SA,AC Milan,Como 1907,DRAW,1,1
+2026-02-18 20:00:00+00:00,31,PL,Wolverhampton Wanderers FC,Arsenal FC,DRAW,2,2
+2026-02-20 19:30:00+00:00,23,BL1,1. FSV Mainz 05,Hamburger SV,DRAW,1,1
+2026-02-20 19:45:00+00:00,23,FL1,Stade Brestois 29,Olympique de Marseille,HOME_TEAM,2,0
+2026-02-20 19:45:00+00:00,26,SA,US Sassuolo Calcio,Hellas Verona FC,HOME_TEAM,3,0
+2026-02-20 20:00:00+00:00,25,PD,Athletic Club,Elche CF,HOME_TEAM,2,1
+2026-02-21 13:00:00+00:00,25,PD,Real Sociedad de Fútbol,Real Oviedo,DRAW,3,3
+2026-02-21 14:00:00+00:00,26,SA,Juventus FC,Como 1907,AWAY_TEAM,0,2
+2026-02-21 14:30:00+00:00,23,BL1,FC Bayern München,Eintracht Frankfurt,HOME_TEAM,3,2
+2026-02-21 14:30:00+00:00,23,BL1,VfL Wolfsburg,FC Augsburg,AWAY_TEAM,2,3
+2026-02-21 14:30:00+00:00,23,BL1,1. FC Köln,TSG 1899 Hoffenheim,DRAW,2,2
+2026-02-21 14:30:00+00:00,23,BL1,1. FC Union Berlin,Bayer 04 Leverkusen,HOME_TEAM,1,0
+2026-02-21 15:00:00+00:00,27,PL,Chelsea FC,Burnley FC,DRAW,1,1
+2026-02-21 15:00:00+00:00,27,PL,Brentford FC,Brighton & Hove Albion FC,AWAY_TEAM,0,2
+2026-02-21 15:00:00+00:00,27,PL,Aston Villa FC,Leeds United FC,DRAW,1,1
+2026-02-21 15:15:00+00:00,25,PD,Real Betis Balompié,Rayo Vallecano de Madrid,DRAW,1,1
+2026-02-21 16:00:00+00:00,23,FL1,Racing Club de Lens,AS Monaco FC,AWAY_TEAM,2,3
+2026-02-21 17:00:00+00:00,26,SA,US Lecce,FC Internazionale Milano,AWAY_TEAM,0,2
+2026-02-21 17:30:00+00:00,27,PL,West Ham United FC,AFC Bournemouth,DRAW,0,0
+2026-02-21 17:30:00+00:00,23,BL1,RB Leipzig,Borussia Dortmund,DRAW,2,2
+2026-02-21 17:30:00+00:00,25,PD,CA Osasuna,Real Madrid CF,HOME_TEAM,2,1
+2026-02-21 18:00:00+00:00,23,FL1,Toulouse FC,Paris FC,DRAW,1,1
+2026-02-21 19:45:00+00:00,26,SA,Cagliari Calcio,SS Lazio,DRAW,0,0
+2026-02-21 20:00:00+00:00,27,PL,Manchester City FC,Newcastle United FC,HOME_TEAM,2,1
+2026-02-21 20:00:00+00:00,25,PD,Club Atlético de Madrid,RCD Espanyol de Barcelona,HOME_TEAM,4,2
+2026-02-21 20:05:00+00:00,23,FL1,Paris Saint-Germain FC,FC Metz,HOME_TEAM,3,0
+2026-02-22 11:30:00+00:00,26,SA,Genoa CFC,Torino FC,HOME_TEAM,3,0
+2026-02-22 13:00:00+00:00,25,PD,Getafe CF,Sevilla FC,AWAY_TEAM,0,1
+2026-02-22 14:00:00+00:00,27,PL,Nottingham Forest FC,Liverpool FC,AWAY_TEAM,0,1
+2026-02-22 14:00:00+00:00,26,SA,Atalanta BC,SSC Napoli,HOME_TEAM,2,1
+2026-02-22 14:00:00+00:00,27,PL,Sunderland AFC,Fulham FC,AWAY_TEAM,1,3
+2026-02-22 14:00:00+00:00,27,PL,Crystal Palace FC,Wolverhampton Wanderers FC,HOME_TEAM,1,0
+2026-02-22 14:00:00+00:00,23,FL1,AJ Auxerre,Stade Rennais FC 1901,AWAY_TEAM,0,3
+2026-02-22 14:30:00+00:00,23,BL1,SC Freiburg,Borussia Mönchengladbach,HOME_TEAM,2,1
+2026-02-22 15:15:00+00:00,25,PD,FC Barcelona,Levante UD,HOME_TEAM,3,0
+2026-02-22 16:15:00+00:00,23,FL1,Angers SCO,Lille OSC,AWAY_TEAM,0,1
+2026-02-22 16:15:00+00:00,23,FL1,FC Nantes,Le Havre AC,HOME_TEAM,2,0
+2026-02-22 16:15:00+00:00,23,FL1,OGC Nice,FC Lorient,DRAW,3,3
+2026-02-22 16:30:00+00:00,27,PL,Tottenham Hotspur FC,Arsenal FC,AWAY_TEAM,1,4
+2026-02-22 16:30:00+00:00,23,BL1,FC St. Pauli 1910,SV Werder Bremen,HOME_TEAM,2,1
+2026-02-22 17:00:00+00:00,26,SA,AC Milan,Parma Calcio 1913,AWAY_TEAM,0,1
+2026-02-22 17:30:00+00:00,25,PD,RC Celta de Vigo,RCD Mallorca,HOME_TEAM,2,0
+2026-02-22 18:30:00+00:00,23,BL1,1. FC Heidenheim 1846,VfB Stuttgart,DRAW,3,3
+2026-02-22 19:45:00+00:00,23,FL1,RC Strasbourg Alsace,Olympique Lyonnais,HOME_TEAM,3,1
+2026-02-22 19:45:00+00:00,26,SA,AS Roma,US Cremonese,HOME_TEAM,3,0
+2026-02-22 20:00:00+00:00,25,PD,Villarreal CF,Valencia CF,HOME_TEAM,2,1
+2026-02-23 17:30:00+00:00,26,SA,ACF Fiorentina,AC Pisa 1909,HOME_TEAM,1,0
+2026-02-23 19:45:00+00:00,26,SA,Bologna FC 1909,Udinese Calcio,HOME_TEAM,1,0
+2026-02-23 20:00:00+00:00,25,PD,Deportivo Alavés,Girona FC,DRAW,2,2
+2026-02-23 20:00:00+00:00,27,PL,Everton FC,Manchester United FC,AWAY_TEAM,0,1
+2026-02-27 19:30:00+00:00,24,BL1,FC Augsburg,1. FC Köln,HOME_TEAM,2,0
+2026-02-27 19:45:00+00:00,27,SA,Parma Calcio 1913,Cagliari Calcio,DRAW,1,1
+2026-02-27 19:45:00+00:00,24,FL1,RC Strasbourg Alsace,Racing Club de Lens,DRAW,1,1
+2026-02-27 20:00:00+00:00,28,PL,Wolverhampton Wanderers FC,Aston Villa FC,HOME_TEAM,2,0
+2026-02-27 20:00:00+00:00,26,PD,Levante UD,Deportivo Alavés,HOME_TEAM,2,0
+2026-02-28 12:30:00+00:00,28,PL,AFC Bournemouth,Sunderland AFC,DRAW,1,1
+2026-02-28 13:00:00+00:00,26,PD,Rayo Vallecano de Madrid,Athletic Club,DRAW,1,1
+2026-02-28 14:00:00+00:00,27,SA,Como 1907,US Lecce,HOME_TEAM,3,1
+2026-02-28 14:30:00+00:00,24,BL1,SV Werder Bremen,1. FC Heidenheim 1846,HOME_TEAM,2,0
+2026-02-28 14:30:00+00:00,24,BL1,TSG 1899 Hoffenheim,FC St. Pauli 1910,AWAY_TEAM,0,1
+2026-02-28 14:30:00+00:00,24,BL1,Borussia Mönchengladbach,1. FC Union Berlin,HOME_TEAM,1,0
+2026-02-28 14:30:00+00:00,24,BL1,Bayer 04 Leverkusen,1. FSV Mainz 05,DRAW,1,1
+2026-02-28 15:00:00+00:00,28,PL,Liverpool FC,West Ham United FC,HOME_TEAM,5,2
+2026-02-28 15:00:00+00:00,28,PL,Newcastle United FC,Everton FC,AWAY_TEAM,2,3
+2026-02-28 15:00:00+00:00,28,PL,Burnley FC,Brentford FC,AWAY_TEAM,3,4
+2026-02-28 15:15:00+00:00,26,PD,FC Barcelona,Villarreal CF,HOME_TEAM,4,1
+2026-02-28 16:00:00+00:00,24,FL1,Stade Rennais FC 1901,Toulouse FC,HOME_TEAM,1,0
+2026-02-28 17:00:00+00:00,27,SA,Hellas Verona FC,SSC Napoli,AWAY_TEAM,1,2
+2026-02-28 17:30:00+00:00,24,BL1,Borussia Dortmund,FC Bayern München,AWAY_TEAM,2,3
+2026-02-28 17:30:00+00:00,28,PL,Leeds United FC,Manchester City FC,AWAY_TEAM,0,1
+2026-02-28 17:30:00+00:00,26,PD,RCD Mallorca,Real Sociedad de Fútbol,AWAY_TEAM,0,1
+2026-02-28 18:00:00+00:00,24,FL1,AS Monaco FC,Angers SCO,HOME_TEAM,2,0
+2026-02-28 19:45:00+00:00,27,SA,FC Internazionale Milano,Genoa CFC,HOME_TEAM,2,0
+2026-02-28 20:00:00+00:00,26,PD,Real Oviedo,Club Atlético de Madrid,AWAY_TEAM,0,1
+2026-02-28 20:05:00+00:00,24,FL1,Le Havre AC,Paris Saint-Germain FC,AWAY_TEAM,0,1
+2026-03-01 11:30:00+00:00,27,SA,US Cremonese,AC Milan,AWAY_TEAM,0,2
+2026-03-01 13:00:00+00:00,26,PD,Elche CF,RCD Espanyol de Barcelona,DRAW,2,2
+2026-03-01 14:00:00+00:00,27,SA,US Sassuolo Calcio,Atalanta BC,HOME_TEAM,2,1
+2026-03-01 14:00:00+00:00,28,PL,Manchester United FC,Crystal Palace FC,HOME_TEAM,2,1
+2026-03-01 14:00:00+00:00,28,PL,Fulham FC,Tottenham Hotspur FC,HOME_TEAM,2,1
+2026-03-01 14:00:00+00:00,28,PL,Brighton & Hove Albion FC,Nottingham Forest FC,HOME_TEAM,2,1
+2026-03-01 14:00:00+00:00,24,FL1,Paris FC,OGC Nice,HOME_TEAM,1,0
+2026-03-01 14:30:00+00:00,24,BL1,VfB Stuttgart,VfL Wolfsburg,HOME_TEAM,4,0
+2026-03-01 15:15:00+00:00,26,PD,Valencia CF,CA Osasuna,HOME_TEAM,1,0
+2026-03-01 16:15:00+00:00,24,FL1,Lille OSC,FC Nantes,HOME_TEAM,1,0
+2026-03-01 16:15:00+00:00,24,FL1,FC Metz,Stade Brestois 29,AWAY_TEAM,0,1
+2026-03-01 16:15:00+00:00,24,FL1,FC Lorient,AJ Auxerre,DRAW,2,2
+2026-03-01 16:30:00+00:00,24,BL1,Eintracht Frankfurt,SC Freiburg,HOME_TEAM,2,0
+2026-03-01 16:30:00+00:00,28,PL,Arsenal FC,Chelsea FC,HOME_TEAM,2,1
+2026-03-01 17:00:00+00:00,27,SA,Torino FC,SS Lazio,HOME_TEAM,2,0
+2026-03-01 17:30:00+00:00,26,PD,Real Betis Balompié,Sevilla FC,DRAW,2,2
+2026-03-01 18:30:00+00:00,24,BL1,Hamburger SV,RB Leipzig,AWAY_TEAM,1,2
+2026-03-01 19:45:00+00:00,24,FL1,Olympique de Marseille,Olympique Lyonnais,HOME_TEAM,3,2
+2026-03-01 19:45:00+00:00,27,SA,AS Roma,Juventus FC,DRAW,3,3
+2026-03-01 20:00:00+00:00,26,PD,Girona FC,RC Celta de Vigo,AWAY_TEAM,1,2
+2026-03-02 17:30:00+00:00,27,SA,AC Pisa 1909,Bologna FC 1909,AWAY_TEAM,0,1
+2026-03-02 19:45:00+00:00,27,SA,Udinese Calcio,ACF Fiorentina,HOME_TEAM,3,0
+2026-03-02 20:00:00+00:00,26,PD,Real Madrid CF,Getafe CF,AWAY_TEAM,0,1
+2026-03-03 19:30:00+00:00,29,PL,AFC Bournemouth,Brentford FC,DRAW,0,0
+2026-03-03 19:30:00+00:00,29,PL,Everton FC,Burnley FC,HOME_TEAM,2,0
+2026-03-03 19:30:00+00:00,29,PL,Leeds United FC,Sunderland AFC,AWAY_TEAM,0,1
+2026-03-03 20:15:00+00:00,29,PL,Wolverhampton Wanderers FC,Liverpool FC,HOME_TEAM,2,1
+2026-03-04 18:00:00+00:00,23,PD,Rayo Vallecano de Madrid,Real Oviedo,HOME_TEAM,3,0
+2026-03-04 19:30:00+00:00,29,PL,Brighton & Hove Albion FC,Arsenal FC,AWAY_TEAM,0,1
+2026-03-04 19:30:00+00:00,29,PL,Fulham FC,West Ham United FC,AWAY_TEAM,0,1
+2026-03-04 19:30:00+00:00,29,PL,Manchester City FC,Nottingham Forest FC,DRAW,2,2
+2026-03-04 19:30:00+00:00,17,BL1,Hamburger SV,Bayer 04 Leverkusen,AWAY_TEAM,0,1
+2026-03-04 19:30:00+00:00,29,PL,Aston Villa FC,Chelsea FC,AWAY_TEAM,1,4
+2026-03-04 20:15:00+00:00,29,PL,Newcastle United FC,Manchester United FC,HOME_TEAM,2,1
+2026-03-05 20:00:00+00:00,29,PL,Tottenham Hotspur FC,Crystal Palace FC,AWAY_TEAM,1,3
+2026-03-06 19:30:00+00:00,25,BL1,FC Bayern München,Borussia Mönchengladbach,HOME_TEAM,4,1
+2026-03-06 19:45:00+00:00,25,FL1,Paris Saint-Germain FC,AS Monaco FC,AWAY_TEAM,1,3
+2026-03-06 19:45:00+00:00,28,SA,SSC Napoli,Torino FC,HOME_TEAM,2,1
+2026-03-06 20:00:00+00:00,27,PD,RC Celta de Vigo,Real Madrid CF,AWAY_TEAM,1,2
+2026-03-07 13:00:00+00:00,27,PD,CA Osasuna,RCD Mallorca,DRAW,2,2
+2026-03-07 14:00:00+00:00,28,SA,Cagliari Calcio,Como 1907,AWAY_TEAM,1,2
+2026-03-07 14:30:00+00:00,25,BL1,VfL Wolfsburg,Hamburger SV,AWAY_TEAM,1,2
+2026-03-07 14:30:00+00:00,25,BL1,1. FC Heidenheim 1846,TSG 1899 Hoffenheim,AWAY_TEAM,2,4
+2026-03-07 14:30:00+00:00,25,BL1,SC Freiburg,Bayer 04 Leverkusen,DRAW,3,3
+2026-03-07 14:30:00+00:00,25,BL1,1. FSV Mainz 05,VfB Stuttgart,DRAW,2,2
+2026-03-07 14:30:00+00:00,25,BL1,RB Leipzig,FC Augsburg,HOME_TEAM,2,1
+2026-03-07 15:15:00+00:00,27,PD,Levante UD,Girona FC,DRAW,1,1
+2026-03-07 16:00:00+00:00,25,FL1,FC Nantes,Angers SCO,AWAY_TEAM,0,1
+2026-03-07 17:00:00+00:00,28,SA,Atalanta BC,Udinese Calcio,DRAW,2,2
+2026-03-07 17:30:00+00:00,27,PD,Club Atlético de Madrid,Real Sociedad de Fútbol,HOME_TEAM,3,2
+2026-03-07 17:30:00+00:00,25,BL1,1. FC Köln,Borussia Dortmund,AWAY_TEAM,1,2
+2026-03-07 18:00:00+00:00,25,FL1,AJ Auxerre,RC Strasbourg Alsace,DRAW,0,0
+2026-03-07 19:45:00+00:00,28,SA,Juventus FC,AC Pisa 1909,HOME_TEAM,4,0
+2026-03-07 20:00:00+00:00,27,PD,Athletic Club,FC Barcelona,AWAY_TEAM,0,1
+2026-03-07 20:05:00+00:00,25,FL1,Toulouse FC,Olympique de Marseille,AWAY_TEAM,0,1
+2026-03-08 11:30:00+00:00,28,SA,US Lecce,US Cremonese,HOME_TEAM,2,1
+2026-03-08 13:00:00+00:00,27,PD,Villarreal CF,Elche CF,HOME_TEAM,2,1
+2026-03-08 14:00:00+00:00,25,FL1,Racing Club de Lens,FC Metz,HOME_TEAM,3,0
+2026-03-08 14:00:00+00:00,28,SA,Bologna FC 1909,Hellas Verona FC,AWAY_TEAM,1,2
+2026-03-08 14:00:00+00:00,28,SA,ACF Fiorentina,Parma Calcio 1913,DRAW,0,0
+2026-03-08 14:30:00+00:00,25,BL1,FC St. Pauli 1910,Eintracht Frankfurt,DRAW,0,0
+2026-03-08 15:15:00+00:00,27,PD,Getafe CF,Real Betis Balompié,HOME_TEAM,2,0
+2026-03-08 16:15:00+00:00,25,FL1,OGC Nice,Stade Rennais FC 1901,AWAY_TEAM,0,4
+2026-03-08 16:15:00+00:00,25,FL1,Lille OSC,FC Lorient,DRAW,1,1
+2026-03-08 16:15:00+00:00,25,FL1,Stade Brestois 29,Le Havre AC,HOME_TEAM,2,0
+2026-03-08 16:30:00+00:00,25,BL1,1. FC Union Berlin,SV Werder Bremen,AWAY_TEAM,1,4
+2026-03-08 17:00:00+00:00,28,SA,Genoa CFC,AS Roma,HOME_TEAM,2,1
+2026-03-08 17:30:00+00:00,27,PD,Sevilla FC,Rayo Vallecano de Madrid,DRAW,1,1
+2026-03-08 19:45:00+00:00,25,FL1,Olympique Lyonnais,Paris FC,DRAW,1,1
+2026-03-08 19:45:00+00:00,28,SA,AC Milan,FC Internazionale Milano,HOME_TEAM,1,0
+2026-03-08 20:00:00+00:00,27,PD,Valencia CF,Deportivo Alavés,HOME_TEAM,3,2
+2026-03-09 19:45:00+00:00,28,SA,SS Lazio,US Sassuolo Calcio,HOME_TEAM,2,1
+2026-03-09 20:00:00+00:00,27,PD,RCD Espanyol de Barcelona,Real Oviedo,DRAW,1,1
+2026-03-13 19:30:00+00:00,26,BL1,Borussia Mönchengladbach,FC St. Pauli 1910,HOME_TEAM,2,0
+2026-03-13 19:45:00+00:00,26,FL1,Olympique de Marseille,AJ Auxerre,HOME_TEAM,1,0
+2026-03-13 19:45:00+00:00,29,SA,Torino FC,Parma Calcio 1913,HOME_TEAM,4,1
+2026-03-13 20:00:00+00:00,28,PD,Deportivo Alavés,Villarreal CF,DRAW,1,1
+2026-03-14 13:00:00+00:00,28,PD,Girona FC,Athletic Club,HOME_TEAM,3,0
+2026-03-14 14:00:00+00:00,29,SA,FC Internazionale Milano,Atalanta BC,DRAW,1,1
+2026-03-14 14:30:00+00:00,26,BL1,TSG 1899 Hoffenheim,VfL Wolfsburg,DRAW,1,1
+2026-03-14 14:30:00+00:00,26,BL1,Borussia Dortmund,FC Augsburg,HOME_TEAM,2,0
+2026-03-14 14:30:00+00:00,26,BL1,Eintracht Frankfurt,1. FC Heidenheim 1846,HOME_TEAM,1,0
+2026-03-14 14:30:00+00:00,26,BL1,Bayer 04 Leverkusen,FC Bayern München,DRAW,1,1
+2026-03-14 15:00:00+00:00,30,PL,Sunderland AFC,Brighton & Hove Albion FC,AWAY_TEAM,0,1
+2026-03-14 15:00:00+00:00,30,PL,Burnley FC,AFC Bournemouth,DRAW,0,0
+2026-03-14 15:15:00+00:00,28,PD,Club Atlético de Madrid,Getafe CF,HOME_TEAM,1,0
+2026-03-14 16:00:00+00:00,26,FL1,FC Lorient,Racing Club de Lens,HOME_TEAM,2,1
+2026-03-14 17:00:00+00:00,29,SA,SSC Napoli,US Lecce,HOME_TEAM,2,1
+2026-03-14 17:30:00+00:00,26,BL1,Hamburger SV,1. FC Köln,DRAW,1,1
+2026-03-14 17:30:00+00:00,28,PD,Real Oviedo,Valencia CF,HOME_TEAM,1,0
+2026-03-14 17:30:00+00:00,30,PL,Arsenal FC,Everton FC,HOME_TEAM,2,0
+2026-03-14 17:30:00+00:00,30,PL,Chelsea FC,Newcastle United FC,AWAY_TEAM,0,1
+2026-03-14 18:00:00+00:00,26,FL1,Angers SCO,OGC Nice,AWAY_TEAM,0,2
+2026-03-14 19:45:00+00:00,29,SA,Udinese Calcio,Juventus FC,AWAY_TEAM,0,1
+2026-03-14 20:00:00+00:00,28,PD,Real Madrid CF,Elche CF,HOME_TEAM,4,1
+2026-03-14 20:00:00+00:00,30,PL,West Ham United FC,Manchester City FC,DRAW,1,1
+2026-03-14 20:05:00+00:00,26,FL1,AS Monaco FC,Stade Brestois 29,HOME_TEAM,2,0
+2026-03-15 11:30:00+00:00,29,SA,Hellas Verona FC,Genoa CFC,AWAY_TEAM,0,2
+2026-03-15 13:00:00+00:00,28,PD,RCD Mallorca,RCD Espanyol de Barcelona,HOME_TEAM,2,1
+2026-03-15 14:00:00+00:00,30,PL,Manchester United FC,Aston Villa FC,HOME_TEAM,3,1
+2026-03-15 14:00:00+00:00,30,PL,Nottingham Forest FC,Fulham FC,DRAW,0,0
+2026-03-15 14:00:00+00:00,26,FL1,RC Strasbourg Alsace,Paris FC,DRAW,0,0
+2026-03-15 14:00:00+00:00,29,SA,US Sassuolo Calcio,Bologna FC 1909,AWAY_TEAM,0,1
+2026-03-15 14:00:00+00:00,30,PL,Crystal Palace FC,Leeds United FC,DRAW,0,0
+2026-03-15 14:00:00+00:00,29,SA,AC Pisa 1909,Cagliari Calcio,HOME_TEAM,3,1
+2026-03-15 14:30:00+00:00,26,BL1,SV Werder Bremen,1. FSV Mainz 05,AWAY_TEAM,0,2
+2026-03-15 15:15:00+00:00,28,PD,FC Barcelona,Sevilla FC,HOME_TEAM,5,2
+2026-03-15 16:15:00+00:00,26,FL1,FC Metz,Toulouse FC,AWAY_TEAM,3,4
+2026-03-15 16:15:00+00:00,26,FL1,Le Havre AC,Olympique Lyonnais,DRAW,0,0
+2026-03-15 16:30:00+00:00,30,PL,Liverpool FC,Tottenham Hotspur FC,DRAW,1,1
+2026-03-15 16:30:00+00:00,26,BL1,SC Freiburg,1. FC Union Berlin,AWAY_TEAM,0,1
+2026-03-15 17:00:00+00:00,29,SA,Como 1907,AS Roma,HOME_TEAM,2,1
+2026-03-15 17:30:00+00:00,28,PD,Real Betis Balompié,RC Celta de Vigo,DRAW,1,1
+2026-03-15 18:30:00+00:00,26,BL1,VfB Stuttgart,RB Leipzig,HOME_TEAM,1,0
+2026-03-15 19:45:00+00:00,29,SA,SS Lazio,AC Milan,HOME_TEAM,1,0
+2026-03-15 19:45:00+00:00,26,FL1,Stade Rennais FC 1901,Lille OSC,AWAY_TEAM,1,2
+2026-03-15 20:00:00+00:00,28,PD,Real Sociedad de Fútbol,CA Osasuna,HOME_TEAM,3,1
+2026-03-16 19:45:00+00:00,29,SA,US Cremonese,ACF Fiorentina,AWAY_TEAM,1,4
+2026-03-16 20:00:00+00:00,30,PL,Brentford FC,Wolverhampton Wanderers FC,DRAW,2,2
+2026-03-16 20:00:00+00:00,28,PD,Rayo Vallecano de Madrid,Levante UD,DRAW,1,1
+2026-03-20 17:30:00+00:00,30,SA,Cagliari Calcio,SSC Napoli,AWAY_TEAM,0,1
+2026-03-20 19:30:00+00:00,27,BL1,RB Leipzig,TSG 1899 Hoffenheim,HOME_TEAM,5,0
+2026-03-20 19:45:00+00:00,30,SA,Genoa CFC,Udinese Calcio,AWAY_TEAM,0,2
+2026-03-20 19:45:00+00:00,27,FL1,Racing Club de Lens,Angers SCO,HOME_TEAM,5,1
+2026-03-20 20:00:00+00:00,31,PL,AFC Bournemouth,Manchester United FC,DRAW,2,2
+2026-03-20 20:00:00+00:00,29,PD,Villarreal CF,Real Sociedad de Fútbol,HOME_TEAM,3,1
+2026-03-21 12:45:00+00:00,31,PL,Brighton & Hove Albion FC,Liverpool FC,HOME_TEAM,2,1
+2026-03-21 13:00:00+00:00,29,PD,Elche CF,RCD Mallorca,HOME_TEAM,2,1
+2026-03-21 14:00:00+00:00,30,SA,Parma Calcio 1913,US Cremonese,AWAY_TEAM,0,2
+2026-03-21 14:30:00+00:00,27,BL1,VfL Wolfsburg,SV Werder Bremen,AWAY_TEAM,0,1
+2026-03-21 14:30:00+00:00,27,BL1,FC Bayern München,1. FC Union Berlin,HOME_TEAM,4,0
+2026-03-21 14:30:00+00:00,27,BL1,1. FC Köln,Borussia Mönchengladbach,DRAW,3,3
+2026-03-21 14:30:00+00:00,27,BL1,1. FC Heidenheim 1846,Bayer 04 Leverkusen,DRAW,3,3
+2026-03-21 15:00:00+00:00,31,PL,Fulham FC,Burnley FC,HOME_TEAM,3,1
+2026-03-21 15:15:00+00:00,29,PD,RCD Espanyol de Barcelona,Getafe CF,AWAY_TEAM,1,2
+2026-03-21 16:00:00+00:00,27,FL1,Toulouse FC,FC Lorient,HOME_TEAM,1,0
+2026-03-21 17:00:00+00:00,30,SA,AC Milan,Torino FC,HOME_TEAM,3,2
+2026-03-21 17:30:00+00:00,27,BL1,Borussia Dortmund,Hamburger SV,HOME_TEAM,3,2
+2026-03-21 17:30:00+00:00,29,PD,Levante UD,Real Oviedo,HOME_TEAM,4,2
+2026-03-21 17:30:00+00:00,31,PL,Everton FC,Chelsea FC,HOME_TEAM,3,0
+2026-03-21 17:30:00+00:00,29,PD,CA Osasuna,Girona FC,HOME_TEAM,1,0
+2026-03-21 18:00:00+00:00,27,FL1,AJ Auxerre,Stade Brestois 29,HOME_TEAM,3,0
+2026-03-21 19:45:00+00:00,30,SA,Juventus FC,US Sassuolo Calcio,DRAW,1,1
+2026-03-21 20:00:00+00:00,31,PL,Leeds United FC,Brentford FC,DRAW,0,0
+2026-03-21 20:00:00+00:00,29,PD,Sevilla FC,Valencia CF,AWAY_TEAM,0,2
+2026-03-21 20:05:00+00:00,27,FL1,OGC Nice,Paris Saint-Germain FC,AWAY_TEAM,0,4
+2026-03-22 11:30:00+00:00,30,SA,Como 1907,AC Pisa 1909,HOME_TEAM,5,0
+2026-03-22 12:00:00+00:00,31,PL,Newcastle United FC,Sunderland AFC,AWAY_TEAM,1,2
+2026-03-22 13:00:00+00:00,29,PD,FC Barcelona,Rayo Vallecano de Madrid,HOME_TEAM,1,0
+2026-03-22 14:00:00+00:00,27,FL1,Olympique Lyonnais,AS Monaco FC,AWAY_TEAM,1,2
+2026-03-22 14:00:00+00:00,30,SA,Atalanta BC,Hellas Verona FC,HOME_TEAM,1,0
+2026-03-22 14:00:00+00:00,30,SA,Bologna FC 1909,SS Lazio,AWAY_TEAM,0,2
+2026-03-22 14:15:00+00:00,31,PL,Tottenham Hotspur FC,Nottingham Forest FC,AWAY_TEAM,0,3
+2026-03-22 14:15:00+00:00,31,PL,Aston Villa FC,West Ham United FC,HOME_TEAM,2,0
+2026-03-22 14:30:00+00:00,27,BL1,1. FSV Mainz 05,Eintracht Frankfurt,HOME_TEAM,2,1
+2026-03-22 15:15:00+00:00,29,PD,RC Celta de Vigo,Deportivo Alavés,AWAY_TEAM,3,4
+2026-03-22 16:15:00+00:00,27,FL1,Stade Rennais FC 1901,FC Metz,DRAW,0,0
+2026-03-22 16:15:00+00:00,27,FL1,Paris FC,Le Havre AC,HOME_TEAM,3,2
+2026-03-22 16:15:00+00:00,27,FL1,Olympique de Marseille,Lille OSC,AWAY_TEAM,1,2
+2026-03-22 16:30:00+00:00,27,BL1,FC St. Pauli 1910,SC Freiburg,AWAY_TEAM,1,2
+2026-03-22 17:00:00+00:00,30,SA,AS Roma,US Lecce,HOME_TEAM,1,0
+2026-03-22 17:30:00+00:00,29,PD,Athletic Club,Real Betis Balompié,HOME_TEAM,2,1
+2026-03-22 18:30:00+00:00,27,BL1,FC Augsburg,VfB Stuttgart,AWAY_TEAM,2,5
+2026-03-22 19:45:00+00:00,30,SA,ACF Fiorentina,FC Internazionale Milano,DRAW,1,1
+2026-03-22 19:45:00+00:00,27,FL1,FC Nantes,RC Strasbourg Alsace,AWAY_TEAM,2,3
+2026-03-22 20:00:00+00:00,29,PD,Real Madrid CF,Club Atlético de Madrid,HOME_TEAM,3,2
+2026-04-03 18:45:00+00:00,28,FL1,Paris Saint-Germain FC,Toulouse FC,HOME_TEAM,3,1
+2026-04-03 19:00:00+00:00,30,PD,Rayo Vallecano de Madrid,Elche CF,HOME_TEAM,1,0
+2026-04-04 12:00:00+00:00,30,PD,Real Sociedad de Fútbol,Levante UD,HOME_TEAM,2,0
+2026-04-04 13:00:00+00:00,31,SA,US Sassuolo Calcio,Cagliari Calcio,HOME_TEAM,2,1
+2026-04-04 13:30:00+00:00,28,BL1,TSG 1899 Hoffenheim,1. FSV Mainz 05,AWAY_TEAM,1,2
+2026-04-04 13:30:00+00:00,28,BL1,Hamburger SV,FC Augsburg,DRAW,1,1
+2026-04-04 13:30:00+00:00,28,BL1,Bayer 04 Leverkusen,VfL Wolfsburg,HOME_TEAM,6,3
+2026-04-04 13:30:00+00:00,28,BL1,SV Werder Bremen,RB Leipzig,AWAY_TEAM,1,2
+2026-04-04 13:30:00+00:00,28,BL1,SC Freiburg,FC Bayern München,AWAY_TEAM,2,3
+2026-04-04 13:30:00+00:00,28,BL1,Borussia Mönchengladbach,1. FC Heidenheim 1846,DRAW,2,2
+2026-04-04 14:15:00+00:00,30,PD,RCD Mallorca,Real Madrid CF,HOME_TEAM,2,1
+2026-04-04 15:00:00+00:00,28,FL1,RC Strasbourg Alsace,OGC Nice,HOME_TEAM,3,1
+2026-04-04 16:00:00+00:00,31,SA,Hellas Verona FC,ACF Fiorentina,AWAY_TEAM,0,1
+2026-04-04 16:30:00+00:00,28,BL1,VfB Stuttgart,Borussia Dortmund,AWAY_TEAM,0,2
+2026-04-04 16:30:00+00:00,30,PD,Real Betis Balompié,RCD Espanyol de Barcelona,DRAW,0,0
+2026-04-04 17:00:00+00:00,28,FL1,Stade Brestois 29,Stade Rennais FC 1901,AWAY_TEAM,3,4
+2026-04-04 18:45:00+00:00,31,SA,SS Lazio,Parma Calcio 1913,DRAW,1,1
+2026-04-04 19:00:00+00:00,30,PD,Club Atlético de Madrid,FC Barcelona,AWAY_TEAM,1,2
+2026-04-04 19:05:00+00:00,28,FL1,Lille OSC,Racing Club de Lens,HOME_TEAM,3,0
+2026-04-05 12:00:00+00:00,30,PD,Getafe CF,Athletic Club,HOME_TEAM,2,0
+2026-04-05 13:00:00+00:00,28,FL1,Angers SCO,Olympique Lyonnais,DRAW,0,0
+2026-04-05 13:00:00+00:00,31,SA,US Cremonese,Bologna FC 1909,AWAY_TEAM,1,2
+2026-04-05 13:30:00+00:00,28,BL1,1. FC Union Berlin,FC St. Pauli 1910,DRAW,1,1
+2026-04-05 14:15:00+00:00,30,PD,Valencia CF,RC Celta de Vigo,AWAY_TEAM,2,3
+2026-04-05 15:15:00+00:00,28,FL1,FC Lorient,Paris FC,DRAW,1,1
+2026-04-05 15:15:00+00:00,28,FL1,Le Havre AC,AJ Auxerre,DRAW,1,1
+2026-04-05 15:15:00+00:00,28,FL1,FC Metz,FC Nantes,DRAW,0,0
+2026-04-05 15:30:00+00:00,28,BL1,Eintracht Frankfurt,1. FC Köln,DRAW,2,2
+2026-04-05 16:00:00+00:00,31,SA,AC Pisa 1909,Torino FC,AWAY_TEAM,0,1
+2026-04-05 16:30:00+00:00,30,PD,Real Oviedo,Sevilla FC,HOME_TEAM,1,0
+2026-04-05 18:45:00+00:00,28,FL1,AS Monaco FC,Olympique de Marseille,HOME_TEAM,2,1
+2026-04-05 18:45:00+00:00,31,SA,FC Internazionale Milano,AS Roma,HOME_TEAM,5,2
+2026-04-05 19:00:00+00:00,30,PD,Deportivo Alavés,CA Osasuna,DRAW,2,2
+2026-04-06 10:30:00+00:00,31,SA,Udinese Calcio,Como 1907,DRAW,0,0
+2026-04-06 13:00:00+00:00,31,SA,US Lecce,Atalanta BC,AWAY_TEAM,0,3
+2026-04-06 16:00:00+00:00,31,SA,Juventus FC,Genoa CFC,HOME_TEAM,2,0
+2026-04-06 18:45:00+00:00,31,SA,SSC Napoli,AC Milan,HOME_TEAM,1,0
+2026-04-06 19:00:00+00:00,30,PD,Girona FC,Villarreal CF,HOME_TEAM,1,0
+2026-04-10 17:00:00+00:00,29,FL1,Paris FC,AS Monaco FC,HOME_TEAM,4,1
+2026-04-10 18:30:00+00:00,29,BL1,FC Augsburg,TSG 1899 Hoffenheim,DRAW,2,2
+2026-04-10 18:45:00+00:00,32,SA,AS Roma,AC Pisa 1909,HOME_TEAM,3,0
+2026-04-10 19:00:00+00:00,31,PD,Real Madrid CF,Girona FC,DRAW,1,1
+2026-04-10 19:00:00+00:00,32,PL,West Ham United FC,Wolverhampton Wanderers FC,HOME_TEAM,4,0
+2026-04-10 19:05:00+00:00,29,FL1,Olympique de Marseille,FC Metz,HOME_TEAM,3,1
+2026-04-11 11:30:00+00:00,32,PL,Arsenal FC,AFC Bournemouth,AWAY_TEAM,1,2
+2026-04-11 12:00:00+00:00,31,PD,Real Sociedad de Fútbol,Deportivo Alavés,DRAW,3,3
+2026-04-11 13:00:00+00:00,32,SA,Cagliari Calcio,US Cremonese,HOME_TEAM,1,0
+2026-04-11 13:00:00+00:00,32,SA,Torino FC,Hellas Verona FC,HOME_TEAM,2,1
+2026-04-11 13:30:00+00:00,29,BL1,Borussia Dortmund,Bayer 04 Leverkusen,AWAY_TEAM,0,1
+2026-04-11 13:30:00+00:00,29,BL1,VfL Wolfsburg,Eintracht Frankfurt,AWAY_TEAM,1,2
+2026-04-11 13:30:00+00:00,29,BL1,RB Leipzig,Borussia Mönchengladbach,HOME_TEAM,1,0
+2026-04-11 13:30:00+00:00,29,BL1,1. FC Heidenheim 1846,1. FC Union Berlin,HOME_TEAM,3,1
+2026-04-11 14:00:00+00:00,32,PL,Brentford FC,Everton FC,DRAW,2,2
+2026-04-11 14:00:00+00:00,32,PL,Burnley FC,Brighton & Hove Albion FC,AWAY_TEAM,0,2
+2026-04-11 14:15:00+00:00,31,PD,Elche CF,Valencia CF,HOME_TEAM,1,0
+2026-04-11 16:00:00+00:00,32,SA,AC Milan,Udinese Calcio,AWAY_TEAM,0,3
+2026-04-11 16:30:00+00:00,32,PL,Liverpool FC,Fulham FC,HOME_TEAM,2,0
+2026-04-11 16:30:00+00:00,31,PD,FC Barcelona,RCD Espanyol de Barcelona,HOME_TEAM,4,1
+2026-04-11 16:30:00+00:00,29,BL1,FC St. Pauli 1910,FC Bayern München,AWAY_TEAM,0,5
+2026-04-11 17:00:00+00:00,29,FL1,AJ Auxerre,FC Nantes,DRAW,0,0
+2026-04-11 18:45:00+00:00,32,SA,Atalanta BC,Juventus FC,AWAY_TEAM,0,1
+2026-04-11 19:00:00+00:00,31,PD,Sevilla FC,Club Atlético de Madrid,HOME_TEAM,2,1
+2026-04-11 19:05:00+00:00,29,FL1,Stade Rennais FC 1901,Angers SCO,HOME_TEAM,2,1
+2026-04-12 10:30:00+00:00,32,SA,Genoa CFC,US Sassuolo Calcio,HOME_TEAM,2,1
+2026-04-12 12:00:00+00:00,31,PD,CA Osasuna,Real Betis Balompié,DRAW,1,1
+2026-04-12 13:00:00+00:00,32,PL,Sunderland AFC,Tottenham Hotspur FC,HOME_TEAM,1,0
+2026-04-12 13:00:00+00:00,32,PL,Crystal Palace FC,Newcastle United FC,HOME_TEAM,2,1
+2026-04-12 13:00:00+00:00,32,PL,Nottingham Forest FC,Aston Villa FC,DRAW,1,1
+2026-04-12 13:00:00+00:00,32,SA,Parma Calcio 1913,SSC Napoli,DRAW,1,1
+2026-04-12 13:30:00+00:00,29,BL1,1. FC Köln,SV Werder Bremen,HOME_TEAM,3,1
+2026-04-12 14:15:00+00:00,31,PD,RCD Mallorca,Rayo Vallecano de Madrid,HOME_TEAM,3,0
+2026-04-12 15:15:00+00:00,29,FL1,Toulouse FC,Lille OSC,AWAY_TEAM,0,4
+2026-04-12 15:15:00+00:00,29,FL1,OGC Nice,Le Havre AC,DRAW,1,1
+2026-04-12 15:30:00+00:00,29,BL1,VfB Stuttgart,Hamburger SV,HOME_TEAM,4,0
+2026-04-12 15:30:00+00:00,32,PL,Chelsea FC,Manchester City FC,AWAY_TEAM,0,3
+2026-04-12 16:00:00+00:00,32,SA,Bologna FC 1909,US Lecce,HOME_TEAM,2,0
+2026-04-12 16:30:00+00:00,31,PD,RC Celta de Vigo,Real Oviedo,AWAY_TEAM,0,3
+2026-04-12 17:30:00+00:00,29,BL1,1. FSV Mainz 05,SC Freiburg,AWAY_TEAM,0,1
+2026-04-12 18:45:00+00:00,32,SA,Como 1907,FC Internazionale Milano,AWAY_TEAM,3,4
+2026-04-12 18:45:00+00:00,29,FL1,Olympique Lyonnais,FC Lorient,HOME_TEAM,2,0
+2026-04-12 19:00:00+00:00,31,PD,Athletic Club,Villarreal CF,AWAY_TEAM,1,2
+2026-04-13 18:45:00+00:00,32,SA,ACF Fiorentina,SS Lazio,HOME_TEAM,1,0
+2026-04-13 19:00:00+00:00,31,PD,Levante UD,Getafe CF,HOME_TEAM,1,0
+2026-04-13 19:00:00+00:00,32,PL,Manchester United FC,Leeds United FC,AWAY_TEAM,1,2
+2026-04-17 16:30:00+00:00,33,SA,US Sassuolo Calcio,Como 1907,HOME_TEAM,2,1
+2026-04-17 18:30:00+00:00,30,BL1,FC St. Pauli 1910,1. FC Köln,DRAW,1,1
+2026-04-17 18:45:00+00:00,30,FL1,Racing Club de Lens,Toulouse FC,HOME_TEAM,3,2
+2026-04-17 18:45:00+00:00,33,SA,FC Internazionale Milano,Cagliari Calcio,HOME_TEAM,3,0
+2026-04-18 11:30:00+00:00,33,PL,Brentford FC,Fulham FC,DRAW,0,0
+2026-04-18 13:00:00+00:00,33,SA,Udinese Calcio,Parma Calcio 1913,AWAY_TEAM,0,1
+2026-04-18 13:30:00+00:00,30,BL1,TSG 1899 Hoffenheim,Borussia Dortmund,HOME_TEAM,2,1
+2026-04-18 13:30:00+00:00,30,BL1,1. FC Union Berlin,VfL Wolfsburg,AWAY_TEAM,1,2
+2026-04-18 13:30:00+00:00,30,BL1,SV Werder Bremen,Hamburger SV,HOME_TEAM,3,1
+2026-04-18 13:30:00+00:00,30,BL1,Bayer 04 Leverkusen,FC Augsburg,AWAY_TEAM,1,2
+2026-04-18 14:00:00+00:00,33,PL,Leeds United FC,Wolverhampton Wanderers FC,HOME_TEAM,3,0
+2026-04-18 14:00:00+00:00,33,PL,Newcastle United FC,AFC Bournemouth,AWAY_TEAM,1,2
+2026-04-18 15:00:00+00:00,30,FL1,FC Lorient,Olympique de Marseille,HOME_TEAM,2,0
+2026-04-18 16:00:00+00:00,33,SA,SSC Napoli,SS Lazio,AWAY_TEAM,0,2
+2026-04-18 16:30:00+00:00,30,BL1,Eintracht Frankfurt,RB Leipzig,AWAY_TEAM,1,3
+2026-04-18 16:30:00+00:00,33,PL,Tottenham Hotspur FC,Brighton & Hove Albion FC,DRAW,2,2
+2026-04-18 17:00:00+00:00,30,FL1,Angers SCO,Le Havre AC,DRAW,1,1
+2026-04-18 18:45:00+00:00,33,SA,AS Roma,Atalanta BC,DRAW,1,1
+2026-04-18 19:00:00+00:00,33,PL,Chelsea FC,Manchester United FC,AWAY_TEAM,0,1
+2026-04-18 19:05:00+00:00,30,FL1,Lille OSC,OGC Nice,DRAW,0,0
+2026-04-19 10:30:00+00:00,33,SA,US Cremonese,Torino FC,DRAW,0,0
+2026-04-19 13:00:00+00:00,33,SA,Hellas Verona FC,AC Milan,AWAY_TEAM,0,1
+2026-04-19 13:00:00+00:00,30,FL1,AS Monaco FC,AJ Auxerre,DRAW,2,2
+2026-04-19 13:00:00+00:00,33,PL,Aston Villa FC,Sunderland AFC,HOME_TEAM,4,3
+2026-04-19 13:00:00+00:00,33,PL,Nottingham Forest FC,Burnley FC,HOME_TEAM,4,1
+2026-04-19 13:00:00+00:00,33,PL,Everton FC,Liverpool FC,AWAY_TEAM,1,2
+2026-04-19 13:30:00+00:00,30,BL1,SC Freiburg,1. FC Heidenheim 1846,HOME_TEAM,2,1
+2026-04-19 15:15:00+00:00,30,FL1,RC Strasbourg Alsace,Stade Rennais FC 1901,AWAY_TEAM,0,3
+2026-04-19 15:15:00+00:00,30,FL1,FC Nantes,Stade Brestois 29,DRAW,1,1
+2026-04-19 15:15:00+00:00,30,FL1,FC Metz,Paris FC,AWAY_TEAM,1,3
+2026-04-19 15:30:00+00:00,30,BL1,FC Bayern München,VfB Stuttgart,HOME_TEAM,4,2
+2026-04-19 15:30:00+00:00,33,PL,Manchester City FC,Arsenal FC,HOME_TEAM,2,1
+2026-04-19 16:00:00+00:00,33,SA,AC Pisa 1909,Genoa CFC,AWAY_TEAM,1,2
+2026-04-19 17:30:00+00:00,30,BL1,Borussia Mönchengladbach,1. FSV Mainz 05,DRAW,1,1
+2026-04-19 18:45:00+00:00,30,FL1,Paris Saint-Germain FC,Olympique Lyonnais,AWAY_TEAM,1,2
+2026-04-19 18:45:00+00:00,33,SA,Juventus FC,Bologna FC 1909,HOME_TEAM,2,0
+2026-04-20 18:45:00+00:00,33,SA,US Lecce,ACF Fiorentina,DRAW,1,1
+2026-04-20 19:00:00+00:00,33,PL,Crystal Palace FC,West Ham United FC,DRAW,0,0
+2026-04-21 17:00:00+00:00,33,PD,Athletic Club,CA Osasuna,HOME_TEAM,1,0
+2026-04-21 17:00:00+00:00,33,PD,RCD Mallorca,Valencia CF,DRAW,1,1
+2026-04-21 19:00:00+00:00,34,PL,Brighton & Hove Albion FC,Chelsea FC,HOME_TEAM,3,0
+2026-04-21 19:30:00+00:00,33,PD,Girona FC,Real Betis Balompié,AWAY_TEAM,2,3
+2026-04-21 19:30:00+00:00,33,PD,Real Madrid CF,Deportivo Alavés,HOME_TEAM,2,1
+2026-04-22 17:00:00+00:00,26,FL1,Paris Saint-Germain FC,FC Nantes,HOME_TEAM,3,0
+2026-04-22 17:00:00+00:00,33,PD,Elche CF,Club Atlético de Madrid,HOME_TEAM,3,2
+2026-04-22 18:00:00+00:00,33,PD,Real Sociedad de Fútbol,Getafe CF,AWAY_TEAM,0,1
+2026-04-22 19:00:00+00:00,34,PL,AFC Bournemouth,Leeds United FC,DRAW,2,2
+2026-04-22 19:00:00+00:00,34,PL,Burnley FC,Manchester City FC,AWAY_TEAM,0,1
+2026-04-22 19:30:00+00:00,33,PD,FC Barcelona,RC Celta de Vigo,HOME_TEAM,1,0
+2026-04-23 17:00:00+00:00,33,PD,Levante UD,Sevilla FC,HOME_TEAM,2,0
+2026-04-23 18:00:00+00:00,33,PD,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,HOME_TEAM,1,0
+2026-04-23 19:30:00+00:00,33,PD,Real Oviedo,Villarreal CF,DRAW,1,1
+2026-04-24 18:30:00+00:00,31,BL1,RB Leipzig,1. FC Union Berlin,HOME_TEAM,3,1
+2026-04-24 18:45:00+00:00,34,SA,SSC Napoli,US Cremonese,HOME_TEAM,4,0
+2026-04-24 18:45:00+00:00,31,FL1,Stade Brestois 29,Racing Club de Lens,DRAW,3,3
+2026-04-24 19:00:00+00:00,34,PL,Sunderland AFC,Nottingham Forest FC,AWAY_TEAM,0,5
+2026-04-24 19:00:00+00:00,32,PD,Real Betis Balompié,Real Madrid CF,DRAW,1,1
+2026-04-25 11:30:00+00:00,34,PL,Fulham FC,Aston Villa FC,HOME_TEAM,1,0
+2026-04-25 12:00:00+00:00,32,PD,Deportivo Alavés,RCD Mallorca,HOME_TEAM,2,1
+2026-04-25 13:00:00+00:00,31,FL1,Olympique Lyonnais,AJ Auxerre,HOME_TEAM,3,2
+2026-04-25 13:00:00+00:00,34,SA,Parma Calcio 1913,AC Pisa 1909,HOME_TEAM,1,0
+2026-04-25 13:30:00+00:00,31,BL1,1. FSV Mainz 05,FC Bayern München,AWAY_TEAM,3,4
+2026-04-25 13:30:00+00:00,31,BL1,1. FC Heidenheim 1846,FC St. Pauli 1910,HOME_TEAM,2,0
+2026-04-25 13:30:00+00:00,31,BL1,VfL Wolfsburg,Borussia Mönchengladbach,DRAW,0,0
+2026-04-25 13:30:00+00:00,31,BL1,1. FC Köln,Bayer 04 Leverkusen,AWAY_TEAM,1,2
+2026-04-25 13:30:00+00:00,31,BL1,FC Augsburg,Eintracht Frankfurt,DRAW,1,1
+2026-04-25 14:00:00+00:00,34,PL,Liverpool FC,Crystal Palace FC,HOME_TEAM,3,1
+2026-04-25 14:00:00+00:00,34,PL,Wolverhampton Wanderers FC,Tottenham Hotspur FC,AWAY_TEAM,0,1
+2026-04-25 14:00:00+00:00,34,PL,West Ham United FC,Everton FC,HOME_TEAM,2,1
+2026-04-25 14:15:00+00:00,32,PD,Getafe CF,FC Barcelona,AWAY_TEAM,0,2
+2026-04-25 16:00:00+00:00,34,SA,Bologna FC 1909,AS Roma,AWAY_TEAM,0,2
+2026-04-25 16:30:00+00:00,31,BL1,Hamburger SV,TSG 1899 Hoffenheim,AWAY_TEAM,1,2
+2026-04-25 16:30:00+00:00,34,PL,Arsenal FC,Newcastle United FC,HOME_TEAM,1,0
+2026-04-25 16:30:00+00:00,32,PD,Valencia CF,Girona FC,HOME_TEAM,2,1
+2026-04-25 17:00:00+00:00,31,FL1,Angers SCO,Paris Saint-Germain FC,AWAY_TEAM,0,3
+2026-04-25 18:45:00+00:00,34,SA,Hellas Verona FC,US Lecce,DRAW,0,0
+2026-04-25 19:00:00+00:00,32,PD,Club Atlético de Madrid,Athletic Club,HOME_TEAM,3,2
+2026-04-25 19:05:00+00:00,31,FL1,Toulouse FC,AS Monaco FC,DRAW,2,2
+2026-04-26 10:30:00+00:00,34,SA,ACF Fiorentina,US Sassuolo Calcio,DRAW,0,0
+2026-04-26 12:00:00+00:00,32,PD,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,DRAW,3,3
+2026-04-26 13:00:00+00:00,31,FL1,FC Lorient,RC Strasbourg Alsace,AWAY_TEAM,2,3
+2026-04-26 13:00:00+00:00,34,SA,Genoa CFC,Como 1907,AWAY_TEAM,0,2
+2026-04-26 13:30:00+00:00,31,BL1,VfB Stuttgart,SV Werder Bremen,DRAW,1,1
+2026-04-26 14:15:00+00:00,32,PD,Real Oviedo,Elche CF,AWAY_TEAM,1,2
+2026-04-26 15:15:00+00:00,31,FL1,Stade Rennais FC 1901,FC Nantes,HOME_TEAM,2,1
+2026-04-26 15:15:00+00:00,31,FL1,Paris FC,Lille OSC,AWAY_TEAM,0,1
+2026-04-26 15:15:00+00:00,31,FL1,Le Havre AC,FC Metz,DRAW,4,4
+2026-04-26 15:30:00+00:00,31,BL1,Borussia Dortmund,SC Freiburg,HOME_TEAM,4,0
+2026-04-26 16:00:00+00:00,34,SA,Torino FC,FC Internazionale Milano,DRAW,2,2
+2026-04-26 16:30:00+00:00,32,PD,CA Osasuna,Sevilla FC,HOME_TEAM,2,1
+2026-04-26 18:45:00+00:00,34,SA,AC Milan,Juventus FC,DRAW,0,0
+2026-04-26 18:45:00+00:00,31,FL1,Olympique de Marseille,OGC Nice,DRAW,1,1
+2026-04-26 19:00:00+00:00,32,PD,Villarreal CF,RC Celta de Vigo,HOME_TEAM,2,1
+2026-04-27 16:30:00+00:00,34,SA,Cagliari Calcio,Atalanta BC,HOME_TEAM,3,2
+2026-04-27 18:45:00+00:00,34,SA,SS Lazio,Udinese Calcio,DRAW,3,3
+2026-04-27 19:00:00+00:00,32,PD,RCD Espanyol de Barcelona,Levante UD,DRAW,0,0
+2026-04-27 19:00:00+00:00,34,PL,Manchester United FC,Brentford FC,HOME_TEAM,2,1
+2026-05-01 18:45:00+00:00,35,SA,AC Pisa 1909,US Lecce,AWAY_TEAM,1,2
+2026-05-01 19:00:00+00:00,35,PL,Leeds United FC,Burnley FC,HOME_TEAM,3,1
+2026-05-01 19:00:00+00:00,34,PD,Girona FC,RCD Mallorca,AWAY_TEAM,0,1
+2026-05-02 12:00:00+00:00,34,PD,Villarreal CF,Levante UD,HOME_TEAM,5,1
+2026-05-02 13:00:00+00:00,32,FL1,FC Nantes,Olympique de Marseille,HOME_TEAM,3,0
+2026-05-02 13:00:00+00:00,35,SA,Udinese Calcio,Torino FC,HOME_TEAM,2,0
+2026-05-02 13:30:00+00:00,32,BL1,SV Werder Bremen,FC Augsburg,AWAY_TEAM,1,3
+2026-05-02 13:30:00+00:00,32,BL1,FC Bayern München,1. FC Heidenheim 1846,DRAW,3,3
+2026-05-02 13:30:00+00:00,32,BL1,1. FC Union Berlin,1. FC Köln,DRAW,2,2
+2026-05-02 13:30:00+00:00,32,BL1,Eintracht Frankfurt,Hamburger SV,AWAY_TEAM,1,2
+2026-05-02 13:30:00+00:00,32,BL1,TSG 1899 Hoffenheim,VfB Stuttgart,DRAW,3,3
+2026-05-02 14:00:00+00:00,35,PL,Brentford FC,West Ham United FC,HOME_TEAM,3,0
+2026-05-02 14:00:00+00:00,35,PL,Newcastle United FC,Brighton & Hove Albion FC,HOME_TEAM,3,1
+2026-05-02 14:00:00+00:00,35,PL,Wolverhampton Wanderers FC,Sunderland AFC,DRAW,1,1
+2026-05-02 14:15:00+00:00,34,PD,Valencia CF,Club Atlético de Madrid,AWAY_TEAM,0,2
+2026-05-02 15:00:00+00:00,32,FL1,Paris Saint-Germain FC,FC Lorient,DRAW,2,2
+2026-05-02 16:00:00+00:00,35,SA,Como 1907,SSC Napoli,DRAW,0,0
+2026-05-02 16:30:00+00:00,35,PL,Arsenal FC,Fulham FC,HOME_TEAM,3,0
+2026-05-02 16:30:00+00:00,32,BL1,Bayer 04 Leverkusen,RB Leipzig,HOME_TEAM,4,1
+2026-05-02 16:30:00+00:00,34,PD,Deportivo Alavés,Athletic Club,AWAY_TEAM,2,4
+2026-05-02 17:00:00+00:00,32,FL1,FC Metz,AS Monaco FC,AWAY_TEAM,1,2
+2026-05-02 18:45:00+00:00,35,SA,Atalanta BC,Genoa CFC,DRAW,0,0
+2026-05-02 19:00:00+00:00,34,PD,CA Osasuna,FC Barcelona,AWAY_TEAM,1,2
+2026-05-02 19:05:00+00:00,32,FL1,OGC Nice,Racing Club de Lens,DRAW,1,1
+2026-05-03 10:30:00+00:00,35,SA,Bologna FC 1909,Cagliari Calcio,DRAW,0,0
+2026-05-03 12:00:00+00:00,34,PD,RC Celta de Vigo,Elche CF,HOME_TEAM,3,1
+2026-05-03 13:00:00+00:00,35,SA,US Sassuolo Calcio,AC Milan,HOME_TEAM,2,0
+2026-05-03 13:00:00+00:00,35,PL,AFC Bournemouth,Crystal Palace FC,HOME_TEAM,3,0
+2026-05-03 13:00:00+00:00,32,FL1,Lille OSC,Le Havre AC,DRAW,1,1
+2026-05-03 13:30:00+00:00,32,BL1,FC St. Pauli 1910,1. FSV Mainz 05,AWAY_TEAM,1,2
+2026-05-03 14:15:00+00:00,34,PD,Getafe CF,Rayo Vallecano de Madrid,AWAY_TEAM,0,2
+2026-05-03 14:30:00+00:00,35,PL,Manchester United FC,Liverpool FC,HOME_TEAM,3,2
+2026-05-03 15:15:00+00:00,32,FL1,AJ Auxerre,Angers SCO,HOME_TEAM,3,1
+2026-05-03 15:15:00+00:00,32,FL1,Paris FC,Stade Brestois 29,HOME_TEAM,4,0
+2026-05-03 15:15:00+00:00,32,FL1,RC Strasbourg Alsace,Toulouse FC,AWAY_TEAM,1,2
+2026-05-03 15:30:00+00:00,32,BL1,Borussia Mönchengladbach,Borussia Dortmund,HOME_TEAM,1,0
+2026-05-03 16:00:00+00:00,35,SA,Juventus FC,Hellas Verona FC,DRAW,1,1
+2026-05-03 16:30:00+00:00,34,PD,Real Betis Balompié,Real Oviedo,HOME_TEAM,3,0
+2026-05-03 17:30:00+00:00,32,BL1,SC Freiburg,VfL Wolfsburg,DRAW,1,1
+2026-05-03 18:00:00+00:00,35,PL,Aston Villa FC,Tottenham Hotspur FC,AWAY_TEAM,1,2
+2026-05-03 18:45:00+00:00,35,SA,FC Internazionale Milano,Parma Calcio 1913,HOME_TEAM,2,0
+2026-05-03 18:45:00+00:00,32,FL1,Olympique Lyonnais,Stade Rennais FC 1901,HOME_TEAM,4,2
+2026-05-03 19:00:00+00:00,34,PD,RCD Espanyol de Barcelona,Real Madrid CF,AWAY_TEAM,0,2
+2026-05-04 14:00:00+00:00,35,PL,Chelsea FC,Nottingham Forest FC,AWAY_TEAM,1,3
+2026-05-04 16:30:00+00:00,35,SA,US Cremonese,SS Lazio,AWAY_TEAM,1,2
+2026-05-04 18:45:00+00:00,35,SA,AS Roma,ACF Fiorentina,HOME_TEAM,4,0
+2026-05-04 19:00:00+00:00,35,PL,Everton FC,Manchester City FC,DRAW,3,3
+2026-05-04 19:00:00+00:00,34,PD,Sevilla FC,Real Sociedad de Fútbol,HOME_TEAM,1,0
+2026-05-08 18:30:00+00:00,33,BL1,Borussia Dortmund,Eintracht Frankfurt,HOME_TEAM,3,2
+2026-05-08 18:45:00+00:00,33,FL1,Racing Club de Lens,FC Nantes,HOME_TEAM,1,0
+2026-05-08 18:45:00+00:00,36,SA,Torino FC,US Sassuolo Calcio,HOME_TEAM,2,1
+2026-05-08 19:00:00+00:00,35,PD,Levante UD,CA Osasuna,HOME_TEAM,3,2
+2026-05-09 11:30:00+00:00,36,PL,Liverpool FC,Chelsea FC,DRAW,1,1
+2026-05-09 12:00:00+00:00,35,PD,Elche CF,Deportivo Alavés,DRAW,1,1
+2026-05-09 13:00:00+00:00,36,SA,Cagliari Calcio,Udinese Calcio,AWAY_TEAM,0,2
+2026-05-09 13:30:00+00:00,33,BL1,VfB Stuttgart,Bayer 04 Leverkusen,HOME_TEAM,3,1
+2026-05-09 13:30:00+00:00,33,BL1,TSG 1899 Hoffenheim,SV Werder Bremen,HOME_TEAM,1,0
+2026-05-09 13:30:00+00:00,33,BL1,FC Augsburg,Borussia Mönchengladbach,HOME_TEAM,3,1
+2026-05-09 13:30:00+00:00,33,BL1,RB Leipzig,FC St. Pauli 1910,HOME_TEAM,2,1
+2026-05-09 14:00:00+00:00,36,PL,Sunderland AFC,Manchester United FC,DRAW,0,0
+2026-05-09 14:00:00+00:00,36,PL,Fulham FC,AFC Bournemouth,AWAY_TEAM,0,1
+2026-05-09 14:00:00+00:00,36,PL,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,HOME_TEAM,3,0
+2026-05-09 14:15:00+00:00,35,PD,Sevilla FC,RCD Espanyol de Barcelona,HOME_TEAM,2,1
+2026-05-09 16:00:00+00:00,36,SA,SS Lazio,FC Internazionale Milano,AWAY_TEAM,0,3
+2026-05-09 16:30:00+00:00,33,BL1,VfL Wolfsburg,FC Bayern München,AWAY_TEAM,0,1
+2026-05-09 16:30:00+00:00,35,PD,Club Atlético de Madrid,RC Celta de Vigo,AWAY_TEAM,0,1
+2026-05-09 16:30:00+00:00,36,PL,Manchester City FC,Brentford FC,HOME_TEAM,3,0
+2026-05-09 18:45:00+00:00,36,SA,US Lecce,Juventus FC,AWAY_TEAM,0,1
+2026-05-09 19:00:00+00:00,35,PD,Real Sociedad de Fútbol,Real Betis Balompié,DRAW,2,2
+2026-05-10 10:30:00+00:00,36,SA,Hellas Verona FC,Como 1907,AWAY_TEAM,0,1
+2026-05-10 12:00:00+00:00,35,PD,RCD Mallorca,Villarreal CF,DRAW,1,1
+2026-05-10 13:00:00+00:00,36,SA,ACF Fiorentina,Genoa CFC,DRAW,0,0
+2026-05-10 13:00:00+00:00,36,PL,Nottingham Forest FC,Newcastle United FC,DRAW,1,1
+2026-05-10 13:00:00+00:00,36,SA,US Cremonese,AC Pisa 1909,HOME_TEAM,3,0
+2026-05-10 13:00:00+00:00,36,PL,Burnley FC,Aston Villa FC,DRAW,2,2
+2026-05-10 13:00:00+00:00,36,PL,Crystal Palace FC,Everton FC,DRAW,2,2
+2026-05-10 13:30:00+00:00,33,BL1,Hamburger SV,SC Freiburg,HOME_TEAM,3,2
+2026-05-10 14:15:00+00:00,35,PD,Athletic Club,Valencia CF,AWAY_TEAM,0,1
+2026-05-10 15:30:00+00:00,33,BL1,1. FC Köln,1. FC Heidenheim 1846,AWAY_TEAM,1,3
+2026-05-10 15:30:00+00:00,36,PL,West Ham United FC,Arsenal FC,AWAY_TEAM,0,1
+2026-05-10 16:00:00+00:00,36,SA,Parma Calcio 1913,AS Roma,AWAY_TEAM,2,3
+2026-05-10 16:30:00+00:00,35,PD,Real Oviedo,Getafe CF,DRAW,0,0
+2026-05-10 17:30:00+00:00,33,BL1,1. FSV Mainz 05,1. FC Union Berlin,AWAY_TEAM,1,3
+2026-05-10 18:45:00+00:00,36,SA,AC Milan,Atalanta BC,AWAY_TEAM,2,3
+2026-05-10 19:00:00+00:00,33,FL1,Stade Rennais FC 1901,Paris FC,HOME_TEAM,2,1
+2026-05-10 19:00:00+00:00,35,PD,FC Barcelona,Real Madrid CF,HOME_TEAM,2,0
+2026-05-10 19:00:00+00:00,33,FL1,Le Havre AC,Olympique de Marseille,AWAY_TEAM,0,1
+2026-05-10 19:00:00+00:00,33,FL1,AJ Auxerre,OGC Nice,HOME_TEAM,2,1
+2026-05-10 19:00:00+00:00,33,FL1,AS Monaco FC,Lille OSC,AWAY_TEAM,0,1
+2026-05-10 19:00:00+00:00,33,FL1,FC Metz,FC Lorient,AWAY_TEAM,0,4
+2026-05-10 19:00:00+00:00,33,FL1,Toulouse FC,Olympique Lyonnais,HOME_TEAM,2,1
+2026-05-10 19:00:00+00:00,33,FL1,Paris Saint-Germain FC,Stade Brestois 29,HOME_TEAM,1,0
+2026-05-10 19:00:00+00:00,33,FL1,Angers SCO,RC Strasbourg Alsace,DRAW,1,1
+2026-05-11 18:45:00+00:00,36,SA,SSC Napoli,Bologna FC 1909,AWAY_TEAM,2,3
+2026-05-11 19:00:00+00:00,36,PL,Tottenham Hotspur FC,Leeds United FC,DRAW,1,1
+2026-05-11 19:00:00+00:00,35,PD,Rayo Vallecano de Madrid,Girona FC,DRAW,1,1
+2026-05-12 17:00:00+00:00,36,PD,RC Celta de Vigo,Levante UD,AWAY_TEAM,2,3
+2026-05-12 18:00:00+00:00,36,PD,Real Betis Balompié,Elche CF,HOME_TEAM,2,1
+2026-05-12 19:30:00+00:00,36,PD,CA Osasuna,Club Atlético de Madrid,AWAY_TEAM,1,2
+2026-05-13 17:00:00+00:00,36,PD,RCD Espanyol de Barcelona,Athletic Club,HOME_TEAM,2,0
+2026-05-13 17:00:00+00:00,36,PD,Villarreal CF,Sevilla FC,AWAY_TEAM,2,3
+2026-05-13 17:00:00+00:00,29,FL1,Stade Brestois 29,RC Strasbourg Alsace,AWAY_TEAM,1,2
+2026-05-13 19:00:00+00:00,31,PL,Manchester City FC,Crystal Palace FC,HOME_TEAM,3,0
+2026-05-13 19:00:00+00:00,29,FL1,Racing Club de Lens,Paris Saint-Germain FC,AWAY_TEAM,0,2
+2026-05-13 19:30:00+00:00,36,PD,Deportivo Alavés,FC Barcelona,HOME_TEAM,1,0
+2026-05-13 19:30:00+00:00,36,PD,Getafe CF,RCD Mallorca,HOME_TEAM,3,1
+2026-05-14 17:00:00+00:00,36,PD,Valencia CF,Rayo Vallecano de Madrid,DRAW,1,1
+2026-05-14 18:00:00+00:00,36,PD,Girona FC,Real Sociedad de Fútbol,DRAW,1,1
+2026-05-14 19:30:00+00:00,36,PD,Real Madrid CF,Real Oviedo,HOME_TEAM,2,0
+2026-05-15 19:00:00+00:00,37,PL,Aston Villa FC,Liverpool FC,HOME_TEAM,4,2
+2026-05-16 13:30:00+00:00,34,BL1,FC St. Pauli 1910,VfL Wolfsburg,AWAY_TEAM,1,3
+2026-05-16 13:30:00+00:00,34,BL1,Eintracht Frankfurt,VfB Stuttgart,DRAW,2,2
+2026-05-16 13:30:00+00:00,34,BL1,SV Werder Bremen,Borussia Dortmund,AWAY_TEAM,0,2
+2026-05-16 13:30:00+00:00,34,BL1,1. FC Union Berlin,FC Augsburg,HOME_TEAM,4,0
+2026-05-16 13:30:00+00:00,34,BL1,Borussia Mönchengladbach,TSG 1899 Hoffenheim,HOME_TEAM,4,0
+2026-05-16 13:30:00+00:00,34,BL1,FC Bayern München,1. FC Köln,HOME_TEAM,5,1
+2026-05-16 13:30:00+00:00,34,BL1,Bayer 04 Leverkusen,Hamburger SV,DRAW,1,1
+2026-05-16 13:30:00+00:00,34,BL1,SC Freiburg,RB Leipzig,HOME_TEAM,4,1
+2026-05-16 13:30:00+00:00,34,BL1,1. FC Heidenheim 1846,1. FSV Mainz 05,AWAY_TEAM,0,2
+2026-05-17 10:00:00+00:00,37,SA,Genoa CFC,AC Milan,AWAY_TEAM,1,2
+2026-05-17 10:00:00+00:00,37,SA,AC Pisa 1909,SSC Napoli,AWAY_TEAM,0,3
+2026-05-17 10:00:00+00:00,37,SA,Juventus FC,ACF Fiorentina,AWAY_TEAM,0,2
+2026-05-17 10:00:00+00:00,37,SA,Como 1907,Parma Calcio 1913,HOME_TEAM,1,0
+2026-05-17 10:00:00+00:00,37,SA,AS Roma,SS Lazio,HOME_TEAM,2,0
+2026-05-17 11:30:00+00:00,37,PL,Manchester United FC,Nottingham Forest FC,HOME_TEAM,3,2
+2026-05-17 13:00:00+00:00,37,SA,FC Internazionale Milano,Hellas Verona FC,DRAW,1,1
+2026-05-17 14:00:00+00:00,37,PL,Brentford FC,Crystal Palace FC,DRAW,2,2
+2026-05-17 14:00:00+00:00,37,PL,Everton FC,Sunderland AFC,AWAY_TEAM,1,3
+2026-05-17 14:00:00+00:00,37,PL,Leeds United FC,Brighton & Hove Albion FC,HOME_TEAM,1,0
+2026-05-17 14:00:00+00:00,37,PL,Wolverhampton Wanderers FC,Fulham FC,DRAW,1,1
+2026-05-17 16:00:00+00:00,37,SA,Atalanta BC,Bologna FC 1909,AWAY_TEAM,0,1
+2026-05-17 16:30:00+00:00,37,PL,Newcastle United FC,West Ham United FC,HOME_TEAM,3,1
+2026-05-17 17:00:00+00:00,37,PD,Athletic Club,RC Celta de Vigo,DRAW,1,1
+2026-05-17 17:00:00+00:00,37,PD,Elche CF,Getafe CF,HOME_TEAM,1,0
+2026-05-17 17:00:00+00:00,37,PD,Levante UD,RCD Mallorca,HOME_TEAM,2,0
+2026-05-17 17:00:00+00:00,37,PD,Rayo Vallecano de Madrid,Villarreal CF,HOME_TEAM,2,0
+2026-05-17 17:00:00+00:00,37,PD,Real Sociedad de Fútbol,Valencia CF,AWAY_TEAM,3,4
+2026-05-17 17:00:00+00:00,37,PD,Real Oviedo,Deportivo Alavés,AWAY_TEAM,0,1
+2026-05-17 17:00:00+00:00,37,PD,CA Osasuna,RCD Espanyol de Barcelona,AWAY_TEAM,1,2
+2026-05-17 17:00:00+00:00,37,PD,Sevilla FC,Real Madrid CF,AWAY_TEAM,0,1
+2026-05-17 17:00:00+00:00,37,PD,Club Atlético de Madrid,Girona FC,HOME_TEAM,1,0
+2026-05-17 18:45:00+00:00,37,SA,Cagliari Calcio,Torino FC,HOME_TEAM,2,1
+2026-05-17 18:45:00+00:00,37,SA,US Sassuolo Calcio,US Lecce,AWAY_TEAM,2,3
+2026-05-17 18:45:00+00:00,37,SA,Udinese Calcio,US Cremonese,AWAY_TEAM,0,1
+2026-05-17 19:00:00+00:00,34,FL1,OGC Nice,FC Metz,DRAW,0,0
+2026-05-17 19:00:00+00:00,34,FL1,Paris FC,Paris Saint-Germain FC,HOME_TEAM,2,1
+2026-05-17 19:00:00+00:00,34,FL1,FC Nantes,Toulouse FC,DRAW,0,0
+2026-05-17 19:00:00+00:00,34,FL1,FC Lorient,Le Havre AC,AWAY_TEAM,0,2
+2026-05-17 19:00:00+00:00,34,FL1,RC Strasbourg Alsace,AS Monaco FC,HOME_TEAM,5,4
+2026-05-17 19:00:00+00:00,34,FL1,Olympique de Marseille,Stade Rennais FC 1901,HOME_TEAM,3,1
+2026-05-17 19:00:00+00:00,34,FL1,Lille OSC,AJ Auxerre,AWAY_TEAM,0,2
+2026-05-17 19:00:00+00:00,34,FL1,Olympique Lyonnais,Racing Club de Lens,AWAY_TEAM,0,4
+2026-05-17 19:00:00+00:00,34,FL1,Stade Brestois 29,Angers SCO,DRAW,1,1
+2026-05-17 19:15:00+00:00,37,PD,FC Barcelona,Real Betis Balompié,HOME_TEAM,3,1
+2026-05-18 19:00:00+00:00,37,PL,Arsenal FC,Burnley FC,HOME_TEAM,1,0
+2026-05-19 18:30:00+00:00,37,PL,AFC Bournemouth,Manchester City FC,DRAW,1,1
+2026-05-19 19:15:00+00:00,37,PL,Chelsea FC,Tottenham Hotspur FC,HOME_TEAM,2,1
+2026-05-22 18:45:00+00:00,38,SA,ACF Fiorentina,Atalanta BC,DRAW,1,1
+2026-05-23 16:00:00+00:00,38,SA,Bologna FC 1909,FC Internazionale Milano,DRAW,3,3
+2026-05-23 18:45:00+00:00,38,SA,SS Lazio,AC Pisa 1909,HOME_TEAM,2,1
+2026-05-23 19:00:00+00:00,38,PD,Girona FC,Elche CF,DRAW,1,1
+2026-05-23 19:00:00+00:00,38,PD,RCD Mallorca,Real Oviedo,HOME_TEAM,3,0
+2026-05-23 19:00:00+00:00,38,PD,Real Madrid CF,Athletic Club,HOME_TEAM,4,2
+2026-05-23 19:00:00+00:00,38,PD,Getafe CF,CA Osasuna,HOME_TEAM,1,0
+2026-05-23 19:00:00+00:00,38,PD,Deportivo Alavés,Rayo Vallecano de Madrid,AWAY_TEAM,1,2
+2026-05-23 19:00:00+00:00,38,PD,Real Betis Balompié,Levante UD,HOME_TEAM,2,1
+2026-05-23 19:00:00+00:00,38,PD,RC Celta de Vigo,Sevilla FC,HOME_TEAM,1,0
+2026-05-23 19:00:00+00:00,38,PD,Valencia CF,FC Barcelona,HOME_TEAM,3,1
+2026-05-23 19:00:00+00:00,38,PD,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,DRAW,1,1
+2026-05-24 13:00:00+00:00,38,SA,Parma Calcio 1913,US Sassuolo Calcio,HOME_TEAM,1,0
+2026-05-24 15:00:00+00:00,38,PL,Brighton & Hove Albion FC,Manchester United FC,AWAY_TEAM,0,3
+2026-05-24 15:00:00+00:00,38,PL,Crystal Palace FC,Arsenal FC,AWAY_TEAM,1,2
+2026-05-24 15:00:00+00:00,38,PL,Sunderland AFC,Chelsea FC,HOME_TEAM,2,1
+2026-05-24 15:00:00+00:00,38,PL,Fulham FC,Newcastle United FC,HOME_TEAM,2,0
+2026-05-24 15:00:00+00:00,38,PL,Manchester City FC,Aston Villa FC,AWAY_TEAM,1,2
+2026-05-24 15:00:00+00:00,38,PL,Nottingham Forest FC,AFC Bournemouth,DRAW,1,1
+2026-05-24 15:00:00+00:00,38,PL,Tottenham Hotspur FC,Everton FC,HOME_TEAM,1,0
+2026-05-24 15:00:00+00:00,38,PL,West Ham United FC,Leeds United FC,HOME_TEAM,3,0
+2026-05-24 15:00:00+00:00,38,PL,Burnley FC,Wolverhampton Wanderers FC,DRAW,1,1
+2026-05-24 15:00:00+00:00,38,PL,Liverpool FC,Brentford FC,DRAW,1,1
+2026-05-24 16:00:00+00:00,38,SA,SSC Napoli,Udinese Calcio,HOME_TEAM,1,0
+2026-05-24 18:45:00+00:00,38,SA,AC Milan,Cagliari Calcio,AWAY_TEAM,1,2
+2026-05-24 18:45:00+00:00,38,SA,Hellas Verona FC,AS Roma,AWAY_TEAM,0,2
+2026-05-24 18:45:00+00:00,38,SA,US Cremonese,Como 1907,AWAY_TEAM,1,4
+2026-05-24 18:45:00+00:00,38,SA,US Lecce,Genoa CFC,HOME_TEAM,1,0
+2026-05-24 19:00:00+00:00,38,PD,Villarreal CF,Club Atlético de Madrid,HOME_TEAM,5,1
+2026-05-24 19:45:00+00:00,38,SA,Torino FC,Juventus FC,DRAW,2,2
